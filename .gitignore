@@ -1,13 +1,2 @@
 .DS_Store
 .idea/
-
-# APK reverse-engineering binary artifacts
-*.apk
-*.idsig
-*.jks
-*.dex
-*.so
-*.arsc
-*.bin
-*.psd
-*.ttf
