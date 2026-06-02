@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2058844237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b54ccf4244ab876fd397b9a75af44d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6b54ccf4244ab876fd397b9a75af44d8
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/home/luascript/init/account.txt
+- Assets/Temp/home/luascript/init/g_dxg.txt
+- Assets/Temp/home/luascript/init/global_data.txt
+- Assets/Temp/home/luascript/init/init.txt
+- Assets/Temp/home/luascript/init/debug.txt
+Dependencies: []

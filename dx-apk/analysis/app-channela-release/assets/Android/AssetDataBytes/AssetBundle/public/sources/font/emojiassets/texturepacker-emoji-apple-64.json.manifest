@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 892736010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f214a1802112c314d95b9100b42d42a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f214a1802112c314d95b9100b42d42a5
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/public/Sources/Font/EmojiAssets/texturepacker-emoji-apple-64.json
+Dependencies: []

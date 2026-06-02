@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 790363898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e393667e05cd65ba20d5b0c71dd005e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e393667e05cd65ba20d5b0c71dd005e9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/home/Sources/Modules/Common/Image/btn_icon_quxiao.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/img_bg_ditu.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/img_huawen.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/btn_icon_queding.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/image.spriteatlas
+- Assets/3DGame/home/Sources/Modules/Common/Image/btn_quding_big.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/img_bg_tiao_big.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/btn_guanbi.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/img_logo_tishi.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/img_bg_tiao.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/btn_quxiao_02.png
+- Assets/3DGame/home/Sources/Modules/Common/Image/img_bg_dibeijing.png
+Dependencies: []

@@ -1,0 +1,2350 @@
+{
+  "metadata": {
+    "package": "dz_game",
+    "version": "1.0.0",
+    "generated": "2026-05-23T12:05:04.774953",
+    "totalResources": 401,
+    "totalCategories": 55
+  },
+  "categories": {
+    "3rd/dpoker": {
+      "resourceCount": 1,
+      "totalSize": 4297,
+      "resources": [
+        {
+          "path": "3rd/dpoker/tableLogo.png",
+          "size": 4297,
+          "fileName": "tableLogo.png"
+        }
+      ]
+    },
+    "chips": {
+      "resourceCount": 12,
+      "totalSize": 150861,
+      "resources": [
+        {
+          "path": "chips/game_chip_0.png",
+          "size": 12669,
+          "fileName": "game_chip_0.png"
+        },
+        {
+          "path": "chips/game_chip_1.png",
+          "size": 12539,
+          "fileName": "game_chip_1.png"
+        },
+        {
+          "path": "chips/game_chip_10.png",
+          "size": 12001,
+          "fileName": "game_chip_10.png"
+        },
+        {
+          "path": "chips/game_chip_11.png",
+          "size": 12746,
+          "fileName": "game_chip_11.png"
+        },
+        {
+          "path": "chips/game_chip_2.png",
+          "size": 12731,
+          "fileName": "game_chip_2.png"
+        },
+        {
+          "path": "chips/game_chip_3.png",
+          "size": 12789,
+          "fileName": "game_chip_3.png"
+        },
+        {
+          "path": "chips/game_chip_4.png",
+          "size": 12715,
+          "fileName": "game_chip_4.png"
+        },
+        {
+          "path": "chips/game_chip_5.png",
+          "size": 12698,
+          "fileName": "game_chip_5.png"
+        },
+        {
+          "path": "chips/game_chip_6.png",
+          "size": 12721,
+          "fileName": "game_chip_6.png"
+        },
+        {
+          "path": "chips/game_chip_7.png",
+          "size": 12357,
+          "fileName": "game_chip_7.png"
+        },
+        {
+          "path": "chips/game_chip_8.png",
+          "size": 12268,
+          "fileName": "game_chip_8.png"
+        },
+        {
+          "path": "chips/game_chip_9.png",
+          "size": 12627,
+          "fileName": "game_chip_9.png"
+        }
+      ]
+    },
+    "dzpoker/aiinsure": {
+      "resourceCount": 16,
+      "totalSize": 9024,
+      "resources": [
+        {
+          "path": "dzpoker/aiinsure/blue_checkmark.png",
+          "size": 565,
+          "fileName": "blue_checkmark.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/cancelbuy.png",
+          "size": 1179,
+          "fileName": "cancelbuy.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/control_chip_tips_bg.png",
+          "size": 413,
+          "fileName": "control_chip_tips_bg.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_baoben.png",
+          "size": 548,
+          "fileName": "icon_baoben.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_baoben_disabled.png",
+          "size": 511,
+          "fileName": "icon_baoben_disabled.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_dengli.png",
+          "size": 469,
+          "fileName": "icon_dengli.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_dengli_disabled.png",
+          "size": 468,
+          "fileName": "icon_dengli_disabled.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_fullpool.png",
+          "size": 748,
+          "fileName": "icon_fullpool.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_fullpool_disabled.png",
+          "size": 671,
+          "fileName": "icon_fullpool_disabled.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_pool12.png",
+          "size": 502,
+          "fileName": "icon_pool12.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_pool12_disabled.png",
+          "size": 465,
+          "fileName": "icon_pool12_disabled.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_pool14.png",
+          "size": 524,
+          "fileName": "icon_pool14.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_pool14_disabled.png",
+          "size": 469,
+          "fileName": "icon_pool14_disabled.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_pool18.png",
+          "size": 494,
+          "fileName": "icon_pool18.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/icon_pool18_disabled.png",
+          "size": 499,
+          "fileName": "icon_pool18_disabled.png"
+        },
+        {
+          "path": "dzpoker/aiinsure/outs_card_t_flag.png",
+          "size": 499,
+          "fileName": "outs_card_t_flag.png"
+        }
+      ]
+    },
+    "dzpoker/animations": {
+      "resourceCount": 14,
+      "totalSize": 3883967,
+      "resources": [
+        {
+          "path": "dzpoker/animations/all_in_round.json",
+          "size": 10577,
+          "fileName": "all_in_round.json"
+        },
+        {
+          "path": "dzpoker/animations/all_in_round.png",
+          "size": 301634,
+          "fileName": "all_in_round.png"
+        },
+        {
+          "path": "dzpoker/animations/big_win_effect-0.json",
+          "size": 10813,
+          "fileName": "big_win_effect-0.json"
+        },
+        {
+          "path": "dzpoker/animations/big_win_effect-0.png",
+          "size": 1611639,
+          "fileName": "big_win_effect-0.png"
+        },
+        {
+          "path": "dzpoker/animations/big_win_effect-1.json",
+          "size": 605,
+          "fileName": "big_win_effect-1.json"
+        },
+        {
+          "path": "dzpoker/animations/big_win_effect-1.png",
+          "size": 33235,
+          "fileName": "big_win_effect-1.png"
+        },
+        {
+          "path": "dzpoker/animations/fire_slider_bg.json",
+          "size": 10839,
+          "fileName": "fire_slider_bg.json"
+        },
+        {
+          "path": "dzpoker/animations/fire_slider_bg.png",
+          "size": 609182,
+          "fileName": "fire_slider_bg.png"
+        },
+        {
+          "path": "dzpoker/animations/hight_card_bg.json",
+          "size": 551,
+          "fileName": "hight_card_bg.json"
+        },
+        {
+          "path": "dzpoker/animations/hight_card_bg.png",
+          "size": 12548,
+          "fileName": "hight_card_bg.png"
+        },
+        {
+          "path": "dzpoker/animations/showCard.json",
+          "size": 7967,
+          "fileName": "showCard.json"
+        },
+        {
+          "path": "dzpoker/animations/showCard.png",
+          "size": 1055772,
+          "fileName": "showCard.png"
+        },
+        {
+          "path": "dzpoker/animations/small_win_effect.json",
+          "size": 11205,
+          "fileName": "small_win_effect.json"
+        },
+        {
+          "path": "dzpoker/animations/small_win_effect.png",
+          "size": 207400,
+          "fileName": "small_win_effect.png"
+        }
+      ]
+    },
+    "dzpoker/animations_simple": {
+      "resourceCount": 21,
+      "totalSize": 6472468,
+      "resources": [
+        {
+          "path": "dzpoker/animations_simple/SquidGames_TipIcon.atlas",
+          "size": 179,
+          "fileName": "SquidGames_TipIcon.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_TipIcon.json",
+          "size": 1616,
+          "fileName": "SquidGames_TipIcon.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_TipIcon.png",
+          "size": 6520,
+          "fileName": "SquidGames_TipIcon.png"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_text.atlas",
+          "size": 168,
+          "fileName": "SquidGames_text.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_text.json",
+          "size": 687,
+          "fileName": "SquidGames_text.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_text.png",
+          "size": 4399,
+          "fileName": "SquidGames_text.png"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_wx_in.atlas",
+          "size": 664,
+          "fileName": "SquidGames_wx_in.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_wx_in.json",
+          "size": 84449,
+          "fileName": "SquidGames_wx_in.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_wx_in.png",
+          "size": 304457,
+          "fileName": "SquidGames_wx_in.png"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_yx_in.atlas",
+          "size": 925,
+          "fileName": "SquidGames_yx_in.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_yx_in.json",
+          "size": 86746,
+          "fileName": "SquidGames_yx_in.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/SquidGames_yx_in.png",
+          "size": 323666,
+          "fileName": "SquidGames_yx_in.png"
+        },
+        {
+          "path": "dzpoker/animations_simple/baopai_update.atlas",
+          "size": 4070,
+          "fileName": "baopai_update.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/baopai_update.json",
+          "size": 7863,
+          "fileName": "baopai_update.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/baopai_update.png",
+          "size": 5606075,
+          "fileName": "baopai_update.png"
+        },
+        {
+          "path": "dzpoker/animations_simple/baoxian_baopai.atlas",
+          "size": 111,
+          "fileName": "baoxian_baopai.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/baoxian_baopai.json",
+          "size": 499,
+          "fileName": "baoxian_baopai.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/baoxian_baopai.png",
+          "size": 14167,
+          "fileName": "baoxian_baopai.png"
+        },
+        {
+          "path": "dzpoker/animations_simple/baoxian_fire.atlas",
+          "size": 110,
+          "fileName": "baoxian_fire.atlas"
+        },
+        {
+          "path": "dzpoker/animations_simple/baoxian_fire.json",
+          "size": 535,
+          "fileName": "baoxian_fire.json"
+        },
+        {
+          "path": "dzpoker/animations_simple/baoxian_fire.png",
+          "size": 24562,
+          "fileName": "baoxian_fire.png"
+        }
+      ]
+    },
+    "dzpoker/audio": {
+      "resourceCount": 25,
+      "totalSize": 1044859,
+      "resources": [
+        {
+          "path": "dzpoker/audio/dz_Insurance_happen.mp3",
+          "size": 49963,
+          "fileName": "dz_Insurance_happen.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_allin_bgm.mp3",
+          "size": 119586,
+          "fileName": "dz_allin_bgm.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_check.mp3",
+          "size": 21986,
+          "fileName": "dz_check.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_chips_bet.mp3",
+          "size": 11217,
+          "fileName": "dz_chips_bet.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_chips_move.mp3",
+          "size": 42884,
+          "fileName": "dz_chips_move.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_fold.mp3",
+          "size": 15444,
+          "fileName": "dz_fold.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_money_circle_lock.mp3",
+          "size": 63370,
+          "fileName": "dz_money_circle_lock.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_nice_card.mp3",
+          "size": 74513,
+          "fileName": "dz_nice_card.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_op_my_turn.mp3",
+          "size": 21603,
+          "fileName": "dz_op_my_turn.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_river_fire_card.mp3",
+          "size": 96598,
+          "fileName": "dz_river_fire_card.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_room_I_win.mp3",
+          "size": 28460,
+          "fileName": "dz_room_I_win.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_send_card.mp3",
+          "size": 7880,
+          "fileName": "dz_send_card.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_send_community.mp3",
+          "size": 11015,
+          "fileName": "dz_send_community.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_show_handcard.mp3",
+          "size": 10028,
+          "fileName": "dz_show_handcard.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_shuff_card.mp3",
+          "size": 27838,
+          "fileName": "dz_shuff_card.mp3"
+        },
+        {
+          "path": "dzpoker/audio/dz_turn_fire_card.mp3",
+          "size": 48428,
+          "fileName": "dz_turn_fire_card.mp3"
+        },
+        {
+          "path": "dzpoker/audio/final_table.mp3",
+          "size": 67759,
+          "fileName": "final_table.mp3"
+        },
+        {
+          "path": "dzpoker/audio/man_allin_voice.mp3",
+          "size": 9245,
+          "fileName": "man_allin_voice.mp3"
+        },
+        {
+          "path": "dzpoker/audio/playChips.wav",
+          "size": 129072,
+          "fileName": "playChips.wav"
+        },
+        {
+          "path": "dzpoker/audio/turn_to_myself_operate.mp3",
+          "size": 25754,
+          "fileName": "turn_to_myself_operate.mp3"
+        },
+        {
+          "path": "dzpoker/audio/turn_to_myself_operate_en.mp3",
+          "size": 72774,
+          "fileName": "turn_to_myself_operate_en.mp3"
+        },
+        {
+          "path": "dzpoker/audio/turn_to_myself_operate_ja.mp3",
+          "size": 21728,
+          "fileName": "turn_to_myself_operate_ja.mp3"
+        },
+        {
+          "path": "dzpoker/audio/turn_to_myself_operate_ko.mp3",
+          "size": 29669,
+          "fileName": "turn_to_myself_operate_ko.mp3"
+        },
+        {
+          "path": "dzpoker/audio/turn_to_myself_operate_vi.mp3",
+          "size": 28800,
+          "fileName": "turn_to_myself_operate_vi.mp3"
+        },
+        {
+          "path": "dzpoker/audio/woman_allin_voice.mp3",
+          "size": 9245,
+          "fileName": "woman_allin_voice.mp3"
+        }
+      ]
+    },
+    "dzpoker/audio/cardType/zh/man": {
+      "resourceCount": 9,
+      "totalSize": 150076,
+      "resources": [
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_10.mp3",
+          "size": 19694,
+          "fileName": "dz_card_type_10.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_4.mp3",
+          "size": 10081,
+          "fileName": "dz_card_type_4.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_4_1.mp3",
+          "size": 35158,
+          "fileName": "dz_card_type_4_1.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_4_2.mp3",
+          "size": 32650,
+          "fileName": "dz_card_type_4_2.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_5.mp3",
+          "size": 10499,
+          "fileName": "dz_card_type_5.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_6.mp3",
+          "size": 10081,
+          "fileName": "dz_card_type_6.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_7.mp3",
+          "size": 10916,
+          "fileName": "dz_card_type_7.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_8.mp3",
+          "size": 10081,
+          "fileName": "dz_card_type_8.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/man/dz_card_type_9.mp3",
+          "size": 10916,
+          "fileName": "dz_card_type_9.mp3"
+        }
+      ]
+    },
+    "dzpoker/audio/cardType/zh/woman": {
+      "resourceCount": 9,
+      "totalSize": 165959,
+      "resources": [
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_10.mp3",
+          "size": 20112,
+          "fileName": "dz_card_type_10.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_4.mp3",
+          "size": 10499,
+          "fileName": "dz_card_type_4.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_4_1.mp3",
+          "size": 37666,
+          "fileName": "dz_card_type_4_1.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_4_2.mp3",
+          "size": 41428,
+          "fileName": "dz_card_type_4_2.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_5.mp3",
+          "size": 11334,
+          "fileName": "dz_card_type_5.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_6.mp3",
+          "size": 10081,
+          "fileName": "dz_card_type_6.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_7.mp3",
+          "size": 10081,
+          "fileName": "dz_card_type_7.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_8.mp3",
+          "size": 10916,
+          "fileName": "dz_card_type_8.mp3"
+        },
+        {
+          "path": "dzpoker/audio/cardType/zh/woman/dz_card_type_9.mp3",
+          "size": 13842,
+          "fileName": "dz_card_type_9.mp3"
+        }
+      ]
+    },
+    "dzpoker/betstatus": {
+      "resourceCount": 2,
+      "totalSize": 3058,
+      "resources": [
+        {
+          "path": "dzpoker/betstatus/game_player_operation_allin.png",
+          "size": 2123,
+          "fileName": "game_player_operation_allin.png"
+        },
+        {
+          "path": "dzpoker/betstatus/game_player_operation_delay.png",
+          "size": 935,
+          "fileName": "game_player_operation_delay.png"
+        }
+      ]
+    },
+    "dzpoker/common": {
+      "resourceCount": 1,
+      "totalSize": 3338,
+      "resources": [
+        {
+          "path": "dzpoker/common/blur_chip.png",
+          "size": 3338,
+          "fileName": "blur_chip.png"
+        }
+      ]
+    },
+    "dzpoker/drawingcard": {
+      "resourceCount": 18,
+      "totalSize": 21008,
+      "resources": [
+        {
+          "path": "dzpoker/drawingcard/card_any_10.png",
+          "size": 1184,
+          "fileName": "card_any_10.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_2.png",
+          "size": 1185,
+          "fileName": "card_any_2.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_3.png",
+          "size": 1217,
+          "fileName": "card_any_3.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_4.png",
+          "size": 1078,
+          "fileName": "card_any_4.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_5.png",
+          "size": 1190,
+          "fileName": "card_any_5.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_6.png",
+          "size": 1247,
+          "fileName": "card_any_6.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_7.png",
+          "size": 1161,
+          "fileName": "card_any_7.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_8.png",
+          "size": 1224,
+          "fileName": "card_any_8.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_9.png",
+          "size": 1269,
+          "fileName": "card_any_9.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_a.png",
+          "size": 1164,
+          "fileName": "card_any_a.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_club.png",
+          "size": 1338,
+          "fileName": "card_any_club.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_diamond.png",
+          "size": 1237,
+          "fileName": "card_any_diamond.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_heart.png",
+          "size": 1313,
+          "fileName": "card_any_heart.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_j.png",
+          "size": 1121,
+          "fileName": "card_any_j.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_k.png",
+          "size": 1102,
+          "fileName": "card_any_k.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_q.png",
+          "size": 1271,
+          "fileName": "card_any_q.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/card_any_spade.png",
+          "size": 1246,
+          "fileName": "card_any_spade.png"
+        },
+        {
+          "path": "dzpoker/drawingcard/drawing_card_bg.png",
+          "size": 461,
+          "fileName": "drawing_card_bg.png"
+        }
+      ]
+    },
+    "dzpoker/insurance": {
+      "resourceCount": 24,
+      "totalSize": 106060,
+      "resources": [
+        {
+          "path": "dzpoker/insurance/btn_insure_slider.png",
+          "size": 814,
+          "fileName": "btn_insure_slider.png"
+        },
+        {
+          "path": "dzpoker/insurance/btn_insure_slider_buttonbg.png",
+          "size": 639,
+          "fileName": "btn_insure_slider_buttonbg.png"
+        },
+        {
+          "path": "dzpoker/insurance/btn_insure_yellow.png",
+          "size": 985,
+          "fileName": "btn_insure_yellow.png"
+        },
+        {
+          "path": "dzpoker/insurance/delayInsureBg.png",
+          "size": 645,
+          "fileName": "delayInsureBg.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurance_title_head_top.png",
+          "size": 26740,
+          "fileName": "insurance_title_head_top.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurance_title_head_top_mask.png",
+          "size": 4973,
+          "fileName": "insurance_title_head_top_mask.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurance_title_head_top_shadow.png",
+          "size": 32388,
+          "fileName": "insurance_title_head_top_shadow.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurance_title_head_top_shadow_bottom.png",
+          "size": 8543,
+          "fileName": "insurance_title_head_top_shadow_bottom.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurance_title_head_top_shadow_top.png",
+          "size": 11681,
+          "fileName": "insurance_title_head_top_shadow_top.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureBtnGray.png",
+          "size": 907,
+          "fileName": "insureBtnGray.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureBuyTip.png",
+          "size": 542,
+          "fileName": "insureBuyTip.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureMainPotBg.png",
+          "size": 363,
+          "fileName": "insureMainPotBg.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureNeedBackupTip.png",
+          "size": 521,
+          "fileName": "insureNeedBackupTip.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureOtherBuy.png",
+          "size": 1199,
+          "fileName": "insureOtherBuy.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureOtherBuyNo.png",
+          "size": 241,
+          "fileName": "insureOtherBuyNo.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurePotIcon.png",
+          "size": 4552,
+          "fileName": "insurePotIcon.png"
+        },
+        {
+          "path": "dzpoker/insurance/insurePotIconGray.png",
+          "size": 2858,
+          "fileName": "insurePotIconGray.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureTimeIcon.png",
+          "size": 547,
+          "fileName": "insureTimeIcon.png"
+        },
+        {
+          "path": "dzpoker/insurance/insureTime_garyIcon.png",
+          "size": 1096,
+          "fileName": "insureTime_garyIcon.png"
+        },
+        {
+          "path": "dzpoker/insurance/outsDetailBg_nine.png",
+          "size": 3058,
+          "fileName": "outsDetailBg_nine.png"
+        },
+        {
+          "path": "dzpoker/insurance/slideIndicator.png",
+          "size": 763,
+          "fileName": "slideIndicator.png"
+        },
+        {
+          "path": "dzpoker/insurance/slideScoreBtn.png",
+          "size": 923,
+          "fileName": "slideScoreBtn.png"
+        },
+        {
+          "path": "dzpoker/insurance/slider_insure.png",
+          "size": 604,
+          "fileName": "slider_insure.png"
+        },
+        {
+          "path": "dzpoker/insurance/viewOutsButtonBg.png",
+          "size": 478,
+          "fileName": "viewOutsButtonBg.png"
+        }
+      ]
+    },
+    "dzpoker/opreation": {
+      "resourceCount": 4,
+      "totalSize": 3803,
+      "resources": [
+        {
+          "path": "dzpoker/opreation/foldBg.png",
+          "size": 758,
+          "fileName": "foldBg.png"
+        },
+        {
+          "path": "dzpoker/opreation/freeRaiseBg.png",
+          "size": 728,
+          "fileName": "freeRaiseBg.png"
+        },
+        {
+          "path": "dzpoker/opreation/freeRaiseSlideBg.png",
+          "size": 846,
+          "fileName": "freeRaiseSlideBg.png"
+        },
+        {
+          "path": "dzpoker/opreation/raiseOk.png",
+          "size": 1471,
+          "fileName": "raiseOk.png"
+        }
+      ]
+    },
+    "dzpoker/sidePotchips": {
+      "resourceCount": 12,
+      "totalSize": 139870,
+      "resources": [
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_0.png",
+          "size": 11795,
+          "fileName": "game_sidePotchip_0.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_1.png",
+          "size": 11642,
+          "fileName": "game_sidePotchip_1.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_10.png",
+          "size": 11112,
+          "fileName": "game_sidePotchip_10.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_11.png",
+          "size": 11789,
+          "fileName": "game_sidePotchip_11.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_2.png",
+          "size": 11774,
+          "fileName": "game_sidePotchip_2.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_3.png",
+          "size": 11900,
+          "fileName": "game_sidePotchip_3.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_4.png",
+          "size": 11739,
+          "fileName": "game_sidePotchip_4.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_5.png",
+          "size": 11742,
+          "fileName": "game_sidePotchip_5.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_6.png",
+          "size": 11809,
+          "fileName": "game_sidePotchip_6.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_7.png",
+          "size": 11527,
+          "fileName": "game_sidePotchip_7.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_8.png",
+          "size": 11343,
+          "fileName": "game_sidePotchip_8.png"
+        },
+        {
+          "path": "dzpoker/sidePotchips/game_sidePotchip_9.png",
+          "size": 11698,
+          "fileName": "game_sidePotchip_9.png"
+        }
+      ]
+    },
+    "dzpoker/spine/baoji_text": {
+      "resourceCount": 3,
+      "totalSize": 792025,
+      "resources": [
+        {
+          "path": "dzpoker/spine/baoji_text/baoji_text.atlas",
+          "size": 1190,
+          "fileName": "baoji_text.atlas"
+        },
+        {
+          "path": "dzpoker/spine/baoji_text/baoji_text.json",
+          "size": 10546,
+          "fileName": "baoji_text.json"
+        },
+        {
+          "path": "dzpoker/spine/baoji_text/baoji_text.png",
+          "size": 780289,
+          "fileName": "baoji_text.png"
+        }
+      ]
+    },
+    "dzpoker/spine/baoxian_baopai": {
+      "resourceCount": 6,
+      "totalSize": 4578248,
+      "resources": [
+        {
+          "path": "dzpoker/spine/baoxian_baopai/baoxian_baopai.atlas",
+          "size": 7700,
+          "fileName": "baoxian_baopai.atlas"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_baopai/baoxian_baopai.json",
+          "size": 36293,
+          "fileName": "baoxian_baopai.json"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_baopai/baoxian_baopai.png",
+          "size": 812456,
+          "fileName": "baoxian_baopai.png"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_baopai/baoxian_baopai_update.atlas",
+          "size": 4362,
+          "fileName": "baoxian_baopai_update.atlas"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_baopai/baoxian_baopai_update.json",
+          "size": 13113,
+          "fileName": "baoxian_baopai_update.json"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_baopai/baoxian_baopai_update.png",
+          "size": 3704324,
+          "fileName": "baoxian_baopai_update.png"
+        }
+      ]
+    },
+    "dzpoker/spine/baoxian_fire": {
+      "resourceCount": 3,
+      "totalSize": 813899,
+      "resources": [
+        {
+          "path": "dzpoker/spine/baoxian_fire/baoxian_fire.atlas",
+          "size": 2067,
+          "fileName": "baoxian_fire.atlas"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_fire/baoxian_fire.json",
+          "size": 3731,
+          "fileName": "baoxian_fire.json"
+        },
+        {
+          "path": "dzpoker/spine/baoxian_fire/baoxian_fire.png",
+          "size": 808101,
+          "fileName": "baoxian_fire.png"
+        }
+      ]
+    },
+    "dzpoker/spine/final_table": {
+      "resourceCount": 3,
+      "totalSize": 721717,
+      "resources": [
+        {
+          "path": "dzpoker/spine/final_table/finalTable.atlas",
+          "size": 1631,
+          "fileName": "finalTable.atlas"
+        },
+        {
+          "path": "dzpoker/spine/final_table/finalTable.json",
+          "size": 3425,
+          "fileName": "finalTable.json"
+        },
+        {
+          "path": "dzpoker/spine/final_table/finalTable.png",
+          "size": 716661,
+          "fileName": "finalTable.png"
+        }
+      ]
+    },
+    "dzpoker/spine/guide_free_raise": {
+      "resourceCount": 3,
+      "totalSize": 52743,
+      "resources": [
+        {
+          "path": "dzpoker/spine/guide_free_raise/guide_free_raise_anim.atlas",
+          "size": 803,
+          "fileName": "guide_free_raise_anim.atlas"
+        },
+        {
+          "path": "dzpoker/spine/guide_free_raise/guide_free_raise_anim.json",
+          "size": 17820,
+          "fileName": "guide_free_raise_anim.json"
+        },
+        {
+          "path": "dzpoker/spine/guide_free_raise/guide_free_raise_anim.png",
+          "size": 34120,
+          "fileName": "guide_free_raise_anim.png"
+        }
+      ]
+    },
+    "dzpoker/spine/handcard_glow": {
+      "resourceCount": 3,
+      "totalSize": 473376,
+      "resources": [
+        {
+          "path": "dzpoker/spine/handcard_glow/card_glow.atlas",
+          "size": 10406,
+          "fileName": "card_glow.atlas"
+        },
+        {
+          "path": "dzpoker/spine/handcard_glow/card_glow.json",
+          "size": 2353,
+          "fileName": "card_glow.json"
+        },
+        {
+          "path": "dzpoker/spine/handcard_glow/card_glow.png",
+          "size": 460617,
+          "fileName": "card_glow.png"
+        }
+      ]
+    },
+    "dzpoker/spine/hunt": {
+      "resourceCount": 3,
+      "totalSize": 151339,
+      "resources": [
+        {
+          "path": "dzpoker/spine/hunt/BountyHunt_Effect.atlas",
+          "size": 1970,
+          "fileName": "BountyHunt_Effect.atlas"
+        },
+        {
+          "path": "dzpoker/spine/hunt/BountyHunt_Effect.json",
+          "size": 4887,
+          "fileName": "BountyHunt_Effect.json"
+        },
+        {
+          "path": "dzpoker/spine/hunt/BountyHunt_Effect.png",
+          "size": 144482,
+          "fileName": "BountyHunt_Effect.png"
+        }
+      ]
+    },
+    "dzpoker/spine/play_chips": {
+      "resourceCount": 3,
+      "totalSize": 51384,
+      "resources": [
+        {
+          "path": "dzpoker/spine/play_chips/playChips_A.atlas",
+          "size": 128,
+          "fileName": "playChips_A.atlas"
+        },
+        {
+          "path": "dzpoker/spine/play_chips/playChips_A.json",
+          "size": 8922,
+          "fileName": "playChips_A.json"
+        },
+        {
+          "path": "dzpoker/spine/play_chips/playChips_A.png",
+          "size": 42334,
+          "fileName": "playChips_A.png"
+        }
+      ]
+    },
+    "dzpoker/spine/rabbit_btn_vfx": {
+      "resourceCount": 3,
+      "totalSize": 286047,
+      "resources": [
+        {
+          "path": "dzpoker/spine/rabbit_btn_vfx/rabbit_btn_VFX.atlas",
+          "size": 2609,
+          "fileName": "rabbit_btn_VFX.atlas"
+        },
+        {
+          "path": "dzpoker/spine/rabbit_btn_vfx/rabbit_btn_VFX.json",
+          "size": 4575,
+          "fileName": "rabbit_btn_VFX.json"
+        },
+        {
+          "path": "dzpoker/spine/rabbit_btn_vfx/rabbit_btn_VFX.png",
+          "size": 278863,
+          "fileName": "rabbit_btn_VFX.png"
+        }
+      ]
+    },
+    "dzpoker/spine/squid_game_text": {
+      "resourceCount": 3,
+      "totalSize": 288373,
+      "resources": [
+        {
+          "path": "dzpoker/spine/squid_game_text/SquidGames_text.atlas",
+          "size": 1226,
+          "fileName": "SquidGames_text.atlas"
+        },
+        {
+          "path": "dzpoker/spine/squid_game_text/SquidGames_text.json",
+          "size": 6111,
+          "fileName": "SquidGames_text.json"
+        },
+        {
+          "path": "dzpoker/spine/squid_game_text/SquidGames_text.png",
+          "size": 281036,
+          "fileName": "SquidGames_text.png"
+        }
+      ]
+    },
+    "dzpoker/spine/squid_games_glow": {
+      "resourceCount": 3,
+      "totalSize": 90177,
+      "resources": [
+        {
+          "path": "dzpoker/spine/squid_games_glow/SquidGames_glow.atlas",
+          "size": 912,
+          "fileName": "SquidGames_glow.atlas"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_glow/SquidGames_glow.json",
+          "size": 1333,
+          "fileName": "SquidGames_glow.json"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_glow/SquidGames_glow.png",
+          "size": 87932,
+          "fileName": "SquidGames_glow.png"
+        }
+      ]
+    },
+    "dzpoker/spine/squid_games_tip_icon": {
+      "resourceCount": 3,
+      "totalSize": 10311,
+      "resources": [
+        {
+          "path": "dzpoker/spine/squid_games_tip_icon/SquidGames_TipIcon.atlas",
+          "size": 179,
+          "fileName": "SquidGames_TipIcon.atlas"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_tip_icon/SquidGames_TipIcon.json",
+          "size": 3612,
+          "fileName": "SquidGames_TipIcon.json"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_tip_icon/SquidGames_TipIcon.png",
+          "size": 6520,
+          "fileName": "SquidGames_TipIcon.png"
+        }
+      ]
+    },
+    "dzpoker/spine/squid_games_wx_in": {
+      "resourceCount": 3,
+      "totalSize": 844967,
+      "resources": [
+        {
+          "path": "dzpoker/spine/squid_games_wx_in/SquidGames_wx_in.atlas",
+          "size": 5501,
+          "fileName": "SquidGames_wx_in.atlas"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_wx_in/SquidGames_wx_in.json",
+          "size": 123308,
+          "fileName": "SquidGames_wx_in.json"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_wx_in/SquidGames_wx_in.png",
+          "size": 716158,
+          "fileName": "SquidGames_wx_in.png"
+        }
+      ]
+    },
+    "dzpoker/spine/squid_games_yx_in": {
+      "resourceCount": 3,
+      "totalSize": 787919,
+      "resources": [
+        {
+          "path": "dzpoker/spine/squid_games_yx_in/SquidGames_yx_in.atlas",
+          "size": 3101,
+          "fileName": "SquidGames_yx_in.atlas"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_yx_in/SquidGames_yx_in.json",
+          "size": 119008,
+          "fileName": "SquidGames_yx_in.json"
+        },
+        {
+          "path": "dzpoker/spine/squid_games_yx_in/SquidGames_yx_in.png",
+          "size": 665810,
+          "fileName": "SquidGames_yx_in.png"
+        }
+      ]
+    },
+    "dzpoker/squid": {
+      "resourceCount": 17,
+      "totalSize": 218636,
+      "resources": [
+        {
+          "path": "dzpoker/squid/game_add_squid_icon.png",
+          "size": 727,
+          "fileName": "game_add_squid_icon.png"
+        },
+        {
+          "path": "dzpoker/squid/game_player_squid_icon_finish.png",
+          "size": 2385,
+          "fileName": "game_player_squid_icon_finish.png"
+        },
+        {
+          "path": "dzpoker/squid/game_player_squid_icon_finish_dark.png",
+          "size": 1996,
+          "fileName": "game_player_squid_icon_finish_dark.png"
+        },
+        {
+          "path": "dzpoker/squid/game_player_squid_icon_gold.png",
+          "size": 3074,
+          "fileName": "game_player_squid_icon_gold.png"
+        },
+        {
+          "path": "dzpoker/squid/game_player_squid_icon_gray.png",
+          "size": 2557,
+          "fileName": "game_player_squid_icon_gray.png"
+        },
+        {
+          "path": "dzpoker/squid/game_player_squid_icon_yellow.png",
+          "size": 2992,
+          "fileName": "game_player_squid_icon_yellow.png"
+        },
+        {
+          "path": "dzpoker/squid/game_squid_big_icon.png",
+          "size": 77253,
+          "fileName": "game_squid_big_icon.png"
+        },
+        {
+          "path": "dzpoker/squid/game_squid_game_hosting_bg.png",
+          "size": 3438,
+          "fileName": "game_squid_game_hosting_bg.png"
+        },
+        {
+          "path": "dzpoker/squid/game_squid_game_two_person_tigBg.png",
+          "size": 2426,
+          "fileName": "game_squid_game_two_person_tigBg.png"
+        },
+        {
+          "path": "dzpoker/squid/game_squid_tip_icon.png",
+          "size": 113910,
+          "fileName": "game_squid_tip_icon.png"
+        },
+        {
+          "path": "dzpoker/squid/game_squid_wallet_btn.png",
+          "size": 2749,
+          "fileName": "game_squid_wallet_btn.png"
+        },
+        {
+          "path": "dzpoker/squid/game_table_squid_icon.png",
+          "size": 1677,
+          "fileName": "game_table_squid_icon.png"
+        },
+        {
+          "path": "dzpoker/squid/info_dialog_mask.png",
+          "size": 528,
+          "fileName": "info_dialog_mask.png"
+        },
+        {
+          "path": "dzpoker/squid/info_dialog_mask2.png",
+          "size": 1412,
+          "fileName": "info_dialog_mask2.png"
+        },
+        {
+          "path": "dzpoker/squid/info_icon.png",
+          "size": 438,
+          "fileName": "info_icon.png"
+        },
+        {
+          "path": "dzpoker/squid/squid_info_mask.png",
+          "size": 551,
+          "fileName": "squid_info_mask.png"
+        },
+        {
+          "path": "dzpoker/squid/squid_wallet_close_btn.png",
+          "size": 523,
+          "fileName": "squid_wallet_close_btn.png"
+        }
+      ]
+    },
+    "head": {
+      "resourceCount": 2,
+      "totalSize": 4453,
+      "resources": [
+        {
+          "path": "head/game_button_mark.png",
+          "size": 1657,
+          "fileName": "game_button_mark.png"
+        },
+        {
+          "path": "head/hunt_bounty_bg.png",
+          "size": 2796,
+          "fileName": "hunt_bounty_bg.png"
+        }
+      ]
+    },
+    "hunt_bmp": {
+      "resourceCount": 2,
+      "totalSize": 7044,
+      "resources": [
+        {
+          "path": "hunt_bmp/hunt_bmp_number.png",
+          "size": 5632,
+          "fileName": "hunt_bmp_number.png"
+        },
+        {
+          "path": "hunt_bmp/hunt_bmp_number_bmpfont.json",
+          "size": 1412,
+          "fileName": "hunt_bmp_number_bmpfont.json"
+        }
+      ]
+    },
+    "lang/en/dzpoker/animations": {
+      "resourceCount": 12,
+      "totalSize": 137751,
+      "resources": [
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_0.png",
+          "size": 13267,
+          "fileName": "card_win_text_0.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_1.png",
+          "size": 6335,
+          "fileName": "card_win_text_1.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_2.png",
+          "size": 12412,
+          "fileName": "card_win_text_2.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_3.png",
+          "size": 7502,
+          "fileName": "card_win_text_3.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_3_1.png",
+          "size": 7502,
+          "fileName": "card_win_text_3_1.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_3_2.png",
+          "size": 5757,
+          "fileName": "card_win_text_3_2.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_4.png",
+          "size": 12174,
+          "fileName": "card_win_text_4.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_5.png",
+          "size": 8193,
+          "fileName": "card_win_text_5.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_6.png",
+          "size": 13826,
+          "fileName": "card_win_text_6.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_7.png",
+          "size": 16814,
+          "fileName": "card_win_text_7.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_8.png",
+          "size": 18594,
+          "fileName": "card_win_text_8.png"
+        },
+        {
+          "path": "lang/en/dzpoker/animations/card_win_text_9.png",
+          "size": 15375,
+          "fileName": "card_win_text_9.png"
+        }
+      ]
+    },
+    "lang/en/dzpoker/betstatus": {
+      "resourceCount": 8,
+      "totalSize": 25146,
+      "resources": [
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_bet.png",
+          "size": 2424,
+          "fileName": "game_player_operation_bet.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_call.png",
+          "size": 2342,
+          "fileName": "game_player_operation_call.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_check.png",
+          "size": 2790,
+          "fileName": "game_player_operation_check.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_delay.png",
+          "size": 2190,
+          "fileName": "game_player_operation_delay.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_fold.png",
+          "size": 1820,
+          "fileName": "game_player_operation_fold.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_pot.png",
+          "size": 7626,
+          "fileName": "game_player_operation_pot.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_raise.png",
+          "size": 2802,
+          "fileName": "game_player_operation_raise.png"
+        },
+        {
+          "path": "lang/en/dzpoker/betstatus/game_player_operation_straddle.png",
+          "size": 3152,
+          "fileName": "game_player_operation_straddle.png"
+        }
+      ]
+    },
+    "lang/en/dzpoker/insurance": {
+      "resourceCount": 2,
+      "totalSize": 12057,
+      "resources": [
+        {
+          "path": "lang/en/dzpoker/insurance/btn_insure_buy_EV.png",
+          "size": 5433,
+          "fileName": "btn_insure_buy_EV.png"
+        },
+        {
+          "path": "lang/en/dzpoker/insurance/btn_insure_buy_btn.png",
+          "size": 6624,
+          "fileName": "btn_insure_buy_btn.png"
+        }
+      ]
+    },
+    "lang/en/dzpoker/squid": {
+      "resourceCount": 5,
+      "totalSize": 52116,
+      "resources": [
+        {
+          "path": "lang/en/dzpoker/squid/game_squid_game_tex.png",
+          "size": 41235,
+          "fileName": "game_squid_game_tex.png"
+        },
+        {
+          "path": "lang/en/dzpoker/squid/game_squid_stand_up_gray.png",
+          "size": 3810,
+          "fileName": "game_squid_stand_up_gray.png"
+        },
+        {
+          "path": "lang/en/dzpoker/squid/game_squid_stand_up_normal.png",
+          "size": 3950,
+          "fileName": "game_squid_stand_up_normal.png"
+        },
+        {
+          "path": "lang/en/dzpoker/squid/gold_text.png",
+          "size": 1626,
+          "fileName": "gold_text.png"
+        },
+        {
+          "path": "lang/en/dzpoker/squid/limitless_text.png",
+          "size": 1495,
+          "fileName": "limitless_text.png"
+        }
+      ]
+    },
+    "lang/ja/dzpoker/animations": {
+      "resourceCount": 12,
+      "totalSize": 228386,
+      "resources": [
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_0.png",
+          "size": 18153,
+          "fileName": "card_win_text_0.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_1.png",
+          "size": 16189,
+          "fileName": "card_win_text_1.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_2.png",
+          "size": 14747,
+          "fileName": "card_win_text_2.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_3.png",
+          "size": 11958,
+          "fileName": "card_win_text_3.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_3_1.png",
+          "size": 19322,
+          "fileName": "card_win_text_3_1.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_3_2.png",
+          "size": 11958,
+          "fileName": "card_win_text_3_2.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_4.png",
+          "size": 16291,
+          "fileName": "card_win_text_4.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_5.png",
+          "size": 17705,
+          "fileName": "card_win_text_5.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_6.png",
+          "size": 19515,
+          "fileName": "card_win_text_6.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_7.png",
+          "size": 18843,
+          "fileName": "card_win_text_7.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_8.png",
+          "size": 32340,
+          "fileName": "card_win_text_8.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/animations/card_win_text_9.png",
+          "size": 31365,
+          "fileName": "card_win_text_9.png"
+        }
+      ]
+    },
+    "lang/ja/dzpoker/betstatus": {
+      "resourceCount": 10,
+      "totalSize": 43582,
+      "resources": [
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_bet.png",
+          "size": 3099,
+          "fileName": "game_player_operation_bet.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_call.png",
+          "size": 2371,
+          "fileName": "game_player_operation_call.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_check.png",
+          "size": 3078,
+          "fileName": "game_player_operation_check.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_delay.png",
+          "size": 3417,
+          "fileName": "game_player_operation_delay.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_fold.png",
+          "size": 2342,
+          "fileName": "game_player_operation_fold.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_leave.png",
+          "size": 8283,
+          "fileName": "game_player_operation_leave.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_pot.png",
+          "size": 8145,
+          "fileName": "game_player_operation_pot.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_raise.png",
+          "size": 1590,
+          "fileName": "game_player_operation_raise.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_straddle.png",
+          "size": 2974,
+          "fileName": "game_player_operation_straddle.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/betstatus/game_player_operation_yield.png",
+          "size": 8283,
+          "fileName": "game_player_operation_yield.png"
+        }
+      ]
+    },
+    "lang/ja/dzpoker/insurance": {
+      "resourceCount": 2,
+      "totalSize": 13137,
+      "resources": [
+        {
+          "path": "lang/ja/dzpoker/insurance/btn_insure_buy_EV.png",
+          "size": 6093,
+          "fileName": "btn_insure_buy_EV.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/insurance/btn_insure_buy_btn.png",
+          "size": 7044,
+          "fileName": "btn_insure_buy_btn.png"
+        }
+      ]
+    },
+    "lang/ja/dzpoker/squid": {
+      "resourceCount": 6,
+      "totalSize": 324371,
+      "resources": [
+        {
+          "path": "lang/ja/dzpoker/squid/game_squid_flag.png",
+          "size": 273913,
+          "fileName": "game_squid_flag.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/squid/game_squid_game_tex.png",
+          "size": 37243,
+          "fileName": "game_squid_game_tex.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/squid/game_squid_stand_up_gray.png",
+          "size": 4263,
+          "fileName": "game_squid_stand_up_gray.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/squid/game_squid_stand_up_normal.png",
+          "size": 4477,
+          "fileName": "game_squid_stand_up_normal.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/squid/gold_text.png",
+          "size": 2489,
+          "fileName": "gold_text.png"
+        },
+        {
+          "path": "lang/ja/dzpoker/squid/limitless_text.png",
+          "size": 1986,
+          "fileName": "limitless_text.png"
+        }
+      ]
+    },
+    "lang/ko/dzpoker/animations": {
+      "resourceCount": 12,
+      "totalSize": 163201,
+      "resources": [
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_0.png",
+          "size": 16420,
+          "fileName": "card_win_text_0.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_1.png",
+          "size": 13047,
+          "fileName": "card_win_text_1.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_2.png",
+          "size": 12309,
+          "fileName": "card_win_text_2.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_3.png",
+          "size": 5878,
+          "fileName": "card_win_text_3.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_3_1.png",
+          "size": 10230,
+          "fileName": "card_win_text_3_1.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_3_2.png",
+          "size": 5878,
+          "fileName": "card_win_text_3_2.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_4.png",
+          "size": 16392,
+          "fileName": "card_win_text_4.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_5.png",
+          "size": 11484,
+          "fileName": "card_win_text_5.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_6.png",
+          "size": 15680,
+          "fileName": "card_win_text_6.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_7.png",
+          "size": 11400,
+          "fileName": "card_win_text_7.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_8.png",
+          "size": 26613,
+          "fileName": "card_win_text_8.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/animations/card_win_text_9.png",
+          "size": 17870,
+          "fileName": "card_win_text_9.png"
+        }
+      ]
+    },
+    "lang/ko/dzpoker/betstatus": {
+      "resourceCount": 10,
+      "totalSize": 40341,
+      "resources": [
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_bet.png",
+          "size": 2549,
+          "fileName": "game_player_operation_bet.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_call.png",
+          "size": 2124,
+          "fileName": "game_player_operation_call.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_check.png",
+          "size": 2624,
+          "fileName": "game_player_operation_check.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_delay.png",
+          "size": 3184,
+          "fileName": "game_player_operation_delay.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_fold.png",
+          "size": 1740,
+          "fileName": "game_player_operation_fold.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_leave.png",
+          "size": 7778,
+          "fileName": "game_player_operation_leave.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_pot.png",
+          "size": 7159,
+          "fileName": "game_player_operation_pot.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_raise.png",
+          "size": 2831,
+          "fileName": "game_player_operation_raise.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_straddle.png",
+          "size": 2574,
+          "fileName": "game_player_operation_straddle.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/betstatus/game_player_operation_yield.png",
+          "size": 7778,
+          "fileName": "game_player_operation_yield.png"
+        }
+      ]
+    },
+    "lang/ko/dzpoker/insurance": {
+      "resourceCount": 2,
+      "totalSize": 10394,
+      "resources": [
+        {
+          "path": "lang/ko/dzpoker/insurance/btn_insure_buy_EV.png",
+          "size": 5328,
+          "fileName": "btn_insure_buy_EV.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/insurance/btn_insure_buy_btn.png",
+          "size": 5066,
+          "fileName": "btn_insure_buy_btn.png"
+        }
+      ]
+    },
+    "lang/ko/dzpoker/squid": {
+      "resourceCount": 6,
+      "totalSize": 342380,
+      "resources": [
+        {
+          "path": "lang/ko/dzpoker/squid/game_squid_flag.png",
+          "size": 280063,
+          "fileName": "game_squid_flag.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/squid/game_squid_game_tex.png",
+          "size": 52221,
+          "fileName": "game_squid_game_tex.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/squid/game_squid_stand_up_gray.png",
+          "size": 3911,
+          "fileName": "game_squid_stand_up_gray.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/squid/game_squid_stand_up_normal.png",
+          "size": 4110,
+          "fileName": "game_squid_stand_up_normal.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/squid/gold_text.png",
+          "size": 917,
+          "fileName": "gold_text.png"
+        },
+        {
+          "path": "lang/ko/dzpoker/squid/limitless_text.png",
+          "size": 1158,
+          "fileName": "limitless_text.png"
+        }
+      ]
+    },
+    "lang/vi/dzpoker/animations": {
+      "resourceCount": 12,
+      "totalSize": 182745,
+      "resources": [
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_0.png",
+          "size": 18185,
+          "fileName": "card_win_text_0.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_1.png",
+          "size": 7753,
+          "fileName": "card_win_text_1.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_2.png",
+          "size": 7618,
+          "fileName": "card_win_text_2.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_3.png",
+          "size": 14484,
+          "fileName": "card_win_text_3.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_3_1.png",
+          "size": 14484,
+          "fileName": "card_win_text_3_1.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_3_2.png",
+          "size": 14447,
+          "fileName": "card_win_text_3_2.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_4.png",
+          "size": 10127,
+          "fileName": "card_win_text_4.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_5.png",
+          "size": 11818,
+          "fileName": "card_win_text_5.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_6.png",
+          "size": 10300,
+          "fileName": "card_win_text_6.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_7.png",
+          "size": 13700,
+          "fileName": "card_win_text_7.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_8.png",
+          "size": 26795,
+          "fileName": "card_win_text_8.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/animations/card_win_text_9.png",
+          "size": 33034,
+          "fileName": "card_win_text_9.png"
+        }
+      ]
+    },
+    "lang/vi/dzpoker/betstatus": {
+      "resourceCount": 8,
+      "totalSize": 25832,
+      "resources": [
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_bet.png",
+          "size": 2737,
+          "fileName": "game_player_operation_bet.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_call.png",
+          "size": 2320,
+          "fileName": "game_player_operation_call.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_check.png",
+          "size": 2610,
+          "fileName": "game_player_operation_check.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_delay.png",
+          "size": 2796,
+          "fileName": "game_player_operation_delay.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_fold.png",
+          "size": 2291,
+          "fileName": "game_player_operation_fold.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_pot.png",
+          "size": 7776,
+          "fileName": "game_player_operation_pot.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_raise.png",
+          "size": 2150,
+          "fileName": "game_player_operation_raise.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/betstatus/game_player_operation_straddle.png",
+          "size": 3152,
+          "fileName": "game_player_operation_straddle.png"
+        }
+      ]
+    },
+    "lang/vi/dzpoker/insurance": {
+      "resourceCount": 2,
+      "totalSize": 11395,
+      "resources": [
+        {
+          "path": "lang/vi/dzpoker/insurance/btn_insure_buy_EV.png",
+          "size": 5200,
+          "fileName": "btn_insure_buy_EV.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/insurance/btn_insure_buy_btn.png",
+          "size": 6195,
+          "fileName": "btn_insure_buy_btn.png"
+        }
+      ]
+    },
+    "lang/vi/dzpoker/squid": {
+      "resourceCount": 5,
+      "totalSize": 50518,
+      "resources": [
+        {
+          "path": "lang/vi/dzpoker/squid/game_squid_game_tex.png",
+          "size": 38090,
+          "fileName": "game_squid_game_tex.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/squid/game_squid_stand_up_gray.png",
+          "size": 4003,
+          "fileName": "game_squid_stand_up_gray.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/squid/game_squid_stand_up_normal.png",
+          "size": 4228,
+          "fileName": "game_squid_stand_up_normal.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/squid/gold_text.png",
+          "size": 1433,
+          "fileName": "gold_text.png"
+        },
+        {
+          "path": "lang/vi/dzpoker/squid/limitless_text.png",
+          "size": 2764,
+          "fileName": "limitless_text.png"
+        }
+      ]
+    },
+    "lang/zh/dzpoker/animations": {
+      "resourceCount": 12,
+      "totalSize": 63104,
+      "resources": [
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_0.png",
+          "size": 2765,
+          "fileName": "card_win_text_0.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_1.png",
+          "size": 2388,
+          "fileName": "card_win_text_1.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_2.png",
+          "size": 2954,
+          "fileName": "card_win_text_2.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_3.png",
+          "size": 2391,
+          "fileName": "card_win_text_3.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_3_1.png",
+          "size": 15762,
+          "fileName": "card_win_text_3_1.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_3_2.png",
+          "size": 15771,
+          "fileName": "card_win_text_3_2.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_4.png",
+          "size": 2872,
+          "fileName": "card_win_text_4.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_5.png",
+          "size": 2910,
+          "fileName": "card_win_text_5.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_6.png",
+          "size": 2747,
+          "fileName": "card_win_text_6.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_7.png",
+          "size": 2844,
+          "fileName": "card_win_text_7.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_8.png",
+          "size": 4102,
+          "fileName": "card_win_text_8.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/animations/card_win_text_9.png",
+          "size": 5598,
+          "fileName": "card_win_text_9.png"
+        }
+      ]
+    },
+    "lang/zh/dzpoker/betstatus": {
+      "resourceCount": 8,
+      "totalSize": 8230,
+      "resources": [
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_bet.png",
+          "size": 825,
+          "fileName": "game_player_operation_bet.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_call.png",
+          "size": 987,
+          "fileName": "game_player_operation_call.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_check.png",
+          "size": 937,
+          "fileName": "game_player_operation_check.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_delay.png",
+          "size": 935,
+          "fileName": "game_player_operation_delay.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_fold.png",
+          "size": 984,
+          "fileName": "game_player_operation_fold.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_pot.png",
+          "size": 1504,
+          "fileName": "game_player_operation_pot.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_raise.png",
+          "size": 950,
+          "fileName": "game_player_operation_raise.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/betstatus/game_player_operation_straddle.png",
+          "size": 1108,
+          "fileName": "game_player_operation_straddle.png"
+        }
+      ]
+    },
+    "lang/zh/dzpoker/insurance": {
+      "resourceCount": 2,
+      "totalSize": 4095,
+      "resources": [
+        {
+          "path": "lang/zh/dzpoker/insurance/btn_insure_buy_EV.png",
+          "size": 1894,
+          "fileName": "btn_insure_buy_EV.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/insurance/btn_insure_buy_btn.png",
+          "size": 2201,
+          "fileName": "btn_insure_buy_btn.png"
+        }
+      ]
+    },
+    "lang/zh/dzpoker/squid": {
+      "resourceCount": 5,
+      "totalSize": 23766,
+      "resources": [
+        {
+          "path": "lang/zh/dzpoker/squid/game_squid_game_tex.png",
+          "size": 15449,
+          "fileName": "game_squid_game_tex.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/squid/game_squid_stand_up_gray.png",
+          "size": 1413,
+          "fileName": "game_squid_stand_up_gray.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/squid/game_squid_stand_up_normal.png",
+          "size": 1409,
+          "fileName": "game_squid_stand_up_normal.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/squid/gold_text.png",
+          "size": 2800,
+          "fileName": "gold_text.png"
+        },
+        {
+          "path": "lang/zh/dzpoker/squid/limitless_text.png",
+          "size": 2695,
+          "fileName": "limitless_text.png"
+        }
+      ]
+    },
+    "match": {
+      "resourceCount": 21,
+      "totalSize": 1026193,
+      "resources": [
+        {
+          "path": "match/game_race_logo.png",
+          "size": 1849,
+          "fileName": "game_race_logo.png"
+        },
+        {
+          "path": "match/game_race_logo_en.png",
+          "size": 4956,
+          "fileName": "game_race_logo_en.png"
+        },
+        {
+          "path": "match/game_result_share.png",
+          "size": 558,
+          "fileName": "game_result_share.png"
+        },
+        {
+          "path": "match/ky_race_img_trophy_1.png",
+          "size": 210587,
+          "fileName": "ky_race_img_trophy_1.png"
+        },
+        {
+          "path": "match/ky_race_img_trophy_2.png",
+          "size": 95459,
+          "fileName": "ky_race_img_trophy_2.png"
+        },
+        {
+          "path": "match/ky_race_img_trophy_3.png",
+          "size": 96189,
+          "fileName": "ky_race_img_trophy_3.png"
+        },
+        {
+          "path": "match/race_img_flag_blue.png",
+          "size": 41807,
+          "fileName": "race_img_flag_blue.png"
+        },
+        {
+          "path": "match/race_img_flag_red.png",
+          "size": 41896,
+          "fileName": "race_img_flag_red.png"
+        },
+        {
+          "path": "match/race_img_head_1.png",
+          "size": 6260,
+          "fileName": "race_img_head_1.png"
+        },
+        {
+          "path": "match/race_img_head_2.png",
+          "size": 4965,
+          "fileName": "race_img_head_2.png"
+        },
+        {
+          "path": "match/race_img_head_3.png",
+          "size": 4874,
+          "fileName": "race_img_head_3.png"
+        },
+        {
+          "path": "match/race_img_head_4.png",
+          "size": 3413,
+          "fileName": "race_img_head_4.png"
+        },
+        {
+          "path": "match/race_img_tip_rank_1.png",
+          "size": 19802,
+          "fileName": "race_img_tip_rank_1.png"
+        },
+        {
+          "path": "match/race_img_tip_rank_1_en.png",
+          "size": 44030,
+          "fileName": "race_img_tip_rank_1_en.png"
+        },
+        {
+          "path": "match/race_img_tip_rank_1_ja.png",
+          "size": 41758,
+          "fileName": "race_img_tip_rank_1_ja.png"
+        },
+        {
+          "path": "match/race_img_tip_rank_1_ko.png",
+          "size": 25500,
+          "fileName": "race_img_tip_rank_1_ko.png"
+        },
+        {
+          "path": "match/race_img_tip_rank_2.png",
+          "size": 5995,
+          "fileName": "race_img_tip_rank_2.png"
+        },
+        {
+          "path": "match/race_img_tip_rank_3.png",
+          "size": 8941,
+          "fileName": "race_img_tip_rank_3.png"
+        },
+        {
+          "path": "match/race_img_trophy_1.png",
+          "size": 195568,
+          "fileName": "race_img_trophy_1.png"
+        },
+        {
+          "path": "match/race_img_trophy_2.png",
+          "size": 85352,
+          "fileName": "race_img_trophy_2.png"
+        },
+        {
+          "path": "match/race_img_trophy_3.png",
+          "size": 86434,
+          "fileName": "race_img_trophy_3.png"
+        }
+      ]
+    },
+    "match/bmpfont": {
+      "resourceCount": 2,
+      "totalSize": 27147,
+      "resources": [
+        {
+          "path": "match/bmpfont/game_result_rank_map.png",
+          "size": 26109,
+          "fileName": "game_result_rank_map.png"
+        },
+        {
+          "path": "match/bmpfont/game_result_rank_map_bmpfont.json",
+          "size": 1038,
+          "fileName": "game_result_rank_map_bmpfont.json"
+        }
+      ]
+    },
+    "other": {
+      "resourceCount": 2,
+      "totalSize": 1362,
+      "resources": [
+        {
+          "path": "other/icon_bianji1.png",
+          "size": 349,
+          "fileName": "icon_bianji1.png"
+        },
+        {
+          "path": "other/other_emp.png",
+          "size": 1013,
+          "fileName": "other_emp.png"
+        }
+      ]
+    },
+    "root": {
+      "resourceCount": 1,
+      "totalSize": 69487,
+      "resources": [
+        {
+          "path": "manifest.json",
+          "size": 69487,
+          "fileName": "manifest.json"
+        }
+      ]
+    }
+  },
+  "fileStatistics": {
+    "totalSize": 25218042,
+    "averageSize": 62887
+  }
+}

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1983784710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5323d3a7f0ed2a25b82aec593378381c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5323d3a7f0ed2a25b82aec593378381c
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/ui_module/login/login_view.txt
+Dependencies: []

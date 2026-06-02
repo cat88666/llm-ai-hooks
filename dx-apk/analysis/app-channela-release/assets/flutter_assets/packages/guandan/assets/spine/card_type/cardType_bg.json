@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"7voIqdkdrIg","spine":"4.2.43","x":-1218,"y":-562.5,"width":2436,"height":1125,"images":"./cardType_01/images/","audio":"./audio"},"bones":[{"name":"root"},{"name":"bone","parent":"root"}],"slots":[{"name":"四人主界面_通用底板","bone":"bone"}],"skins":[],"animations":{"animation":{}}}

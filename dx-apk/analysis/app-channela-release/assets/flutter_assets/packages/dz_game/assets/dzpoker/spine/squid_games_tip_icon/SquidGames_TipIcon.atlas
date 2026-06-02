@@ -1,0 +1,11 @@
+SquidGames_TipIcon.png
+size:113,40
+filter:Linear,Linear
+gold_active
+bounds:40,2,35,36
+offsets:0,0,36,36
+non-active
+bounds:77,2,34,36
+offsets:1,0,36,36
+red_active
+bounds:2,2,36,36

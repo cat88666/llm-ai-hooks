@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2507718214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37d1c11ae70b224615aadc5cc030860d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37d1c11ae70b224615aadc5cc030860d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/libs/basestruct/parallel/quaternion.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/parallel/vector_three.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/parallel/matrix_three_x_three.txt
+Dependencies: []

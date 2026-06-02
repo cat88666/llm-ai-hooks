@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1973758526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03a2e0df4ba1d26bef71d35e54be5d53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a7257142156f9c66a06bbc4d9da4ff6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 03a2e0df4ba1d26bef71d35e54be5d53
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Loading/loading_Material.mat
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Loading/loading.png
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Loading/loading_Atlas.asset
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Loading/loading.json
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Loading/loading_SkeletonData.asset
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Loading/loading.atlas.txt
+Dependencies: []

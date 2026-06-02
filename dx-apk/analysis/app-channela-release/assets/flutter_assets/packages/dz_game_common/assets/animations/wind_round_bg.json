@@ -1,0 +1,21 @@
+{"frames": {
+
+"赢了-金边@3x.png":
+{
+	"frame": {"x":1,"y":1,"w":168,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":168},
+	"sourceSize": {"w":168,"h":168},
+	"duration": 40
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dx_wind_round_bg.png",
+	"format": "RGBA8888",
+	"size": {"w":170,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:02cf247a9fa2953af1fca6a50c167f17:9dd6c215274d0f707b2d80f4b777d322:b5715d4af529ff41be777460e41acb34$"
+}
+}

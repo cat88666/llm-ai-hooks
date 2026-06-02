@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 353515001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ea014f31a2e2ade218de319b3e9e05e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ea014f31a2e2ade218de319b3e9e05e
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/libs/xlua/cs_coroutine.txt
+- Assets/Temp/gamebase/luascript/libs/xlua/util.txt
+Dependencies: []

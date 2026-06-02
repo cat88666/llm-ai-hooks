@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 687170484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5abc3e5c7d4dd1f74bb90578f343d9ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5abc3e5c7d4dd1f74bb90578f343d9ce
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/base/system/dxg_animation_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_res_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_render_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_logic_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_event_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_public_ui_main_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_module.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_ui_subsys_loader.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_op.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_command_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_render_op.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_view.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_game_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_base_logic_sys.txt
+- Assets/Temp/gamebase/luascript/base/system/dxg_ui_main_sys.txt
+Dependencies: []

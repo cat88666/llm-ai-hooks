@@ -1,0 +1,413 @@
+{"frames": {
+
+"大特效_51.png":
+{
+	"frame": {"x":1,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_52.png":
+{
+	"frame": {"x":378,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_53.png":
+{
+	"frame": {"x":755,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_54.png":
+{
+	"frame": {"x":1132,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_55.png":
+{
+	"frame": {"x":1509,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_56.png":
+{
+	"frame": {"x":1,"y":193,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_57.png":
+{
+	"frame": {"x":378,"y":193,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_58.png":
+{
+	"frame": {"x":755,"y":193,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_59.png":
+{
+	"frame": {"x":1132,"y":193,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_60.png":
+{
+	"frame": {"x":1509,"y":193,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_61.png":
+{
+	"frame": {"x":1,"y":385,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_62.png":
+{
+	"frame": {"x":1,"y":577,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_63.png":
+{
+	"frame": {"x":1,"y":769,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_64.png":
+{
+	"frame": {"x":1,"y":961,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_65.png":
+{
+	"frame": {"x":1,"y":1153,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_66.png":
+{
+	"frame": {"x":1,"y":1345,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_67.png":
+{
+	"frame": {"x":1,"y":1537,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_68.png":
+{
+	"frame": {"x":1,"y":1729,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_69.png":
+{
+	"frame": {"x":378,"y":385,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_70.png":
+{
+	"frame": {"x":755,"y":385,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_71.png":
+{
+	"frame": {"x":1132,"y":385,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_72.png":
+{
+	"frame": {"x":1509,"y":385,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_73.png":
+{
+	"frame": {"x":378,"y":577,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_74.png":
+{
+	"frame": {"x":755,"y":577,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_75.png":
+{
+	"frame": {"x":1132,"y":577,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_76.png":
+{
+	"frame": {"x":1509,"y":577,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_77.png":
+{
+	"frame": {"x":378,"y":769,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_78.png":
+{
+	"frame": {"x":378,"y":961,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_79.png":
+{
+	"frame": {"x":378,"y":1153,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_80.png":
+{
+	"frame": {"x":378,"y":1345,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_81.png":
+{
+	"frame": {"x":378,"y":1537,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_82.png":
+{
+	"frame": {"x":378,"y":1729,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_83.png":
+{
+	"frame": {"x":755,"y":769,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_84.png":
+{
+	"frame": {"x":1132,"y":769,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_85.png":
+{
+	"frame": {"x":1509,"y":769,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_86.png":
+{
+	"frame": {"x":755,"y":961,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_87.png":
+{
+	"frame": {"x":1132,"y":961,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_88.png":
+{
+	"frame": {"x":1509,"y":961,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_89.png":
+{
+	"frame": {"x":755,"y":1153,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_90.png":
+{
+	"frame": {"x":755,"y":1345,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_91.png":
+{
+	"frame": {"x":755,"y":1537,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_92.png":
+{
+	"frame": {"x":755,"y":1729,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_93.png":
+{
+	"frame": {"x":1132,"y":1153,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_94.png":
+{
+	"frame": {"x":1509,"y":1153,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_95.png":
+{
+	"frame": {"x":1132,"y":1345,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_96.png":
+{
+	"frame": {"x":1509,"y":1345,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_97.png":
+{
+	"frame": {"x":1132,"y":1537,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_98.png":
+{
+	"frame": {"x":1132,"y":1729,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_99.png":
+{
+	"frame": {"x":1509,"y":1537,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"大特效_100.png":
+{
+	"frame": {"x":1509,"y":1729,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "big_win_effect-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1885,"h":1920},
+	"scale": "0.5",
+	"related_multi_packs": [ "big_win_effect-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a314b2c80c2bdb4f39bbfdd8ebefb68a:9003c7b2f66d435bc155394e9d075891:1f5576827151193d8b1a1bb5d789b4c2$"
+}
+}

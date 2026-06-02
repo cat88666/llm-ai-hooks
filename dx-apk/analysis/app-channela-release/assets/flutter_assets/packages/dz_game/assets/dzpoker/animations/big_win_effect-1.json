@@ -1,0 +1,21 @@
+{"frames": {
+
+"大特效_101.png":
+{
+	"frame": {"x":1,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "big_win_effect-1.png",
+	"format": "RGBA8888",
+	"size": {"w":377,"h":192},
+	"scale": "0.5",
+	"related_multi_packs": [ "big_win_effect-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a314b2c80c2bdb4f39bbfdd8ebefb68a:9003c7b2f66d435bc155394e9d075891:1f5576827151193d8b1a1bb5d789b4c2$"
+}
+}

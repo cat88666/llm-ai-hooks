@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 458100761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f1f4bf4adc5f10c1c92dc3044de3cf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2f1f4bf4adc5f10c1c92dc3044de3cf4
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/patch_update_manager.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/download_state_manager.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/hot_update_download_manager.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/hotupdatewindow_view.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/environment_config_manager.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/hotupdatewindow_ctrl.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/url_builder.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/file_system_util.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/batch_download_manager.txt
+- Assets/Temp/home/luascript/ui_module/hotupdatewindow/hotupdatewindow/version_manager.txt
+Dependencies: []

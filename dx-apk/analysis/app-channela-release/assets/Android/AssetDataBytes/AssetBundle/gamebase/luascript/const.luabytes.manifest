@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 273795184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 673443ba697fdce7432176bb2b35c2c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 673443ba697fdce7432176bb2b35c2c2
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/const/screen_aspect_ratio_const.txt
+- Assets/Temp/gamebase/luascript/const/com_name_const.txt
+- Assets/Temp/gamebase/luascript/const/platform_const.txt
+- Assets/Temp/gamebase/luascript/const/flutter_name_const.txt
+- Assets/Temp/gamebase/luascript/const/view_layer_const.txt
+- Assets/Temp/gamebase/luascript/const/environment_const.txt
+- Assets/Temp/gamebase/luascript/const/websocket_state.txt
+- Assets/Temp/gamebase/luascript/const/order_in_layer_const.txt
+Dependencies: []

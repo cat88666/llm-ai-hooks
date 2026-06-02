@@ -1,0 +1,36 @@
+{"frames": {
+
+"icon_01.png":
+{
+	"frame": {"x":1,"y":1,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":36},
+	"sourceSize": {"w":26,"h":36},"duration": 200
+},
+"icon_02.png":
+{
+	"frame": {"x":1,"y":39,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":36},
+	"sourceSize": {"w":26,"h":36},"duration": 200
+},
+"icon_03.png":
+{
+	"frame": {"x":1,"y":77,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":36},
+	"sourceSize": {"w":26,"h":36},"duration": 200
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player_audio_ing.png",
+	"format": "RGBA8888",
+	"size": {"w":28,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8cdef8f3fafed4b376e52ecccc4d64df:520e95a192a5e70018cfe68251a71f88:567827d3fffa5cfe78c03530c267a9e3$"
+}
+}

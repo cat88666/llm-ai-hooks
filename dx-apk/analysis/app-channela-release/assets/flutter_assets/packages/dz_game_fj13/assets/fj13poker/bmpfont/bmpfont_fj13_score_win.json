@@ -1,0 +1,69 @@
+{
+	"strImgPath": "fj13poker/bmpfont",
+	"strImgName": "13shui_win.png",
+	"dSize": 56.0,
+	"dSpace": -23.0,
+	"data": {
+		"+": {
+			"dLeft": 0,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"-": {
+			"dLeft": 48,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"0": {
+			"dLeft": 96,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"1": {
+			"dLeft": 144,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"2": {
+			"dLeft": 192,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"3": {
+			"dLeft": 240,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"4": {
+			"dLeft": 288,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"5": {
+			"dLeft": 336,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"6": {
+			"dLeft": 384,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"7": {
+			"dLeft": 432,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"8": {
+			"dLeft": 480,
+			"dTop": 0,
+			"dWidth": 48
+		},
+		"9": {
+			"dLeft": 528,
+			"dTop": 0,
+			"dWidth": 48
+		}
+
+	}
+}

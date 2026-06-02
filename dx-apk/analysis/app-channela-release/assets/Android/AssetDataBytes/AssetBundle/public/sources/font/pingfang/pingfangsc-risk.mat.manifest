@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1115973103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0655018dc278d8fd1bdccf7a167f736
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0655018dc278d8fd1bdccf7a167f736
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/public/Sources/Font/pingfang/PingFangSC-Risk.mat
+Dependencies:
+- /Users/ec2-user/.jenkins/workspace/3D_Game_Flutter_Unity_Lib/3d_game_flutter_android/AssetBundles/Android/AndroidCompression/public/sources/font/pingfang/pingfangsc
+  sdf.asset

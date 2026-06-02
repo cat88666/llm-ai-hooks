@@ -1,0 +1,3083 @@
+ManifestFileVersion: 0
+CRC: 771331719
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mahjong/luascript/mjgame/const.luabytes
+      Dependencies: {}
+    Info_1:
+      Name: mahjong/sources/modules/bringinchipwindow/image.atlas
+      Dependencies: {}
+    Info_2:
+      Name: mahjong/sources/modules2/chat/chat_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/chat/image/emoji.atlas
+        Dependency_2: mahjong/sources/modules2/chat/spine.bytes
+        Dependency_3: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_4: mahjong/sources/modules2/chat/image.atlas
+        Dependency_5: mahjong/sources/modules2/table/image/mainui.atlas
+        Dependency_6: mahjong/sources/modules2/common/spine.bytes
+        Dependency_7: mahjong/sources/modules/chat/image.atlas
+        Dependency_8: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_9: mahjong/sources/material/gray.mat
+    Info_3:
+      Name: mahjong/sources/modules2/common/image.atlas
+      Dependencies: {}
+    Info_4:
+      Name: mahjong/sources/modules/table/image/seat.atlas
+      Dependencies: {}
+    Info_5:
+      Name: mahjong/sources/modules/chat/spine/emojis/25.bytes
+      Dependencies: {}
+    Info_6:
+      Name: mahjong/luascript/ui_module/barragewindow/barragewindow.luabytes
+      Dependencies: {}
+    Info_7:
+      Name: gamebase/luascript/base/system/timer.luabytes
+      Dependencies: {}
+    Info_8:
+      Name: mahjong/sources/sound/props/prop_sound_11.mp3
+      Dependencies: {}
+    Info_9:
+      Name: mahjong/sources/modules/table/spine/recordspeakunactive.bytes
+      Dependencies: {}
+    Info_10:
+      Name: mahjong/sources/modules/table/spine/hu.bytes
+      Dependencies: {}
+    Info_11:
+      Name: mahjong/sources/models/mjtable/materials.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/texture.bytes
+        Dependency_1: mahjong/sources/models/mjtable/shader.bytes
+    Info_12:
+      Name: mahjong/sources/modules/propwindow/spine/5.bytes
+      Dependencies: {}
+    Info_13:
+      Name: mahjong/sources/modules/public/font/countdown/countdown_yellow.fnt
+      Dependencies: {}
+    Info_14:
+      Name: mahjong/sources/modules/table/image/mahjongui.atlas
+      Dependencies: {}
+    Info_15:
+      Name: mahjong/sources/modules/smallsummary/image.atlas
+      Dependencies: {}
+    Info_16:
+      Name: mahjong/sources/font/xbanker/6.png
+      Dependencies: {}
+    Info_17:
+      Name: mahjong/sources/modules/propwindow/spine/7.bytes
+      Dependencies: {}
+    Info_18:
+      Name: mahjong/sources/modules/help/image.atlas
+      Dependencies: {}
+    Info_19:
+      Name: mahjong/luascript/ui_module/serverupdatetoast.luabytes
+      Dependencies: {}
+    Info_20:
+      Name: mahjong/sources/modules/chat/spine/emojis/1.bytes
+      Dependencies: {}
+    Info_21:
+      Name: mahjong/sources/models/tableappearance_default.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/materials.bytes
+        Dependency_1: mahjong/sources/models/mjtable/fbx.bytes
+        Dependency_2: mahjong/sources/models/tableappearance_default.bytes
+    Info_22:
+      Name: mahjong/sources/modules/table/choosestate/tong/spine.bytes
+      Dependencies: {}
+    Info_23:
+      Name: mahjong/sources/modules/gamereview/image.atlas
+      Dependencies: {}
+    Info_24:
+      Name: mahjong/sources/modules2/table/spine/operate.bytes
+      Dependencies: {}
+    Info_25:
+      Name: mahjong/sources/modules/common/image.atlas
+      Dependencies: {}
+    Info_26:
+      Name: mahjong/sources/sound/cards/man/tiao9.mp3
+      Dependencies: {}
+    Info_27:
+      Name: mahjong/sources/modules/common/spin/loading_boy/loding_boy_skeletondata.asset
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/spin/loading_boy/loding_boy_atlas.asset
+        Dependency_1: mahjong/sources/modules/common/spin/loading_boy/loding_boy_material-additive.mat
+        Dependency_2: mahjong/sources/modules/common/spin/loading_boy/loding_boy.json
+    Info_28:
+      Name: home/sources/modules/common/image.atlas
+      Dependencies: {}
+    Info_29:
+      Name: mahjong/sources/models/tableappearance_dx/texture.bytes
+      Dependencies: {}
+    Info_30:
+      Name: mahjong/sources/modules/table/image/laicardas.atlas
+      Dependencies: {}
+    Info_31:
+      Name: mahjong/sources/modules/table/playway/hu/spine.bytes
+      Dependencies: {}
+    Info_32:
+      Name: mahjong/sources/modules/bringinchipwindow/bringinchipwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/bringinchipwindow/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_33:
+      Name: mahjong/sources/modules/table/playway/peng/spine.bytes
+      Dependencies: {}
+    Info_34:
+      Name: mahjong/sources/modules/buycode/spine.bytes
+      Dependencies: {}
+    Info_35:
+      Name: mahjong/sources/modules/table/spine/broken.bytes
+      Dependencies: {}
+    Info_36:
+      Name: mahjong/sources/modules/chat/spine/emojis/16.bytes
+      Dependencies: {}
+    Info_37:
+      Name: mahjong/sources/modules/common/spin/reconnect/loding_txt_material.mat
+      Dependencies: {}
+    Info_38:
+      Name: mahjong/luascript/mjgame/system.luabytes
+      Dependencies: {}
+    Info_39:
+      Name: mahjong/luascript/ui_module/newmodule.luabytes
+      Dependencies: {}
+    Info_40:
+      Name: mahjong/luascript/mjgame/command.luabytes
+      Dependencies: {}
+    Info_41:
+      Name: mahjong/sources/font/xbanker_dx/0.png
+      Dependencies: {}
+    Info_42:
+      Name: mahjong/sources/modules/propwindow/spine/8.bytes
+      Dependencies: {}
+    Info_43:
+      Name: mahjong/sources/modules/chat/spine/emojis/11.bytes
+      Dependencies: {}
+    Info_44:
+      Name: mahjong/sources/modules/chat/image/emoji.atlas
+      Dependencies: {}
+    Info_45:
+      Name: mahjong/sources/sound/cards/man/tong3.mp3
+      Dependencies: {}
+    Info_46:
+      Name: home/luascript/api.luabytes
+      Dependencies: {}
+    Info_47:
+      Name: mahjong/sources/effect/mahjong/animation.bytes
+      Dependencies: {}
+    Info_48:
+      Name: mahjong/sources/material/avatar_mask_yuan.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/game/shaders.bytes
+    Info_49:
+      Name: mahjong/sources/modules/table/playway/zimo/spine.bytes
+      Dependencies: {}
+    Info_50:
+      Name: mahjong/sources/font/chipscore/chipscore.png
+      Dependencies: {}
+    Info_51:
+      Name: mahjong/sources/modules2/help/image.atlas
+      Dependencies: {}
+    Info_52:
+      Name: mahjong/sources/models/mjtable/fbx.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/animation/point_ani.controller
+        Dependency_1: mahjong/sources/models/model_point.bytes
+    Info_53:
+      Name: mahjong/sources/modules/table/gamestart/spine.bytes
+      Dependencies: {}
+    Info_54:
+      Name: mahjong/sources/modules/table/choosestate/gang/spine.bytes
+      Dependencies: {}
+    Info_55:
+      Name: mahjong/luascript/ui_module/popwindow.luabytes
+      Dependencies: {}
+    Info_56:
+      Name: mahjong/sources/font/xbanker/xbanker.png
+      Dependencies: {}
+    Info_57:
+      Name: mahjong/sources/font/negative/6.png
+      Dependencies: {}
+    Info_58:
+      Name: mahjong/sources/modules2/chat/spine.bytes
+      Dependencies: {}
+    Info_59:
+      Name: mahjong/sources/sound/cards/man/opera2.mp3
+      Dependencies: {}
+    Info_60:
+      Name: mahjong/sources/modules/table/image/mainnew.atlas
+      Dependencies: {}
+    Info_61:
+      Name: mahjong/luascript/ui_module/remarkeditor.luabytes
+      Dependencies: {}
+    Info_62:
+      Name: home/luascript/api/websocket_request.luabytes
+      Dependencies: {}
+    Info_63:
+      Name: mahjong/sources/modules/public/animationbg.prefab
+      Dependencies: {}
+    Info_64:
+      Name: mahjong/sources/modules/table/spine/operate.bytes
+      Dependencies: {}
+    Info_65:
+      Name: mahjong/sources/modules2/table/spine/voicerecordunactive.bytes
+      Dependencies: {}
+    Info_66:
+      Name: mahjong/sources/modules/propwindow/spine/11.bytes
+      Dependencies: {}
+    Info_67:
+      Name: gamebase/luascript/libs/basestruct.luabytes
+      Dependencies: {}
+    Info_68:
+      Name: mahjong/luascript/ui_module/mj_table/3d/table/dice.luabytes
+      Dependencies: {}
+    Info_69:
+      Name: mahjong/sources/sound/common/game_start.mp3
+      Dependencies: {}
+    Info_70:
+      Name: mahjong/sources/modules/chat/spine/emojis/20.bytes
+      Dependencies: {}
+    Info_71:
+      Name: mahjong/sources/modules/chat/spine/emojis/21.bytes
+      Dependencies: {}
+    Info_72:
+      Name: mahjong/sources/modules/personalinfomation/image/props.atlas
+      Dependencies: {}
+    Info_73:
+      Name: mahjong/luascript/mjgame/system/logic/chat.luabytes
+      Dependencies: {}
+    Info_74:
+      Name: mahjong/sources/models/mjtable/texture.bytes
+      Dependencies: {}
+    Info_75:
+      Name: mahjong/sources/modules2/table/image/voicerecord.atlas
+      Dependencies: {}
+    Info_76:
+      Name: public/game/shaders.bytes
+      Dependencies: {}
+    Info_77:
+      Name: home/luascript.luabytes
+      Dependencies: {}
+    Info_78:
+      Name: public/sources/font/pingfang/pingfangsc.ttf
+      Dependencies: {}
+    Info_79:
+      Name: mahjong/sources/font/xbanker_dx/6.png
+      Dependencies: {}
+    Info_80:
+      Name: gamebase/luascript/base/system.luabytes
+      Dependencies: {}
+    Info_81:
+      Name: mahjong/sources/modules/table/animation/table_card_rise_controller.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/animation/table_card_rise_ani.anim
+    Info_82:
+      Name: mahjong/sources/modules/table/spine/recordspeakactive.bytes
+      Dependencies: {}
+    Info_83:
+      Name: mahjong/sources/modules2/smallsummary/image.atlas
+      Dependencies: {}
+    Info_84:
+      Name: mahjong/sources/sound/phrase/woman/phrase12.mp3
+      Dependencies: {}
+    Info_85:
+      Name: home/sources/modules/hotupdatewindow/image/preload.atlas
+      Dependencies: {}
+    Info_86:
+      Name: mahjong/luascript/mjgame.luabytes
+      Dependencies: {}
+    Info_87:
+      Name: mahjong/sources/modules/chat/spine/emojis/18.bytes
+      Dependencies: {}
+    Info_88:
+      Name: mahjong/sources/modules2/commonwindow/public_toastwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc.ttf
+    Info_89:
+      Name: mahjong/sources/models/mjtable.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/materials.bytes
+        Dependency_1: mahjong/sources/models/mjtable/fbx.bytes
+    Info_90:
+      Name: public/sources/font/emojiassets/texturepacker-emoji-apple-64.asset
+      Dependencies:
+        Dependency_0: public/sources/font/emojiassets/texturepacker-emoji-apple-64.png
+    Info_91:
+      Name: mahjong/sources/modules/settingwindow/settingwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/settingwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_92:
+      Name: mahjong/sources/models/model_hand/texture.bytes
+      Dependencies: {}
+    Info_93:
+      Name: mahjong/sources/modules/table/image/mainnew/fight.atlas
+      Dependencies: {}
+    Info_94:
+      Name: mahjong/sources/modules/table/spine/follow.bytes
+      Dependencies: {}
+    Info_95:
+      Name: mahjong/sources/modules/propwindow/spine/9.bytes
+      Dependencies: {}
+    Info_96:
+      Name: mahjong/sources/modules2/personalinfomation/image.atlas
+      Dependencies: {}
+    Info_97:
+      Name: mahjong/luascript/ui_module/mj_table/ui/lai_card_as.luabytes
+      Dependencies: {}
+    Info_98:
+      Name: home/sources/modules2/hotupdatewindow/image/hotupdateui.atlas
+      Dependencies: {}
+    Info_99:
+      Name: mahjong/sources/modules/table/choosestate/wan/spine.bytes
+      Dependencies: {}
+    Info_100:
+      Name: mahjong/luascript/ui_module/mj_table/ui.luabytes
+      Dependencies: {}
+    Info_101:
+      Name: mahjong/sources/modules/table/animation/table_card_rise_ani.anim
+      Dependencies: {}
+    Info_102:
+      Name: mahjong/sources/models/mjtable/effect/hupai_cardeffect/hupai_cardeffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+        Dependency_1: mahjong/sources/models/mjtable/effect/hupai_cardeffect/model.bytes
+    Info_103:
+      Name: mahjong/sources/font/xbanker/x.png
+      Dependencies: {}
+    Info_104:
+      Name: mahjong/sources/modules/public/font/dw.atlas
+      Dependencies: {}
+    Info_105:
+      Name: mahjong/luascript/mjgame/system/logic/player.luabytes
+      Dependencies: {}
+    Info_106:
+      Name: mahjong/sources/sound/cards/man/opera8.mp3
+      Dependencies: {}
+    Info_107:
+      Name: mahjong/sources/sound/cards/woman/wan4.mp3
+      Dependencies: {}
+    Info_108:
+      Name: mahjong/luascript/ui_module/mj_table/ui/menu_panel.luabytes
+      Dependencies: {}
+    Info_109:
+      Name: mahjong/luascript/ui_module/buycodewindow/buycodewindow.luabytes
+      Dependencies: {}
+    Info_110:
+      Name: mahjong/luascript/ui_module/mj_table/manager.luabytes
+      Dependencies: {}
+    Info_111:
+      Name: mahjong/sources/font/negative/3.png
+      Dependencies: {}
+    Info_112:
+      Name: mahjong/sources/modules/chat/spine/emojis/6.bytes
+      Dependencies: {}
+    Info_113:
+      Name: mahjong/sources/sound/cards/man/tong9.mp3
+      Dependencies: {}
+    Info_114:
+      Name: home/luascript/util.luabytes
+      Dependencies: {}
+    Info_115:
+      Name: mahjong/sources/modules/common/spin/serverupdate/text_ani_material.mat
+      Dependencies: {}
+    Info_116:
+      Name: mahjong/sources/modules2/smallsummary/animation/payviewlist_ani.anim
+      Dependencies: {}
+    Info_117:
+      Name: mahjong/sources/modules/public/font/winnumber.atlas
+      Dependencies: {}
+    Info_118:
+      Name: mahjong/sources/sound/cards/man/hu.mp3
+      Dependencies: {}
+    Info_119:
+      Name: mahjong/sources/modules2/chat/image.atlas
+      Dependencies: {}
+    Info_120:
+      Name: mahjong/luascript/ui_module/smallsummary/smallsummary.luabytes
+      Dependencies: {}
+    Info_121:
+      Name: mahjong/sources/modules/chat/spine/emojis/3.bytes
+      Dependencies: {}
+    Info_122:
+      Name: mahjong/sources/models/mjtable/fbx.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/materials.bytes
+        Dependency_1: mahjong/sources/models/mjtable/texture.bytes
+        Dependency_2: mahjong/sources/models/mjtable/fbx/materials.bytes
+    Info_123:
+      Name: home/sources/modules2/common/image.atlas
+      Dependencies: {}
+    Info_124:
+      Name: mahjong/sources/modules2/gamereview/image.atlas
+      Dependencies: {}
+    Info_125:
+      Name: mahjong/sources/modules/table/choosestate/wan/wan.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/wan/spine.bytes
+    Info_126:
+      Name: mahjong/luascript/common.luabytes
+      Dependencies: {}
+    Info_127:
+      Name: mahjong/luascript/ui_module/mj_table/ui/player_seat.luabytes
+      Dependencies: {}
+    Info_128:
+      Name: mahjong/sources/modules2/personalinfomation/image/props.atlas
+      Dependencies: {}
+    Info_129:
+      Name: home/luascript/init.luabytes
+      Dependencies: {}
+    Info_130:
+      Name: mahjong/luascript/ui_module/borrowmoneywindow/borrowmoneywindow.luabytes
+      Dependencies: {}
+    Info_131:
+      Name: mahjong/sources/sound/cards/woman/heavenly_hand.mp3
+      Dependencies: {}
+    Info_132:
+      Name: mahjong/sources/modules/common/spin/loading_boy/loding_boy_atlas.asset
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/spin/loading_boy/loding_boy_material.mat
+        Dependency_1: mahjong/sources/modules/common/spin/loading_boy/loding_boy.atlas.txt
+    Info_133:
+      Name: mahjong/sources/font/negative/,.png
+      Dependencies: {}
+    Info_134:
+      Name: gamebase/luascript/manager/animation.luabytes
+      Dependencies: {}
+    Info_135:
+      Name: mahjong/sources/font/chipscore/7.png
+      Dependencies: {}
+    Info_136:
+      Name: home/luascript/ui_module/hotupdatewindow/hotupdatewindow.luabytes
+      Dependencies: {}
+    Info_137:
+      Name: mahjong/sources/sound/cards/man/cch-bar.mp3
+      Dependencies: {}
+    Info_138:
+      Name: mahjong/sources/sound/props/prop_sound_12_a.mp3
+      Dependencies: {}
+    Info_139:
+      Name: mahjong/sources/modules/table/choosestate/peng/spine.bytes
+      Dependencies: {}
+    Info_140:
+      Name: mahjong/sources/modules/table/image/voicerecord.atlas
+      Dependencies: {}
+    Info_141:
+      Name: mahjong/sources/modules/bringoutchipwindow/image.atlas
+      Dependencies: {}
+    Info_142:
+      Name: gamebase/luascript/util.luabytes
+      Dependencies: {}
+    Info_143:
+      Name: mahjong/sources/modules/gameoverwindow/gameoverwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/gameoverwindow/image.atlas
+    Info_144:
+      Name: mahjong/sources/modules/common/spin/reconnect/loding_txt_skeletondata.asset
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/spin/reconnect/loding_txt.json
+        Dependency_1: mahjong/sources/modules/common/spin/reconnect/loding_txt_atlas.asset
+    Info_145:
+      Name: mahjong/sources/modules/public/font/cardtype/cardtype.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/public/font/cardtype/cardtype.mat
+    Info_146:
+      Name: mahjong/luascript/ui_module/mj_table/ui/menu_panel/voice_record.luabytes
+      Dependencies: {}
+    Info_147:
+      Name: mahjong/sources/modules/table/image/followbanker.atlas
+      Dependencies: {}
+    Info_148:
+      Name: mahjong/sources/modules/personalinfomation/image.atlas
+      Dependencies: {}
+    Info_149:
+      Name: mahjong/sources/modules/profitloss/image.atlas
+      Dependencies: {}
+    Info_150:
+      Name: mahjong/sources/modules/chat/spine/emojis/19.bytes
+      Dependencies: {}
+    Info_151:
+      Name: mahjong/sources/sound/cards/man/tong2.mp3
+      Dependencies: {}
+    Info_152:
+      Name: mahjong/luascript/ui_module/popwindow/popwindow.luabytes
+      Dependencies: {}
+    Info_153:
+      Name: mahjong/sources/modules2/table/image/mainui.atlas
+      Dependencies: {}
+    Info_154:
+      Name: mahjong/sources/modules2/bringoutchipwindow/image.atlas
+      Dependencies: {}
+    Info_155:
+      Name: mahjong/luascript/ui_module/settingwindow/settingwindow.luabytes
+      Dependencies: {}
+    Info_156:
+      Name: mahjong/sources/sound/props/prop_sound_04.mp3
+      Dependencies: {}
+    Info_157:
+      Name: mahjong/luascript/ui_module/mj_table/3d/player/hucard.luabytes
+      Dependencies: {}
+    Info_158:
+      Name: mahjong/sources/modules/table/image.atlas
+      Dependencies: {}
+    Info_159:
+      Name: mahjong/sources/modules/table/spine/buycodehead.bytes
+      Dependencies: {}
+    Info_160:
+      Name: mahjong/luascript/ui_module/peipai.luabytes
+      Dependencies: {}
+    Info_161:
+      Name: mahjong/sources/sound/cards/woman/pure_seven_pairs.mp3
+      Dependencies: {}
+    Info_162:
+      Name: mahjong/sources/modules/public/font/losenumber/losenumber.txt
+      Dependencies: {}
+    Info_163:
+      Name: mahjong/sources/modules/table/choosestate/tiao/spine.bytes
+      Dependencies: {}
+    Info_164:
+      Name: mahjong/sources/font/chipscore/chipscore.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/font/chipscore/chipscore.mat
+    Info_165:
+      Name: mahjong/sources/models/tableappearance_dx.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/fbx.bytes
+        Dependency_1: mahjong/sources/models/tableappearance_dx.bytes
+        Dependency_2: mahjong/sources/models/tableappearance_dx/materials.bytes
+        Dependency_3: mahjong/sources/models/tableappearance_dx/fbx.bytes
+    Info_166:
+      Name: mahjong/sources/font/positive/m.png
+      Dependencies: {}
+    Info_167:
+      Name: mahjong/sources/modules/public/font/losenumber.atlas
+      Dependencies: {}
+    Info_168:
+      Name: mahjong/luascript/ui_module/help/help.luabytes
+      Dependencies: {}
+    Info_169:
+      Name: mahjong/luascript/table_configs.luabytes
+      Dependencies: {}
+    Info_170:
+      Name: mahjong/sources/sound/props/prop_sound_08.mp3
+      Dependencies: {}
+    Info_171:
+      Name: mahjong/sources/modules/settingwindow/image.atlas
+      Dependencies: {}
+    Info_172:
+      Name: mahjong/sources/modules/chat/spine/emojis/15.bytes
+      Dependencies: {}
+    Info_173:
+      Name: mahjong/sources/sound/cards/man/pure_seven_pairs.mp3
+      Dependencies: {}
+    Info_174:
+      Name: mahjong/sources/font/xbanker/xbanker.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/font/xbanker/xbanker.png
+    Info_175:
+      Name: mahjong/sources/font/chipscore/b.png
+      Dependencies: {}
+    Info_176:
+      Name: gamebase/luascript/base.luabytes
+      Dependencies: {}
+    Info_177:
+      Name: mahjong/sources/sound/cards/man/pure_all_pungs.mp3
+      Dependencies: {}
+    Info_178:
+      Name: mahjong/sources/sound/common/hu_lightning_v3.mp3
+      Dependencies: {}
+    Info_179:
+      Name: mahjong/sources/modules/propwindow/spine/4.bytes
+      Dependencies: {}
+    Info_180:
+      Name: mahjong/luascript/ui_module/nobankersettlement/nobankersettlement.luabytes
+      Dependencies: {}
+    Info_181:
+      Name: public/sources/font/emojiassets/texturepacker-emoji-apple-64.json
+      Dependencies: {}
+    Info_182:
+      Name: mahjong/sources/modules/public/font/countdown/countdwon_red.fnt
+      Dependencies: {}
+    Info_183:
+      Name: mahjong/sources/modules/chat/spine/emojis/2.bytes
+      Dependencies: {}
+    Info_184:
+      Name: mahjong/sources/sound/props/prop_sound_10.mp3
+      Dependencies: {}
+    Info_185:
+      Name: mahjong/sources/sound/phrase/man/phrase4.mp3
+      Dependencies: {}
+    Info_186:
+      Name: mahjong/sources/font/xbanker_dx/xbanker_dx.txt
+      Dependencies: {}
+    Info_187:
+      Name: gamebase/luascript/libs/basestruct/parallel.luabytes
+      Dependencies: {}
+    Info_188:
+      Name: mahjong/sources/sound/cards/man/east.mp3
+      Dependencies: {}
+    Info_189:
+      Name: mahjong/sources/models/tableappearance_dx.bytes
+      Dependencies: {}
+    Info_190:
+      Name: mahjong/luascript/ui_module/chat/chat.luabytes
+      Dependencies: {}
+    Info_191:
+      Name: mahjong/sources/font/chipscore/2.png
+      Dependencies: {}
+    Info_192:
+      Name: mahjong/sources/modules/chat/spine/emojis/13.bytes
+      Dependencies: {}
+    Info_193:
+      Name: gamebase/luascript/const.luabytes
+      Dependencies: {}
+    Info_194:
+      Name: mahjong/sources/modules2/table/spine/voicerecordactive.bytes
+      Dependencies: {}
+    Info_195:
+      Name: mahjong/sources/modules/chat/spine/emojis/23.bytes
+      Dependencies: {}
+    Info_196:
+      Name: mahjong/sources/material/arcmask.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_197:
+      Name: mahjong/luascript/ui_module/playerinfowindow.luabytes
+      Dependencies: {}
+    Info_198:
+      Name: mahjong/sources/modules/common/spin/loading_boy/loding_boy_material-additive.mat
+      Dependencies: {}
+    Info_199:
+      Name: mahjong/sources/modules/propwindow/spine/6.bytes
+      Dependencies: {}
+    Info_200:
+      Name: mahjong/sources/modules/commonwindow/public_popwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_201:
+      Name: mahjong/sources/models/tableappearance_dx/materials.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/tableappearance_dx/texture.bytes
+        Dependency_1: mahjong/sources/models/mjtable/shader.bytes
+    Info_202:
+      Name: mahjong/sources/modules2/settingwindow/image.atlas
+      Dependencies: {}
+    Info_203:
+      Name: mahjong/sources/modules2/gamereview/gamereview_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_3: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_4: mahjong/sources/modules/help/image.atlas
+        Dependency_5: mahjong/sources/modules/gamereview/image.atlas
+        Dependency_6: mahjong/sources/modules/common/image.atlas
+        Dependency_7: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_8: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_9: mahjong/sources/modules2/smallsummary/image.atlas
+        Dependency_10: mahjong/sources/modules/table/spine/follow.bytes
+        Dependency_11: mahjong/sources/modules2/gamereview/image.atlas
+        Dependency_12: mahjong/sources/font/xbanker_dx/xbanker_dx.fontsettings
+        Dependency_13: mahjong/sources/modules/table/image/recordmahjong.atlas
+        Dependency_14: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_204:
+      Name: home/luascript/api/websocket_test.luabytes
+      Dependencies: {}
+    Info_205:
+      Name: mahjong/sources/modules/chat/spine/emojis/7.bytes
+      Dependencies: {}
+    Info_206:
+      Name: mahjong/sources/modules/table/animation/point_ani.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/animation/potin_ani.anim
+    Info_207:
+      Name: mahjong/sources/modules/common/loading.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/spin/loading_boy/loding_boy_skeletondata.asset
+        Dependency_2: mahjong/sources/modules/common/spin/reconnect/loding_txt_skeletondata.asset
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_208:
+      Name: mahjong/sources/modules2/common/spine.bytes
+      Dependencies: {}
+    Info_209:
+      Name: mahjong/luascript/ui_module/hotfixupdate.luabytes
+      Dependencies: {}
+    Info_210:
+      Name: mahjong/sources/modules/chat/image.atlas
+      Dependencies: {}
+    Info_211:
+      Name: mahjong/sources/modules/chat/spine/emojis/4.bytes
+      Dependencies: {}
+    Info_212:
+      Name: mahjong/sources/sound/cards/woman/opera2.mp3
+      Dependencies: {}
+    Info_213:
+      Name: mahjong/sources/models/model_hand/fbx.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/model_hand/materials.bytes
+    Info_214:
+      Name: mahjong/luascript/ui_module/barragewindow.luabytes
+      Dependencies: {}
+    Info_215:
+      Name: mahjong/sources/sound/props/prop_sound_13.mp3
+      Dependencies: {}
+    Info_216:
+      Name: mahjong/sources/font/positive/8.png
+      Dependencies: {}
+    Info_217:
+      Name: mahjong/sources/modules/propwindow/spine/14.bytes
+      Dependencies: {}
+    Info_218:
+      Name: mahjong/sources/material/avatar_mask_1.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_219:
+      Name: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+      Dependencies: {}
+    Info_220:
+      Name: mahjong/sources/sound/cards/man/tong1.mp3
+      Dependencies: {}
+    Info_221:
+      Name: mahjong/sources/sound/cards/woman/seven_pairs_2.mp3
+      Dependencies: {}
+    Info_222:
+      Name: mahjong/sources/modules/table/animation/movescore.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/animation/movescore.anim
+    Info_223:
+      Name: mahjong/sources/modules/playback/image.atlas
+      Dependencies: {}
+    Info_224:
+      Name: mahjong/sources/modules/table/playway/peng/pengeffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/playway/peng/spine.bytes
+    Info_225:
+      Name: mahjong/luascript/mjgame/cards.luabytes
+      Dependencies: {}
+    Info_226:
+      Name: mahjong/sources/modules2/commonwindow/loading_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/spin/loading_boy/loding_boy_skeletondata.asset
+        Dependency_2: mahjong/sources/modules/common/spin/reconnect/loding_txt_skeletondata.asset
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_227:
+      Name: mahjong/luascript/ui_module/toastwindow.luabytes
+      Dependencies: {}
+    Info_228:
+      Name: mahjong/luascript/ui_module/loading/loading.luabytes
+      Dependencies: {}
+    Info_229:
+      Name: gamebase/sources/modules/gameroot/gameroot.prefab
+      Dependencies: {}
+    Info_230:
+      Name: gamebase/luascript/base/event.luabytes
+      Dependencies: {}
+    Info_231:
+      Name: mahjong/luascript/mjgame/system/service/mhjong_server.luabytes
+      Dependencies: {}
+    Info_232:
+      Name: mahjong/sources/modules/public/font/winnumber/winnumber.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/public/font/winnumber/winnumber.mat
+    Info_233:
+      Name: mahjong/luascript/ui_module/storytelling/storytelling.luabytes
+      Dependencies: {}
+    Info_234:
+      Name: mahjong/luascript/ui_module/nobankersettlement.luabytes
+      Dependencies: {}
+    Info_235:
+      Name: mahjong/sources/modules/propwindow/spine/3.bytes
+      Dependencies: {}
+    Info_236:
+      Name: gamebase/luascript/base/service.luabytes
+      Dependencies: {}
+    Info_237:
+      Name: mahjong/sources/modules/common/spin/serverupdate/text_ani.json
+      Dependencies: {}
+    Info_238:
+      Name: mahjong/sources/sound/cards/man/peng.mp3
+      Dependencies: {}
+    Info_239:
+      Name: mahjong/sources/sound/cards/woman/flower_kong.mp3
+      Dependencies: {}
+    Info_240:
+      Name: mahjong/sources/models/mjtable/effect/handcardeffect/handcardeffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+    Info_241:
+      Name: mahjong/luascript/ui_module/mj_table/3d/table.luabytes
+      Dependencies: {}
+    Info_242:
+      Name: mahjong/sources/modules/propwindow/spine/2.bytes
+      Dependencies: {}
+    Info_243:
+      Name: mahjong/sources/modules2/bringoutchipwindow/bringoutchipwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/bringoutchipwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_244:
+      Name: mahjong/sources/sound/phrase/man/phrase17.mp3
+      Dependencies: {}
+    Info_245:
+      Name: mahjong/sources/modules/chat/spine/emojis/17.bytes
+      Dependencies: {}
+    Info_246:
+      Name: mahjong/sources/sound/cards/woman/tong9.mp3
+      Dependencies: {}
+    Info_247:
+      Name: home/sources/modules/hotupdatewindow/image/hotupdateui.atlas
+      Dependencies: {}
+    Info_248:
+      Name: mahjong/luascript/ui_module/remarkeditor/remarkeditor.luabytes
+      Dependencies: {}
+    Info_249:
+      Name: mahjong/sources/sound/yuerubaiwan_enter.mp3
+      Dependencies: {}
+    Info_250:
+      Name: mahjong/sources/modules/table/playway/gang/spine.bytes
+      Dependencies: {}
+    Info_251:
+      Name: mahjong/sources/sound/phrase/man/phrase19.mp3
+      Dependencies: {}
+    Info_252:
+      Name: mahjong/sources/sound/cards/woman/pure_one_suit.mp3
+      Dependencies: {}
+    Info_253:
+      Name: public/sources/font/emojiassets/texturepacker-emoji-apple-64.png
+      Dependencies: {}
+    Info_254:
+      Name: mahjong/sources/sound/cards/man/seven_pairs_3.mp3
+      Dependencies: {}
+    Info_255:
+      Name: mahjong/sources/modules/chat/spine/emojis/14.bytes
+      Dependencies: {}
+    Info_256:
+      Name: mahjong/sources/sound/phrase/woman/phrase15.mp3
+      Dependencies: {}
+    Info_257:
+      Name: mahjong/sources/sound/phrase/man/phrase11.mp3
+      Dependencies: {}
+    Info_258:
+      Name: mahjong/sources/sound/cards/man/tiao5.mp3
+      Dependencies: {}
+    Info_259:
+      Name: mahjong/sources/sound/common/victory.mp3
+      Dependencies: {}
+    Info_260:
+      Name: mahjong/luascript/ui_module/gamereview/gamereview.luabytes
+      Dependencies: {}
+    Info_261:
+      Name: mahjong/sources/modules/chat/spine/emojis/5.bytes
+      Dependencies: {}
+    Info_262:
+      Name: mahjong/sources/font/chipscore/m.png
+      Dependencies: {}
+    Info_263:
+      Name: mahjong/sources/modules/barragewindow/image.atlas
+      Dependencies: {}
+    Info_264:
+      Name: mahjong/sources/modules/chat/spine/emojis/24.bytes
+      Dependencies: {}
+    Info_265:
+      Name: mahjong/sources/modules/chat/spine/emojis/12.bytes
+      Dependencies: {}
+    Info_266:
+      Name: mahjong/sources/sound/props/prop_sound_05.mp3
+      Dependencies: {}
+    Info_267:
+      Name: gamebase/luascript/manager.luabytes
+      Dependencies: {}
+    Info_268:
+      Name: mahjong/sources/modules2/remarkeditor/image.atlas
+      Dependencies: {}
+    Info_269:
+      Name: mahjong/sources/modules/disbandroomwindow/image.atlas
+      Dependencies: {}
+    Info_270:
+      Name: mahjong/luascript/mjgame/hand.luabytes
+      Dependencies: {}
+    Info_271:
+      Name: mahjong/sources/sound/cards/woman/pure_single_tile.mp3
+      Dependencies: {}
+    Info_272:
+      Name: mahjong/sources/modules/table/choosestate/hu/spine.bytes
+      Dependencies: {}
+    Info_273:
+      Name: mahjong/luascript/ui_module/borrowmoneywindow.luabytes
+      Dependencies: {}
+    Info_274:
+      Name: mahjong/luascript/ui_module/mj_table/3d/player/showcard.luabytes
+      Dependencies: {}
+    Info_275:
+      Name: mahjong/sources/sound/cards/man/wan8.mp3
+      Dependencies: {}
+    Info_276:
+      Name: mahjong/sources/modules/help/mj_help.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_1: mahjong/sources/modules/help/image.atlas
+        Dependency_2: mahjong/sources/modules/common/image.atlas
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_277:
+      Name: mahjong/sources/modules/table/choosestate/guo/spine.bytes
+      Dependencies: {}
+    Info_278:
+      Name: gamebase/luascript/manager/net.luabytes
+      Dependencies: {}
+    Info_279:
+      Name: mahjong/sources/modules/gameoverwindow/image.atlas
+      Dependencies: {}
+    Info_280:
+      Name: mahjong/luascript/ui_module/storytelling.luabytes
+      Dependencies: {}
+    Info_281:
+      Name: mahjong/sources/modules/chat/spine/emojis/10.bytes
+      Dependencies: {}
+    Info_282:
+      Name: mahjong/sources/modules2/bringinchipwindow/image.atlas
+      Dependencies: {}
+    Info_283:
+      Name: mahjong/sources/modules/risk/image.atlas
+      Dependencies: {}
+    Info_284:
+      Name: mahjong/sources/modules/table/choosestate/peng/peng.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/peng/spine.bytes
+    Info_285:
+      Name: mahjong/sources/sound/common/call_transfer.mp3
+      Dependencies: {}
+    Info_286:
+      Name: mahjong/sources/font/positive/p.png
+      Dependencies: {}
+    Info_287:
+      Name: mahjong/sources/sound/props/prop_sound_03.mp3
+      Dependencies: {}
+    Info_288:
+      Name: mahjong/sources/font/xbanker_dx/5.png
+      Dependencies: {}
+    Info_289:
+      Name: mahjong/sources/material/spinedefault.mat
+      Dependencies: {}
+    Info_290:
+      Name: mahjong/sources/sound/cards/woman/robbing_kong.mp3
+      Dependencies: {}
+    Info_291:
+      Name: mahjong/sources/sound/phrase/man/phrase16.mp3
+      Dependencies: {}
+    Info_292:
+      Name: mahjong/sources/modules/table/playway/hu/hueffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/playway/hu/spine.bytes
+    Info_293:
+      Name: mahjong/sources/sound/cards/man/tiao1.mp3
+      Dependencies: {}
+    Info_294:
+      Name: home/sources/modules2/hotupdatewindow/image/preload.atlas
+      Dependencies: {}
+    Info_295:
+      Name: mahjong/sources/modules/public/font/dw/dw.txt
+      Dependencies: {}
+    Info_296:
+      Name: mahjong/luascript/ui_module/settingwindow.luabytes
+      Dependencies: {}
+    Info_297:
+      Name: mahjong/sources/sound/common/draw_game.mp3
+      Dependencies: {}
+    Info_298:
+      Name: mahjong/luascript/ui_module/mj_table.luabytes
+      Dependencies: {}
+    Info_299:
+      Name: mahjong/sources/font/positive/4.png
+      Dependencies: {}
+    Info_300:
+      Name: mahjong/luascript/ui_module/mj_table/3d.luabytes
+      Dependencies: {}
+    Info_301:
+      Name: mahjong/sources/modules2/remarkeditor/remarkeditor_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_2: mahjong/sources/modules2/renameeditor/image.atlas
+    Info_302:
+      Name: mahjong/sources/font/xbanker_dx/xbanker_dx.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/font/xbanker_dx/xbanker_dx.mat
+    Info_303:
+      Name: mahjong/sources/sound/phrase/woman/phrase4.mp3
+      Dependencies: {}
+    Info_304:
+      Name: mahjong/sources/font/xbanker_dx/7.png
+      Dependencies: {}
+    Info_305:
+      Name: mahjong/sources/font/positive/6.png
+      Dependencies: {}
+    Info_306:
+      Name: mahjong/luascript/ui_module/disbandroomwindow/disbandroomwindow.luabytes
+      Dependencies: {}
+    Info_307:
+      Name: mahjong/luascript/ui_module/hotfixupdate/hotfixupdate.luabytes
+      Dependencies: {}
+    Info_308:
+      Name: public/sources/font/pingfang/pingfangsc-risk.mat
+      Dependencies:
+        Dependency_0: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_309:
+      Name: mahjong/luascript/ui_module/loading.luabytes
+      Dependencies: {}
+    Info_310:
+      Name: mahjong/sources/models/model_point.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/texture.bytes
+        Dependency_1: mahjong/sources/models/model_point/materials.bytes
+    Info_311:
+      Name: mahjong/sources/models/mjtable/shader.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/texture.bytes
+    Info_312:
+      Name: mahjong/sources/modules/drawinghand/image.atlas
+      Dependencies: {}
+    Info_313:
+      Name: gamebase/luascript/base/command.luabytes
+      Dependencies: {}
+    Info_314:
+      Name: mahjong/luascript/ui_module/mj_table/3d/player.luabytes
+      Dependencies: {}
+    Info_315:
+      Name: mahjong/sources/font/positive/3.png
+      Dependencies: {}
+    Info_316:
+      Name: mahjong/sources/sound/common/click_hand_card.mp3
+      Dependencies: {}
+    Info_317:
+      Name: mahjong/sources/modules2/profitloss/image.atlas
+      Dependencies: {}
+    Info_318:
+      Name: mahjong/sources/font/xbanker_dx/xbanker_dx.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/font/xbanker_dx/xbanker_dx.png
+    Info_319:
+      Name: mahjong/luascript/ui_module/club/club.luabytes
+      Dependencies: {}
+    Info_320:
+      Name: mahjong/sources/sound/cards/woman/wan8.mp3
+      Dependencies: {}
+    Info_321:
+      Name: mahjong/sources/material/simplegrabpassblur.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_322:
+      Name: mahjong/sources/font/chipscore/3.png
+      Dependencies: {}
+    Info_323:
+      Name: home/luascript/system.luabytes
+      Dependencies: {}
+    Info_324:
+      Name: mahjong/luascript/ui_module/risk/risk.luabytes
+      Dependencies: {}
+    Info_325:
+      Name: mahjong/sources/font/positive/positive_1.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/font/positive/positive_2.mat
+    Info_326:
+      Name: mahjong/luascript/ui_module/profitandloss/profitandloss.luabytes
+      Dependencies: {}
+    Info_327:
+      Name: mahjong/sources/modules/chat/spine/emojis/0.bytes
+      Dependencies: {}
+    Info_328:
+      Name: mahjong/sources/modules/table/playway/zimo/zimoeffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/playway/zimo/spine.bytes
+    Info_329:
+      Name: mahjong/sources/modules/calcdrawing/mahjong_table.txt
+      Dependencies: {}
+    Info_330:
+      Name: mahjong/sources/sound/phrase/woman/phrase6.mp3
+      Dependencies: {}
+    Info_331:
+      Name: gamebase/luascript/table_configs.luabytes
+      Dependencies: {}
+    Info_332:
+      Name: mahjong/sources/font/negative/0.png
+      Dependencies: {}
+    Info_333:
+      Name: mahjong/sources/models/mjtable/animation.bytes
+      Dependencies: {}
+    Info_334:
+      Name: mahjong/sources/sound/cards/man/tiao8.mp3
+      Dependencies: {}
+    Info_335:
+      Name: mahjong/sources/modules/chat/spine/emojis/8.bytes
+      Dependencies: {}
+    Info_336:
+      Name: mahjong/sources/modules/table/image/recordmahjong.atlas
+      Dependencies: {}
+    Info_337:
+      Name: mahjong/sources/sound/phrase/woman/phrase17.mp3
+      Dependencies: {}
+    Info_338:
+      Name: home/sources/modules/hotupdatewindow/hotupdatewindow.prefab
+      Dependencies:
+        Dependency_0: home/sources/modules/common/image.atlas
+        Dependency_1: home/sources/modules/hotupdatewindow/image/hotupdateui.atlas
+        Dependency_2: home/sources/modules/hotupdatewindow/spine/boy.bytes
+    Info_339:
+      Name: mahjong/sources/modules/common/serverupdate.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/spin/loading_boy/loding_boy_skeletondata.asset
+        Dependency_2: mahjong/sources/modules/common/spin/serverupdate/text_ani_skeletondata.asset
+    Info_340:
+      Name: mahjong/luascript/ui_module/mj_table/effect.luabytes
+      Dependencies: {}
+    Info_341:
+      Name: mahjong/sources/font/chipscore/0.png
+      Dependencies: {}
+    Info_342:
+      Name: mahjong/sources/sound/cards/woman/tiao4.mp3
+      Dependencies: {}
+    Info_343:
+      Name: mahjong/sources/modules/propwindow/spine/12.bytes
+      Dependencies: {}
+    Info_344:
+      Name: mahjong/luascript/ui_module/mj_table/3d/table/cardwall.luabytes
+      Dependencies: {}
+    Info_345:
+      Name: mahjong/luascript/mjgame/system/logic/currentplayer.luabytes
+      Dependencies: {}
+    Info_346:
+      Name: mahjong/sources/sound/cards/man/wan5.mp3
+      Dependencies: {}
+    Info_347:
+      Name: mahjong/sources/font/chipscore/9.png
+      Dependencies: {}
+    Info_348:
+      Name: mahjong/sources/modules/propwindow/spine/10.bytes
+      Dependencies: {}
+    Info_349:
+      Name: mahjong/luascript/ui_module/bringoutchipwindow/bringoutchipwindow.luabytes
+      Dependencies: {}
+    Info_350:
+      Name: mahjong/sources/sound/cards/woman/b-bar.mp3
+      Dependencies: {}
+    Info_351:
+      Name: mahjong/sources/sound/cards/man/red_dragon_4.mp3
+      Dependencies: {}
+    Info_352:
+      Name: mahjong/sources/sound/phrase/man/phrase21.mp3
+      Dependencies: {}
+    Info_353:
+      Name: mahjong/luascript/ui_module/mj_table/3d/player/downcard.luabytes
+      Dependencies: {}
+    Info_354:
+      Name: home/luascript/ui_module/popwindow.luabytes
+      Dependencies: {}
+    Info_355:
+      Name: mahjong/sources/sound/cards/woman/seven_pairs.mp3
+      Dependencies: {}
+    Info_356:
+      Name: mahjong/sources/font/negative/8.png
+      Dependencies: {}
+    Info_357:
+      Name: mahjong/sources/font/negative/negative_texture.png
+      Dependencies: {}
+    Info_358:
+      Name: mahjong/sources/modules/common/spin/serverupdate/text_ani_skeletondata.asset
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/spin/serverupdate/text_ani.json
+        Dependency_1: mahjong/sources/modules/common/spin/serverupdate/text_ani_atlas.asset
+    Info_359:
+      Name: mahjong/sources/sound/bangdingsj.mp3
+      Dependencies: {}
+    Info_360:
+      Name: mahjong/sources/sound/cards/woman/tiao2.mp3
+      Dependencies: {}
+    Info_361:
+      Name: mahjong/sources/font/xbanker/5.png
+      Dependencies: {}
+    Info_362:
+      Name: mahjong/luascript/ui_module/risk.luabytes
+      Dependencies: {}
+    Info_363:
+      Name: gamebase/luascript/libs/xlua.luabytes
+      Dependencies: {}
+    Info_364:
+      Name: mahjong/luascript/mjgame/system/adapter.luabytes
+      Dependencies: {}
+    Info_365:
+      Name: mahjong/sources/modules/storytelling/storytelling.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/storytelling/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_366:
+      Name: mahjong/sources/sound/phrase/woman/phrase11.mp3
+      Dependencies: {}
+    Info_367:
+      Name: home/sources/modules/commonwindow/public_popwindow.prefab
+      Dependencies:
+        Dependency_0: home/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_368:
+      Name: mahjong/sources/font/chipscore/8.png
+      Dependencies: {}
+    Info_369:
+      Name: mahjong/sources/modules/propwindow/spine/1.bytes
+      Dependencies: {}
+    Info_370:
+      Name: mahjong/sources/sound/cards/woman/tong2.mp3
+      Dependencies: {}
+    Info_371:
+      Name: mahjong/sources/modules/chat/spine/emojis/22.bytes
+      Dependencies: {}
+    Info_372:
+      Name: mahjong/sources/sound/cards/man/earthly_hand.mp3
+      Dependencies: {}
+    Info_373:
+      Name: mahjong/sources/sound/bgmmusic/main.mp3
+      Dependencies: {}
+    Info_374:
+      Name: mahjong/luascript/ui_module/gameoverwindow/gameoverwindow.luabytes
+      Dependencies: {}
+    Info_375:
+      Name: mahjong/sources/modules/table/choosestate/guo/guo.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/guo/spine.bytes
+    Info_376:
+      Name: gamebase/luascript/base/utils.luabytes
+      Dependencies: {}
+    Info_377:
+      Name: mahjong/sources/font/chipscore/chipscore.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/font/chipscore/chipscore.png
+    Info_378:
+      Name: mahjong/luascript/ui_module/peipai/peipai.luabytes
+      Dependencies: {}
+    Info_379:
+      Name: mahjong/sources/sound/cards/man/single_tile.mp3
+      Dependencies: {}
+    Info_380:
+      Name: mahjong/sources/modules2/personalinfomation/mj_personalinfo_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_2: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_3: mahjong/sources/modules2/personalinfomation/image.atlas
+        Dependency_4: mahjong/sources/modules2/personalinfomation/image/props.atlas
+        Dependency_5: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_6: mahjong/sources/modules2/table/spine/exclamationeffect.bytes
+    Info_381:
+      Name: mahjong/sources/sound/phrase/man/phrase5.mp3
+      Dependencies: {}
+    Info_382:
+      Name: mahjong/sources/modules/table/animation/potin_ani.anim
+      Dependencies: {}
+    Info_383:
+      Name: mahjong/sources/modules/table/spine/firerope.bytes
+      Dependencies: {}
+    Info_384:
+      Name: mahjong/sources/sound/props/prop_sound_14_new.mp3
+      Dependencies: {}
+    Info_385:
+      Name: mahjong/sources/modules/disbandroomwindow/disbandroomwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/disbandroomwindow/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_386:
+      Name: mahjong/sources/modules/public/font/winnumber/winnumber.mat
+      Dependencies: {}
+    Info_387:
+      Name: mahjong/luascript/ui_module/bringoutchipwindow.luabytes
+      Dependencies: {}
+    Info_388:
+      Name: mahjong/sources/font/negative/negative_1.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/font/negative/negative_2.mat
+    Info_389:
+      Name: mahjong/sources/font/chipscore/5.png
+      Dependencies: {}
+    Info_390:
+      Name: mahjong/sources/font/chipscore/4.png
+      Dependencies: {}
+    Info_391:
+      Name: mahjong/sources/material/arcmask128.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_392:
+      Name: mahjong/luascript/ui_module/drawinghandwindow/drawinghandwindow.luabytes
+      Dependencies: {}
+    Info_393:
+      Name: mahjong/sources/modules/propwindow/spine/13.bytes
+      Dependencies: {}
+    Info_394:
+      Name: mahjong/luascript/ui_module/club.luabytes
+      Dependencies: {}
+    Info_395:
+      Name: mahjong/sources/font/xbanker_dx/xbanker_dx.png
+      Dependencies: {}
+    Info_396:
+      Name: gamebase/luascript/config.luabytes
+      Dependencies: {}
+    Info_397:
+      Name: mahjong/sources/models/model_point/materials.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/texture.bytes
+    Info_398:
+      Name: gamebase/sources/modules/login/login.prefab
+      Dependencies: {}
+    Info_399:
+      Name: mahjong/sources/sound/cards/woman/tong7.mp3
+      Dependencies: {}
+    Info_400:
+      Name: mahjong/sources/sound/button.ogg
+      Dependencies: {}
+    Info_401:
+      Name: mahjong/sources/models/model_hand/materials.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/texture.bytes
+        Dependency_1: mahjong/sources/models/model_hand/texture.bytes
+    Info_402:
+      Name: mahjong/luascript/ui_module/mj_table/ui/replay.luabytes
+      Dependencies: {}
+    Info_403:
+      Name: home/luascript/api/http.luabytes
+      Dependencies: {}
+    Info_404:
+      Name: mahjong/sources/modules/table/choosestate/huanpai/spine.bytes
+      Dependencies: {}
+    Info_405:
+      Name: mahjong/sources/sound/cards/man/pure_seven_pairs_3.mp3
+      Dependencies: {}
+    Info_406:
+      Name: mahjong/sources/sound/cards/woman/pure_seven_pairs_1.mp3
+      Dependencies: {}
+    Info_407:
+      Name: mahjong/sources/font/positive/,.png
+      Dependencies: {}
+    Info_408:
+      Name: mahjong/sources/modules/table/prefabs/table.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/materials.bytes
+        Dependency_1: mahjong/sources/modules/table/animation/table_card_rise_controller.controller
+        Dependency_2: mahjong/sources/models/mjtable/fbx.bytes
+        Dependency_3: mahjong/sources/modules/table/animation/point_ani.controller
+        Dependency_4: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+        Dependency_5: mahjong/sources/models/model_point.bytes
+        Dependency_6: mahjong/sources/models/mjtable/animation.bytes
+        Dependency_7: mahjong/sources/models/mjtable/dicefbx/fbx.bytes
+        Dependency_8: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_9: mahjong/sources/modules/public/font/countdown/countdown.fontsettings
+    Info_409:
+      Name: mahjong/sources/modules/storytelling/image.atlas
+      Dependencies: {}
+    Info_410:
+      Name: mahjong/sources/font/positive/5.png
+      Dependencies: {}
+    Info_411:
+      Name: mahjong/sources/sound/phrase/woman/phrase10.mp3
+      Dependencies: {}
+    Info_412:
+      Name: mahjong/luascript/ui_module/bringinchipwindow/bringinchipwindow.luabytes
+      Dependencies: {}
+    Info_413:
+      Name: home/luascript/ui_module/popwindow/popwindow.luabytes
+      Dependencies: {}
+    Info_414:
+      Name: mahjong/sources/sound/cards/woman/kong.mp3
+      Dependencies: {}
+    Info_415:
+      Name: mahjong/sources/sound/cards/man/seven_pairs.mp3
+      Dependencies: {}
+    Info_416:
+      Name: mahjong/sources/font/negative/+.png
+      Dependencies: {}
+    Info_417:
+      Name: mahjong/sources/sound/cards/man/tiao3.mp3
+      Dependencies: {}
+    Info_418:
+      Name: mahjong/sources/font/xbanker/0.png
+      Dependencies: {}
+    Info_419:
+      Name: mahjong/sources/modules/profitloss/profitandloss.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_3: mahjong/sources/modules/help/image.atlas
+        Dependency_4: mahjong/sources/modules/common/image.atlas
+        Dependency_5: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_6: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_7: mahjong/sources/modules/personalinfomation/image.atlas
+        Dependency_8: mahjong/sources/modules/profitloss/image.atlas
+        Dependency_9: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_420:
+      Name: mahjong/sources/sound/cards/man/flat_hu.mp3
+      Dependencies: {}
+    Info_421:
+      Name: mahjong/sources/sound/cards/woman/hu_3.mp3
+      Dependencies: {}
+    Info_422:
+      Name: mahjong/sources/sound/cards/man/south.mp3
+      Dependencies: {}
+    Info_423:
+      Name: mahjong/sources/font/chipscore/k.png
+      Dependencies: {}
+    Info_424:
+      Name: mahjong/sources/sound/cards/woman/hu_2.mp3
+      Dependencies: {}
+    Info_425:
+      Name: mahjong/sources/modules/remarkeditor/image.atlas
+      Dependencies: {}
+    Info_426:
+      Name: mahjong/sources/modules/risk/public_risk.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_1: mahjong/sources/modules/risk/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc-risk.mat
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_427:
+      Name: mahjong/sources/models/mjtable/dicefbx/fbx.bytes
+      Dependencies: {}
+    Info_428:
+      Name: mahjong/sources/material/shangchengsg.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_429:
+      Name: mahjong/luascript/ui_module/mj_table/3d/table/turn.luabytes
+      Dependencies: {}
+    Info_430:
+      Name: mahjong/sources/modules/table/spine/bankrupt.bytes
+      Dependencies: {}
+    Info_431:
+      Name: mahjong/sources/sound/cards/man/zimo.mp3
+      Dependencies: {}
+    Info_432:
+      Name: mahjong/luascript/ui_module/toastwindow/toastwindow.luabytes
+      Dependencies: {}
+    Info_433:
+      Name: mahjong/luascript/ui_module/profitandloss.luabytes
+      Dependencies: {}
+    Info_434:
+      Name: mahjong/luascript/ui_module/personalinfo/personalinfo.luabytes
+      Dependencies: {}
+    Info_435:
+      Name: mahjong/sources/modules/common/spin/reconnect/loding_txt.json
+      Dependencies: {}
+    Info_436:
+      Name: mahjong/sources/sound/phrase/woman/phrase14.mp3
+      Dependencies: {}
+    Info_437:
+      Name: mahjong/luascript/ui_module/bringinchipwindow.luabytes
+      Dependencies: {}
+    Info_438:
+      Name: mahjong/sources/sound/cards/man/tong4.mp3
+      Dependencies: {}
+    Info_439:
+      Name: mahjong/sources/sound/common/insurance_get.mp3
+      Dependencies: {}
+    Info_440:
+      Name: mahjong/sources/modules2/table/prefabs/mj13_table3dui_dx.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_3: mahjong/sources/modules2/table/spine/operate.bytes
+        Dependency_4: mahjong/sources/modules/common/image.atlas
+        Dependency_5: mahjong/sources/modules/table/image/laicardas.atlas
+        Dependency_6: mahjong/sources/effect/mahjong/animation.bytes
+        Dependency_7: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_8: mahjong/sources/modules/table/choosestate/gang/spine.bytes
+        Dependency_9: mahjong/sources/modules/table/image/mainnew.atlas
+        Dependency_10: mahjong/sources/modules/table/spine/operate.bytes
+        Dependency_11: mahjong/sources/modules2/table/spine/voicerecordunactive.bytes
+        Dependency_12: mahjong/sources/modules2/table/image/voicerecord.atlas
+        Dependency_13: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_14: mahjong/sources/modules/table/spine/follow.bytes
+        Dependency_15: mahjong/sources/modules2/personalinfomation/image.atlas
+        Dependency_16: mahjong/sources/modules/table/choosestate/peng/spine.bytes
+        Dependency_17: mahjong/sources/modules/table/image/followbanker.atlas
+        Dependency_18: mahjong/sources/modules2/table/image/mainui.atlas
+        Dependency_19: mahjong/sources/modules/table/spine/buycodehead.bytes
+        Dependency_20: mahjong/sources/modules2/table/spine/voicerecordactive.bytes
+        Dependency_21: mahjong/sources/modules2/common/spine.bytes
+        Dependency_22: mahjong/sources/modules/table/animation/movescore.controller
+        Dependency_23: mahjong/sources/modules/playback/image.atlas
+        Dependency_24: mahjong/sources/modules/table/choosestate/hu/spine.bytes
+        Dependency_25: mahjong/sources/modules/table/choosestate/guo/spine.bytes
+        Dependency_26: mahjong/sources/font/xbanker_dx/xbanker_dx.fontsettings
+        Dependency_27: mahjong/sources/font/positive/positive_1.fontsettings
+        Dependency_28: mahjong/sources/modules/table/spine/firerope.bytes
+        Dependency_29: mahjong/sources/font/negative/negative_1.fontsettings
+        Dependency_30: mahjong/sources/modules/table/image/seatdefault.atlas
+        Dependency_31: mahjong/sources/modules/table/image/console.atlas
+        Dependency_32: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_33: mahjong/sources/modules2/table/spine/hu_basic.bytes
+        Dependency_34: mahjong/sources/modules2/table/spine/hu_common.bytes
+        Dependency_35: mahjong/sources/modules2/bringinreview/image.atlas
+        Dependency_36: mahjong/sources/modules2/table/spine/exclamationeffect.bytes
+    Info_441:
+      Name: mahjong/luascript/ui_module/propwindow/propwindow.luabytes
+      Dependencies: {}
+    Info_442:
+      Name: mahjong/sources/sound/cards/woman/tiao5.mp3
+      Dependencies: {}
+    Info_443:
+      Name: mahjong/sources/modules/gamereview/gamereview.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_3: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_4: mahjong/sources/modules/help/image.atlas
+        Dependency_5: mahjong/sources/modules/gamereview/image.atlas
+        Dependency_6: mahjong/sources/modules/common/image.atlas
+        Dependency_7: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_8: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_9: mahjong/sources/modules/table/spine/follow.bytes
+        Dependency_10: mahjong/sources/modules/public/font/cardtype/cardtype.fontsettings
+        Dependency_11: mahjong/sources/modules/public/font/winnumber/winnumber.fontsettings
+        Dependency_12: mahjong/sources/modules/table/image/recordmahjong.atlas
+        Dependency_13: mahjong/sources/font/xbanker/xbanker.fontsettings
+        Dependency_14: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_15: mahjong/sources/modules/public/font/losenumber/losenumber.fontsettings
+    Info_444:
+      Name: mahjong/sources/font/negative/5.png
+      Dependencies: {}
+    Info_445:
+      Name: mahjong/sources/sound/cards/man/wan3.mp3
+      Dependencies: {}
+    Info_446:
+      Name: mahjong/sources/font/chipscore/chipscore.txt
+      Dependencies: {}
+    Info_447:
+      Name: mahjong/sources/font/xbanker_dx/2.png
+      Dependencies: {}
+    Info_448:
+      Name: mahjong/luascript/ui_module/buycodewindow.luabytes
+      Dependencies: {}
+    Info_449:
+      Name: mahjong/sources/sound/phrase/man/phrase2.mp3
+      Dependencies: {}
+    Info_450:
+      Name: mahjong/sources/modules/table/image/seatdefault.atlas
+      Dependencies: {}
+    Info_451:
+      Name: home/sources/modules2/hotupdatewindow/hotupdatewindow_2.prefab
+      Dependencies:
+        Dependency_0: home/sources/modules2/hotupdatewindow/image/hotupdateui.atlas
+        Dependency_1: home/sources/modules2/common/image.atlas
+        Dependency_2: home/sources/modules/hotupdatewindow/image/hotupdateui.atlas
+    Info_452:
+      Name: mahjong/sources/sound/cards/man/wan1.mp3
+      Dependencies: {}
+    Info_453:
+      Name: mahjong/sources/sound/phrase/woman/phrase21.mp3
+      Dependencies: {}
+    Info_454:
+      Name: mahjong/luascript/ui_module/mj_table/ui/operater_panel.luabytes
+      Dependencies: {}
+    Info_455:
+      Name: mahjong/sources/font/positive/1.png
+      Dependencies: {}
+    Info_456:
+      Name: mahjong/sources/modules/chat/spine/emojis/27.bytes
+      Dependencies: {}
+    Info_457:
+      Name: mahjong/sources/modules/public/font/cardtype/cardtype.mat
+      Dependencies: {}
+    Info_458:
+      Name: mahjong/sources/sound/cards/woman/single_tile.mp3
+      Dependencies: {}
+    Info_459:
+      Name: mahjong/luascript/ui_module/propwindow.luabytes
+      Dependencies: {}
+    Info_460:
+      Name: mahjong/sources/modules/remarkeditor/remarkeditor.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/help/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/modules/personalinfomation/image.atlas
+        Dependency_3: mahjong/sources/modules/remarkeditor/image.atlas
+        Dependency_4: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_461:
+      Name: mahjong/sources/material/avatar_mask.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_462:
+      Name: mahjong/sources/sound/cards/woman/tong3.mp3
+      Dependencies: {}
+    Info_463:
+      Name: mahjong/sources/modules2/drawinghand/drawinghandwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_464:
+      Name: mahjong/sources/sound/cards/man/wan7.mp3
+      Dependencies: {}
+    Info_465:
+      Name: mahjong/sources/sound/cards/man/tong5.mp3
+      Dependencies: {}
+    Info_466:
+      Name: mahjong/sources/sound/props/prop_sound_12_btoa.mp3
+      Dependencies: {}
+    Info_467:
+      Name: mahjong/luascript/ui_module/gamereview.luabytes
+      Dependencies: {}
+    Info_468:
+      Name: mahjong/sources/font/chipscore/$.png
+      Dependencies: {}
+    Info_469:
+      Name: mahjong/sources/modules/common/spin/loading_boy/loding_boy_material.mat
+      Dependencies: {}
+    Info_470:
+      Name: mahjong/sources/sound/common/countdown_3s.mp3
+      Dependencies: {}
+    Info_471:
+      Name: mahjong/sources/sound/cards/woman/pung.mp3
+      Dependencies: {}
+    Info_472:
+      Name: mahjong/sources/sound/cards/woman/earthly_hand.mp3
+      Dependencies: {}
+    Info_473:
+      Name: mahjong/sources/sound/cards/woman/pure_seven_pairs_3.mp3
+      Dependencies: {}
+    Info_474:
+      Name: mahjong/sources/sound/bgmmusic/bgmfight3.mp3
+      Dependencies: {}
+    Info_475:
+      Name: mahjong/sources/sound/cards/man/tiao2.mp3
+      Dependencies: {}
+    Info_476:
+      Name: mahjong/sources/modules/chat/spine/emojis/26.bytes
+      Dependencies: {}
+    Info_477:
+      Name: mahjong/sources/modules2/help/mj_help_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_2: mahjong/sources/modules2/help/image.atlas
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_478:
+      Name: mahjong/sources/models/mjtable/fbx/materials.bytes
+      Dependencies: {}
+    Info_479:
+      Name: mahjong/sources/modules/chat/spine/emojis/9.bytes
+      Dependencies: {}
+    Info_480:
+      Name: mahjong/sources/font/negative/k.png
+      Dependencies: {}
+    Info_481:
+      Name: mahjong/sources/modules2/smallsummary/smallsummary_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_3: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_4: mahjong/sources/modules/common/image.atlas
+        Dependency_5: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_6: mahjong/sources/modules2/smallsummary/image.atlas
+        Dependency_7: mahjong/sources/font/xbanker_dx/xbanker_dx.fontsettings
+        Dependency_8: mahjong/sources/modules/table/image/recordmahjong.atlas
+        Dependency_9: mahjong/sources/modules/smallsummary/animation/payviewlist_ani.controller
+        Dependency_10: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_11: mahjong/sources/modules/smallsummary/animation/tag_anim.controller
+    Info_482:
+      Name: mahjong/luascript/ui_module/personalinfo.luabytes
+      Dependencies: {}
+    Info_483:
+      Name: mahjong/sources/sound/cards/woman/red_dragon_4.mp3
+      Dependencies: {}
+    Info_484:
+      Name: home/sources/modules2/hotupdatewindow/image/bg.atlas
+      Dependencies: {}
+    Info_485:
+      Name: mahjong/sources/sound/cards/man/seven_pairs_2.mp3
+      Dependencies: {}
+    Info_486:
+      Name: mahjong/sources/sound/phrase/man/phrase23.mp3
+      Dependencies: {}
+    Info_487:
+      Name: mahjong/luascript/ui_module/drawinghandwindow.luabytes
+      Dependencies: {}
+    Info_488:
+      Name: mahjong/sources/font/negative/4.png
+      Dependencies: {}
+    Info_489:
+      Name: mahjong/luascript/ui_module/tableconfigmock.luabytes
+      Dependencies: {}
+    Info_490:
+      Name: mahjong/sources/sound/cards/woman/seven_pairs_1.mp3
+      Dependencies: {}
+    Info_491:
+      Name: mahjong/sources/sound/phrase/man/phrase9.mp3
+      Dependencies: {}
+    Info_492:
+      Name: mahjong/sources/sound/cards/woman/south.mp3
+      Dependencies: {}
+    Info_493:
+      Name: mahjong/sources/sound/cards/woman/tong1.mp3
+      Dependencies: {}
+    Info_494:
+      Name: mahjong/sources/modules/table/gamestart/gamestart.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/gamestart/spine.bytes
+    Info_495:
+      Name: mahjong/sources/modules/barragewindow/barragewindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/barragewindow/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_496:
+      Name: mahjong/sources/modules2/smallsummary/animation/payviewlist_ani.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/smallsummary/animation/payviewlist_ani.anim
+    Info_497:
+      Name: mahjong/sources/material/arcmask162.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_498:
+      Name: home/luascript/ui_module/hotupdatewindow.luabytes
+      Dependencies: {}
+    Info_499:
+      Name: mahjong/sources/font/xbanker/xbanker.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/font/xbanker/xbanker.mat
+    Info_500:
+      Name: mahjong/sources/font/positive/9.png
+      Dependencies: {}
+    Info_501:
+      Name: mahjong/luascript/mjgame/system/service.luabytes
+      Dependencies: {}
+    Info_502:
+      Name: mahjong/sources/sound/phrase/woman/phrase7.mp3
+      Dependencies: {}
+    Info_503:
+      Name: mahjong/sources/sound/qi_kai_de_sheng.mp3
+      Dependencies: {}
+    Info_504:
+      Name: mahjong/luascript/ui_module/gameoverwindow.luabytes
+      Dependencies: {}
+    Info_505:
+      Name: mahjong/sources/modules/drawinghand/drawinghandwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/bringinchipwindow/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_2: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_3: mahjong/sources/modules/common/image.atlas
+        Dependency_4: mahjong/sources/modules/chat/image.atlas
+        Dependency_5: mahjong/sources/modules/drawinghand/image.atlas
+        Dependency_6: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_506:
+      Name: home/sources/modules/hotupdatewindow/image/bg.atlas
+      Dependencies: {}
+    Info_507:
+      Name: mahjong/sources/modules/common/spin/serverupdate/text_ani_atlas.asset
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/spin/serverupdate/text_ani_material.mat
+        Dependency_1: mahjong/sources/modules/common/spin/serverupdate/text_ani.atlas.txt
+    Info_508:
+      Name: mahjong/sources/sound/props/prop_sound_12.mp3
+      Dependencies: {}
+    Info_509:
+      Name: mahjong/sources/modules/table/image/console.atlas
+      Dependencies: {}
+    Info_510:
+      Name: mahjong/luascript/ui_module/chat.luabytes
+      Dependencies: {}
+    Info_511:
+      Name: mahjong/sources/sound/props/prop_sound_11_a.mp3
+      Dependencies: {}
+    Info_512:
+      Name: mahjong/sources/sound/cards/man/wan2.mp3
+      Dependencies: {}
+    Info_513:
+      Name: mahjong/sources/sound/phrase/woman/phrase22.mp3
+      Dependencies: {}
+    Info_514:
+      Name: mahjong/luascript/mjgame/system/drawing.luabytes
+      Dependencies: {}
+    Info_515:
+      Name: mahjong/sources/modules/public/font/losenumber/losenumber.mat
+      Dependencies: {}
+    Info_516:
+      Name: mahjong/sources/sound/cards/woman/all_pungs.mp3
+      Dependencies: {}
+    Info_517:
+      Name: home/luascript/control.luabytes
+      Dependencies: {}
+    Info_518:
+      Name: mahjong/sources/modules/club/mj_club.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/help/image.atlas
+        Dependency_1: mahjong/sources/modules/gamereview/image.atlas
+        Dependency_2: mahjong/sources/modules/common/image.atlas
+        Dependency_3: mahjong/sources/modules/playback/image.atlas
+        Dependency_4: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_519:
+      Name: mahjong/sources/sound/cards/woman/green_dragon.mp3
+      Dependencies: {}
+    Info_520:
+      Name: mahjong/luascript/ui_module/mj_table/3d/player/handcard.luabytes
+      Dependencies: {}
+    Info_521:
+      Name: mahjong/sources/font/negative/7.png
+      Dependencies: {}
+    Info_522:
+      Name: gamebase/luascript/ui_module/login.luabytes
+      Dependencies: {}
+    Info_523:
+      Name: mahjong/sources/modules/public/font/dw/dw.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/public/font/dw/dw.mat
+    Info_524:
+      Name: mahjong/sources/modules2/disbandroomwindow/image.atlas
+      Dependencies: {}
+    Info_525:
+      Name: mahjong/sources/sound/phrase/woman/phrase3.mp3
+      Dependencies: {}
+    Info_526:
+      Name: mahjong/sources/models/tableappearance_default.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/tableappearance_dx.bytes
+    Info_527:
+      Name: mahjong/sources/models/model_hand/fbx.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/model_hand/fbx.bytes
+        Dependency_1: mahjong/sources/models/model_hand/animator.bytes
+    Info_528:
+      Name: mahjong/sources/sound/common/pinghu.mp3
+      Dependencies: {}
+    Info_529:
+      Name: mahjong/luascript/mjgame/system/logic/table.luabytes
+      Dependencies: {}
+    Info_530:
+      Name: mahjong/sources/sound/cards/man/tong8.mp3
+      Dependencies: {}
+    Info_531:
+      Name: mahjong/sources/modules/smallsummary/animation/payviewlist_ani.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/smallsummary/animation/payviewlist_ani.anim
+    Info_532:
+      Name: mahjong/luascript/ui_module/mj_table/3d/player/outcard.luabytes
+      Dependencies: {}
+    Info_533:
+      Name: mahjong/sources/modules2/storytelling/storytelling_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_2: mahjong/sources/modules2/storytelling/image.atlas
+    Info_534:
+      Name: mahjong/luascript/ui_module/mj_table/3d/table/pointer.luabytes
+      Dependencies: {}
+    Info_535:
+      Name: mahjong/luascript/ui_module/serverupdatetoast/serverupdatetoast.luabytes
+      Dependencies: {}
+    Info_536:
+      Name: mahjong/sources/font/xbanker_dx/1.png
+      Dependencies: {}
+    Info_537:
+      Name: mahjong/sources/sound/cards/man/seven_pairs_1.mp3
+      Dependencies: {}
+    Info_538:
+      Name: mahjong/sources/sound/cards/man/wan4.mp3
+      Dependencies: {}
+    Info_539:
+      Name: mahjong/sources/sound/props/prop_sound_11_atob.mp3
+      Dependencies: {}
+    Info_540:
+      Name: mahjong/sources/modules/table/choosestate/hu/hu.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/hu/spine.bytes
+    Info_541:
+      Name: mahjong/sources/modules/common/spin/reconnect/loding_txt_atlas.asset
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/spin/reconnect/loding_txt_material.mat
+        Dependency_1: mahjong/sources/modules/common/spin/reconnect/loding_txt.atlas.txt
+    Info_542:
+      Name: mahjong/sources/modules/chat/chat.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/modules/chat/image/emoji.atlas
+        Dependency_3: mahjong/sources/modules2/chat/spine.bytes
+        Dependency_4: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_5: mahjong/sources/modules2/table/image/mainui.atlas
+        Dependency_6: mahjong/sources/modules2/common/spine.bytes
+        Dependency_7: mahjong/sources/modules/chat/image.atlas
+        Dependency_8: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_9: mahjong/sources/material/gray.mat
+    Info_543:
+      Name: mahjong/sources/sound/props/prop_sound_01.mp3
+      Dependencies: {}
+    Info_544:
+      Name: mahjong/sources/sound/cards/woman/pure_seven_pairs_2.mp3
+      Dependencies: {}
+    Info_545:
+      Name: mahjong/sources/sound/common/bankrupt.mp3
+      Dependencies: {}
+    Info_546:
+      Name: mahjong/sources/modules/public/font/dw/dw.mat
+      Dependencies: {}
+    Info_547:
+      Name: mahjong/sources/sound/phrase/man/phrase8.mp3
+      Dependencies: {}
+    Info_548:
+      Name: mahjong/sources/sound/cards/man/tong7.mp3
+      Dependencies: {}
+    Info_549:
+      Name: mahjong/sources/font/positive/k.png
+      Dependencies: {}
+    Info_550:
+      Name: mahjong/sources/sound/phrase/man/phrase7.mp3
+      Dependencies: {}
+    Info_551:
+      Name: mahjong/sources/sound/phrase/woman/phrase20.mp3
+      Dependencies: {}
+    Info_552:
+      Name: mahjong/sources/font/chipscore/1.png
+      Dependencies: {}
+    Info_553:
+      Name: mahjong/sources/sound/cards/man/wan6.mp3
+      Dependencies: {}
+    Info_554:
+      Name: mahjong/sources/sound/cards/man/pure_one_suit.mp3
+      Dependencies: {}
+    Info_555:
+      Name: mahjong/sources/modules/common/spin/serverupdate/text_ani.atlas.txt
+      Dependencies: {}
+    Info_556:
+      Name: mahjong/luascript/ui_module/tableconfigmock/tableconfigmock.luabytes
+      Dependencies: {}
+    Info_557:
+      Name: mahjong/sources/modules2/settingwindow/settingwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/modules2/settingwindow/image.atlas
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_558:
+      Name: mahjong/sources/sound/common/bonus_card.mp3
+      Dependencies: {}
+    Info_559:
+      Name: mahjong/sources/models/tableappearance_dx/fbx.bytes
+      Dependencies: {}
+    Info_560:
+      Name: mahjong/sources/sound/common/flip_card.mp3
+      Dependencies: {}
+    Info_561:
+      Name: mahjong/luascript/mjgame/system/playback.luabytes
+      Dependencies: {}
+    Info_562:
+      Name: mahjong/sources/sound/cards/woman/west.mp3
+      Dependencies: {}
+    Info_563:
+      Name: mahjong/sources/sound/phrase/man/phrase15.mp3
+      Dependencies: {}
+    Info_564:
+      Name: mahjong/sources/font/negative/2.png
+      Dependencies: {}
+    Info_565:
+      Name: mahjong/sources/modules/buycode/buycodewindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/modules/buycode/spine.bytes
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_566:
+      Name: mahjong/sources/sound/cards/woman/tiao6.mp3
+      Dependencies: {}
+    Info_567:
+      Name: mahjong/sources/sound/phrase/woman/phrase13.mp3
+      Dependencies: {}
+    Info_568:
+      Name: mahjong/sources/sound/phrase/man/phrase12.mp3
+      Dependencies: {}
+    Info_569:
+      Name: mahjong/luascript/ui_module/disbandroomwindow.luabytes
+      Dependencies: {}
+    Info_570:
+      Name: mahjong/sources/font/negative/p.png
+      Dependencies: {}
+    Info_571:
+      Name: mahjong/sources/sound/phrase/woman/phrase5.mp3
+      Dependencies: {}
+    Info_572:
+      Name: mahjong/sources/modules/smallsummary/smallsummary.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_1: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_2: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_3: mahjong/sources/modules/common/image.atlas
+        Dependency_4: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_5: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_6: mahjong/sources/modules/public/font/cardtype/cardtype.fontsettings
+        Dependency_7: mahjong/sources/modules/public/font/winnumber/winnumber.fontsettings
+        Dependency_8: mahjong/sources/modules/table/image/recordmahjong.atlas
+        Dependency_9: mahjong/sources/font/xbanker/xbanker.fontsettings
+        Dependency_10: mahjong/sources/modules/smallsummary/animation/payviewlist_ani.controller
+        Dependency_11: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_12: mahjong/sources/modules/smallsummary/animation/tag_anim.controller
+        Dependency_13: mahjong/sources/modules/public/font/losenumber/losenumber.fontsettings
+    Info_573:
+      Name: mahjong/sources/modules2/commonwindow/public_popwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_574:
+      Name: mahjong/sources/font/positive/7.png
+      Dependencies: {}
+    Info_575:
+      Name: mahjong/sources/sound/cards/woman/last_tile_win.mp3
+      Dependencies: {}
+    Info_576:
+      Name: mahjong/sources/font/xbanker/xbanker.txt
+      Dependencies: {}
+    Info_577:
+      Name: public/sources/font/pingfang/pingfangsc sdf.asset
+      Dependencies:
+        Dependency_0: public/sources/font/pingfang/pingfangsc.ttf
+    Info_578:
+      Name: mahjong/sources/sound/cards/woman/cch-bar.mp3
+      Dependencies: {}
+    Info_579:
+      Name: mahjong/sources/sound/cards/woman/pure_all_pungs.mp3
+      Dependencies: {}
+    Info_580:
+      Name: mahjong/sources/material/hallavtar_mask.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_581:
+      Name: mahjong/sources/sound/cards/woman/wan6.mp3
+      Dependencies: {}
+    Info_582:
+      Name: home/sources/modules2/commonwindow/public_popwindow_2.prefab
+      Dependencies:
+        Dependency_0: home/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_583:
+      Name: mahjong/sources/sound/cards/woman/tong5.mp3
+      Dependencies: {}
+    Info_584:
+      Name: mahjong/sources/font/negative/m.png
+      Dependencies: {}
+    Info_585:
+      Name: mahjong/sources/sound/cards/man/north.mp3
+      Dependencies: {}
+    Info_586:
+      Name: mahjong/sources/modules2/barragewindow/barragewindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/barragewindow/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_587:
+      Name: mahjong/sources/font/xbanker/4.png
+      Dependencies: {}
+    Info_588:
+      Name: mahjong/sources/modules/table/choosestate/tong/tong.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/tong/spine.bytes
+    Info_589:
+      Name: mahjong/sources/font/xbanker_dx/3.png
+      Dependencies: {}
+    Info_590:
+      Name: mahjong/sources/font/positive/0.png
+      Dependencies: {}
+    Info_591:
+      Name: mahjong/luascript/ui_module/smallsummary.luabytes
+      Dependencies: {}
+    Info_592:
+      Name: mahjong/sources/modules2/storytelling/image.atlas
+      Dependencies: {}
+    Info_593:
+      Name: mahjong/sources/sound/cards/woman/wan5.mp3
+      Dependencies: {}
+    Info_594:
+      Name: mahjong/sources/material/gray.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_595:
+      Name: mahjong/sources/sound/cards/woman/tong6.mp3
+      Dependencies: {}
+    Info_596:
+      Name: mahjong/sources/modules/smallsummary/animation/payview_ani.anim
+      Dependencies: {}
+    Info_597:
+      Name: home/luascript/api/websocket.luabytes
+      Dependencies: {}
+    Info_598:
+      Name: mahjong/sources/sound/cards/woman/wan1.mp3
+      Dependencies: {}
+    Info_599:
+      Name: mahjong/sources/modules/common/spin/loading_boy/loding_boy.json
+      Dependencies: {}
+    Info_600:
+      Name: mahjong/sources/modules/public/dropdown.prefab
+      Dependencies: {}
+    Info_601:
+      Name: home/luascript/config.luabytes
+      Dependencies: {}
+    Info_602:
+      Name: mahjong/sources/sound/phrase/man/phrase6.mp3
+      Dependencies: {}
+    Info_603:
+      Name: gamebase/sources/modules/gameroot/btn_testsend.prefab
+      Dependencies: {}
+    Info_604:
+      Name: mahjong/sources/sound/cards/man/hu_2.mp3
+      Dependencies: {}
+    Info_605:
+      Name: mahjong/sources/sound/cards/man/pure_seven_pairs_2.mp3
+      Dependencies: {}
+    Info_606:
+      Name: mahjong/sources/sound/cards/woman/north.mp3
+      Dependencies: {}
+    Info_607:
+      Name: mahjong/sources/font/xbanker_dx/8.png
+      Dependencies: {}
+    Info_608:
+      Name: mahjong/sources/sound/phrase/man/phrase1.mp3
+      Dependencies: {}
+    Info_609:
+      Name: mahjong/sources/font/positive/positive_texture.png
+      Dependencies: {}
+    Info_610:
+      Name: mahjong/sources/modules2/bringinchipwindow/bringinchipwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_611:
+      Name: mahjong/sources/sound/cards/woman/tiao7.mp3
+      Dependencies: {}
+    Info_612:
+      Name: mahjong/sources/modules2/smallsummary/animation/payview_ani.anim
+      Dependencies: {}
+    Info_613:
+      Name: mahjong/sources/sound/cards/woman/tiao3.mp3
+      Dependencies: {}
+    Info_614:
+      Name: mahjong/sources/sound/props/prop_sound_12_b.mp3
+      Dependencies: {}
+    Info_615:
+      Name: mahjong/sources/font/negative/negative_2.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/font/negative/negative_texture.png
+    Info_616:
+      Name: mahjong/luascript/ui_module/mj_table/ui/common.luabytes
+      Dependencies: {}
+    Info_617:
+      Name: mahjong/sources/font/positive/+.png
+      Dependencies: {}
+    Info_618:
+      Name: mahjong/sources/modules2/disbandroomwindow/disbandroomwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/disbandroomwindow/image.atlas
+        Dependency_2: mahjong/sources/modules2/disbandroomwindow/image.atlas
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_619:
+      Name: mahjong/sources/modules/table/choosestate/gang/gang.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/gang/spine.bytes
+    Info_620:
+      Name: gamebase/luascript/net/local_server.luabytes
+      Dependencies: {}
+    Info_621:
+      Name: mahjong/sources/font/positive/positive_2.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/font/positive/positive_texture.png
+    Info_622:
+      Name: mahjong/sources/modules/common/spin/loading_boy/loding_boy.atlas.txt
+      Dependencies: {}
+    Info_623:
+      Name: mahjong/sources/modules/public/font/winnumber/winnumber.txt
+      Dependencies: {}
+    Info_624:
+      Name: mahjong/sources/modules/smallsummary/animation/payviewlist_ani.anim
+      Dependencies: {}
+    Info_625:
+      Name: mahjong/sources/sound/cards/woman/flat_hu.mp3
+      Dependencies: {}
+    Info_626:
+      Name: mahjong/sources/sound/phrase/woman/phrase9.mp3
+      Dependencies: {}
+    Info_627:
+      Name: mahjong/sources/sound/cards/man/tiao7.mp3
+      Dependencies: {}
+    Info_628:
+      Name: mahjong/luascript/util.luabytes
+      Dependencies: {}
+    Info_629:
+      Name: mahjong/sources/sound/cards/woman/tiao9.mp3
+      Dependencies: {}
+    Info_630:
+      Name: mahjong/sources/sound/props/prop_sound_06.mp3
+      Dependencies: {}
+    Info_631:
+      Name: mahjong/sources/sound/cards/woman/white_dragon.mp3
+      Dependencies: {}
+    Info_632:
+      Name: mahjong/sources/modules2/smallsummary/animation/tag_anim.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/smallsummary/animation/payview_ani.anim
+    Info_633:
+      Name: mahjong/sources/sound/phrase/man/phrase13.mp3
+      Dependencies: {}
+    Info_634:
+      Name: mahjong/sources/font/positive/2.png
+      Dependencies: {}
+    Info_635:
+      Name: mahjong/sources/sound/cards/man/all_pungs.mp3
+      Dependencies: {}
+    Info_636:
+      Name: mahjong/sources/sound/phrase/woman/phrase1.mp3
+      Dependencies: {}
+    Info_637:
+      Name: mahjong/sources/modules/table/prefabs/mj13_table3dui.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/spine/recordspeakunactive.bytes
+        Dependency_3: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_4: mahjong/sources/modules/common/image.atlas
+        Dependency_5: mahjong/sources/modules/table/image/laicardas.atlas
+        Dependency_6: mahjong/sources/effect/mahjong/animation.bytes
+        Dependency_7: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_8: mahjong/sources/modules/table/choosestate/gang/spine.bytes
+        Dependency_9: mahjong/sources/modules/table/image/mainnew.atlas
+        Dependency_10: mahjong/sources/modules/table/spine/operate.bytes
+        Dependency_11: mahjong/sources/modules2/table/image/voicerecord.atlas
+        Dependency_12: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_13: mahjong/sources/modules/table/spine/recordspeakactive.bytes
+        Dependency_14: mahjong/sources/modules/table/spine/follow.bytes
+        Dependency_15: mahjong/sources/modules/table/choosestate/peng/spine.bytes
+        Dependency_16: mahjong/sources/modules/table/image/voicerecord.atlas
+        Dependency_17: mahjong/sources/modules/table/image/followbanker.atlas
+        Dependency_18: mahjong/sources/modules2/table/image/mainui.atlas
+        Dependency_19: mahjong/sources/font/chipscore/chipscore.fontsettings
+        Dependency_20: mahjong/sources/modules2/common/spine.bytes
+        Dependency_21: mahjong/sources/modules/table/animation/movescore.controller
+        Dependency_22: mahjong/sources/modules/playback/image.atlas
+        Dependency_23: mahjong/sources/modules/table/choosestate/hu/spine.bytes
+        Dependency_24: mahjong/sources/modules/table/choosestate/guo/spine.bytes
+        Dependency_25: mahjong/sources/font/positive/positive_1.fontsettings
+        Dependency_26: mahjong/sources/modules/table/spine/firerope.bytes
+        Dependency_27: mahjong/sources/font/negative/negative_1.fontsettings
+        Dependency_28: mahjong/sources/modules/table/image/seatdefault.atlas
+        Dependency_29: mahjong/sources/font/xbanker/xbanker.fontsettings
+        Dependency_30: mahjong/sources/modules/table/image/console.atlas
+        Dependency_31: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_32: mahjong/sources/material/gray.mat
+        Dependency_33: mahjong/sources/modules2/table/spine/hu_basic.bytes
+        Dependency_34: mahjong/sources/modules2/table/spine/hu_common.bytes
+    Info_638:
+      Name: mahjong/sources/sound/chongzhi_enter.mp3
+      Dependencies: {}
+    Info_639:
+      Name: mahjong/sources/sound/common/follow_banker.mp3
+      Dependencies: {}
+    Info_640:
+      Name: mahjong/sources/sound/phrase/woman/phrase16.mp3
+      Dependencies: {}
+    Info_641:
+      Name: mahjong/sources/font/xbanker/8.png
+      Dependencies: {}
+    Info_642:
+      Name: mahjong/sources/sound/cards/man/gang.mp3
+      Dependencies: {}
+    Info_643:
+      Name: mahjong/sources/modules/commonwindow/public_toastwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc.ttf
+    Info_644:
+      Name: mahjong/sources/sound/cards/man/heavenly_hand.mp3
+      Dependencies: {}
+    Info_645:
+      Name: mahjong/sources/sound/cards/woman/wan7.mp3
+      Dependencies: {}
+    Info_646:
+      Name: mahjong/sources/sound/cards/woman/east.mp3
+      Dependencies: {}
+    Info_647:
+      Name: mahjong/sources/font/xbanker/3.png
+      Dependencies: {}
+    Info_648:
+      Name: mahjong/sources/sound/cards/woman/h-bar.mp3
+      Dependencies: {}
+    Info_649:
+      Name: mahjong/sources/modules/table/playway/gang/gangeffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/playway/gang/spine.bytes
+    Info_650:
+      Name: mahjong/sources/sound/cards/man/red_dragon.mp3
+      Dependencies: {}
+    Info_651:
+      Name: mahjong/sources/sound/common/defeat.mp3
+      Dependencies: {}
+    Info_652:
+      Name: mahjong/sources/sound/common/hu_lightning.mp3
+      Dependencies: {}
+    Info_653:
+      Name: mahjong/sources/modules/smallsummary/animation/tag_anim.controller
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/smallsummary/animation/payview_ani.anim
+    Info_654:
+      Name: mahjong/sources/sound/cards/man/pure_seven_pairs_1.mp3
+      Dependencies: {}
+    Info_655:
+      Name: mahjong/sources/material/saoguang.mat
+      Dependencies:
+        Dependency_0: public/game/shaders.bytes
+    Info_656:
+      Name: mahjong/sources/font/negative/-.png
+      Dependencies: {}
+    Info_657:
+      Name: mahjong/sources/models/mjtable/effect/hupai_cardeffect/model.bytes
+      Dependencies: {}
+    Info_658:
+      Name: mahjong/sources/sound/phrase/woman/phrase19.mp3
+      Dependencies: {}
+    Info_659:
+      Name: mahjong/sources/font/negative/1.png
+      Dependencies: {}
+    Info_660:
+      Name: mahjong/sources/sound/phrase/woman/phrase8.mp3
+      Dependencies: {}
+    Info_661:
+      Name: mahjong/sources/sound/phrase/woman/phrase18.mp3
+      Dependencies: {}
+    Info_662:
+      Name: mahjong/sources/sound/cards/man/wan9.mp3
+      Dependencies: {}
+    Info_663:
+      Name: mahjong/sources/sound/cards/woman/tiao8.mp3
+      Dependencies: {}
+    Info_664:
+      Name: mahjong/sources/font/xbanker/1.png
+      Dependencies: {}
+    Info_665:
+      Name: mahjong/sources/sound/duihuan_enter.mp3
+      Dependencies: {}
+    Info_666:
+      Name: mahjong/sources/sound/phrase/man/phrase3.mp3
+      Dependencies: {}
+    Info_667:
+      Name: mahjong/sources/sound/common/discard_card.mp3
+      Dependencies: {}
+    Info_668:
+      Name: mahjong/sources/modules/public/font/countdown/countdown.fnt
+      Dependencies: {}
+    Info_669:
+      Name: mahjong/sources/sound/phrase/woman/phrase23.mp3
+      Dependencies: {}
+    Info_670:
+      Name: mahjong/sources/sound/props/prop_sound_07.mp3
+      Dependencies: {}
+    Info_671:
+      Name: mahjong/sources/sound/props/prop_sound_09_new.mp3
+      Dependencies: {}
+    Info_672:
+      Name: mahjong/sources/sound/cards/woman/hu_1.mp3
+      Dependencies: {}
+    Info_673:
+      Name: mahjong/sources/sound/cards/man/kong.mp3
+      Dependencies: {}
+    Info_674:
+      Name: mahjong/sources/sound/cards/woman/wan3.mp3
+      Dependencies: {}
+    Info_675:
+      Name: mahjong/sources/modules2/commonwindow/serverupdate_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/spin/loading_boy/loding_boy_skeletondata.asset
+        Dependency_2: mahjong/sources/modules/common/spin/serverupdate/text_ani_skeletondata.asset
+    Info_676:
+      Name: mahjong/sources/modules/table/choosestate/tiao/tiao.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/tiao/spine.bytes
+    Info_677:
+      Name: mahjong/sources/sound/phrase/man/phrase20.mp3
+      Dependencies: {}
+    Info_678:
+      Name: mahjong/sources/modules/table/choosestate/huanpai/huanpai.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/table/choosestate/huanpai/spine.bytes
+    Info_679:
+      Name: mahjong/sources/sound/cards/woman/hu.mp3
+      Dependencies: {}
+    Info_680:
+      Name: mahjong/sources/modules2/profitloss/profitandloss_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/table/image/mahjongui.atlas
+        Dependency_3: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_4: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_5: mahjong/sources/modules2/profitloss/image.atlas
+        Dependency_6: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_681:
+      Name: mahjong/sources/sound/cards/man/west.mp3
+      Dependencies: {}
+    Info_682:
+      Name: mahjong/sources/font/xbanker_dx/9.png
+      Dependencies: {}
+    Info_683:
+      Name: mahjong/sources/sound/common/dice_roll.mp3
+      Dependencies: {}
+    Info_684:
+      Name: mahjong/sources/font/chipscore/6.png
+      Dependencies: {}
+    Info_685:
+      Name: mahjong/sources/modules/table/animation/movescore.anim
+      Dependencies: {}
+    Info_686:
+      Name: mahjong/sources/modules/public/font/cardtype/cardtype.txt
+      Dependencies: {}
+    Info_687:
+      Name: mahjong/luascript/ui_module/help.luabytes
+      Dependencies: {}
+    Info_688:
+      Name: home/luascript/system/command.luabytes
+      Dependencies: {}
+    Info_689:
+      Name: mahjong/sources/sound/cards/woman/tong8.mp3
+      Dependencies: {}
+    Info_690:
+      Name: mahjong/sources/sound/cards/man/robbing_kong.mp3
+      Dependencies: {}
+    Info_691:
+      Name: mahjong/sources/models/model_hand/animator.bytes
+      Dependencies:
+        Dependency_0: mahjong/sources/models/model_hand/fbx.bytes
+    Info_692:
+      Name: mahjong/sources/sound/cards/man/tiao4.mp3
+      Dependencies: {}
+    Info_693:
+      Name: mahjong/sources/font/xbanker_dx/4.png
+      Dependencies: {}
+    Info_694:
+      Name: mahjong/sources/sound/cards/man/hu_3.mp3
+      Dependencies: {}
+    Info_695:
+      Name: mahjong/sources/sound/common/draw_card.mp3
+      Dependencies: {}
+    Info_696:
+      Name: mahjong/sources/sound/cards/woman/zimo.mp3
+      Dependencies: {}
+    Info_697:
+      Name: mahjong/sources/font/xbanker/2.png
+      Dependencies: {}
+    Info_698:
+      Name: mahjong/sources/sound/cards/woman/tong4.mp3
+      Dependencies: {}
+    Info_699:
+      Name: mahjong/sources/font/xbanker/9.png
+      Dependencies: {}
+    Info_700:
+      Name: mahjong/sources/sound/cards/woman/opera8.mp3
+      Dependencies: {}
+    Info_701:
+      Name: mahjong/sources/sound/cards/man/white_dragon.mp3
+      Dependencies: {}
+    Info_702:
+      Name: mahjong/sources/modules/common/spin/reconnect/loding_txt.atlas.txt
+      Dependencies: {}
+    Info_703:
+      Name: mahjong/sources/sound/cards/man/tiao6.mp3
+      Dependencies: {}
+    Info_704:
+      Name: mahjong/sources/sound/cards/woman/wan9.mp3
+      Dependencies: {}
+    Info_705:
+      Name: mahjong/sources/font/chipscore/p.png
+      Dependencies: {}
+    Info_706:
+      Name: mahjong/sources/sound/cards/woman/red_dragon.mp3
+      Dependencies: {}
+    Info_707:
+      Name: mahjong/sources/sound/cards/man/pung.mp3
+      Dependencies: {}
+    Info_708:
+      Name: mahjong/sources/font/chipscore/,.png
+      Dependencies: {}
+    Info_709:
+      Name: mahjong/sources/sound/cards/man/flower_kong.mp3
+      Dependencies: {}
+    Info_710:
+      Name: mahjong/sources/sound/cards/man/green_dragon.mp3
+      Dependencies: {}
+    Info_711:
+      Name: mahjong/sources/sound/cards/man/pure_single_tile.mp3
+      Dependencies: {}
+    Info_712:
+      Name: mahjong/sources/modules/propwindow/propwindow.prefab
+      Dependencies: {}
+    Info_713:
+      Name: mahjong/sources/sound/cards/man/tong6.mp3
+      Dependencies: {}
+    Info_714:
+      Name: mahjong/sources/sound/cards/woman/seven_pairs_3.mp3
+      Dependencies: {}
+    Info_715:
+      Name: mahjong/sources/font/xbanker/7.png
+      Dependencies: {}
+    Info_716:
+      Name: mahjong/sources/sound/phrase/man/phrase14.mp3
+      Dependencies: {}
+    Info_717:
+      Name: mahjong/sources/modules/table/prefabs/mj13_table3d.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/materials.bytes
+        Dependency_1: mahjong/sources/modules/table/animation/table_card_rise_controller.controller
+        Dependency_2: mahjong/sources/models/mjtable/fbx.bytes
+        Dependency_3: mahjong/sources/modules/table/animation/point_ani.controller
+        Dependency_4: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+        Dependency_5: mahjong/sources/models/model_point.bytes
+        Dependency_6: mahjong/sources/models/mjtable/animation.bytes
+        Dependency_7: mahjong/sources/models/mjtable/dicefbx/fbx.bytes
+        Dependency_8: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_9: mahjong/sources/modules/public/font/countdown/countdown.fontsettings
+    Info_718:
+      Name: mahjong/sources/sound/cards/woman/wan2.mp3
+      Dependencies: {}
+    Info_719:
+      Name: mahjong/sources/models/model_hand.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/fbx.bytes
+        Dependency_1: mahjong/sources/models/model_hand/fbx.bytes
+        Dependency_2: mahjong/sources/models/model_hand/materials.bytes
+        Dependency_3: mahjong/sources/models/model_hand/animator.bytes
+    Info_720:
+      Name: mahjong/sources/sound/phrase/man/phrase10.mp3
+      Dependencies: {}
+    Info_721:
+      Name: mahjong/sources/font/xbanker_dx/x.png
+      Dependencies: {}
+    Info_722:
+      Name: mahjong/sources/modules/personalinfomation/mj_personalinfo.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/help/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_3: mahjong/sources/modules/personalinfomation/image/props.atlas
+        Dependency_4: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_5: mahjong/sources/modules/personalinfomation/image.atlas
+        Dependency_6: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_723:
+      Name: mahjong/sources/sound/phrase/man/phrase18.mp3
+      Dependencies: {}
+    Info_724:
+      Name: mahjong/sources/modules/public/font/losenumber/losenumber.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/public/font/losenumber/losenumber.mat
+    Info_725:
+      Name: mahjong/sources/modules/bringoutchipwindow/bringoutchipwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/bringinchipwindow/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/modules/bringoutchipwindow/image.atlas
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_726:
+      Name: mahjong/sources/sound/kefu_enter.mp3
+      Dependencies: {}
+    Info_727:
+      Name: mahjong/sources/sound/common/combo_card.mp3
+      Dependencies: {}
+    Info_728:
+      Name: mahjong/sources/font/negative/9.png
+      Dependencies: {}
+    Info_729:
+      Name: mahjong/sources/sound/props/prop_sound_02.mp3
+      Dependencies: {}
+    Info_730:
+      Name: mahjong/sources/sound/cards/man/h-bar.mp3
+      Dependencies: {}
+    Info_731:
+      Name: mahjong/sources/sound/cards/woman/tiao1.mp3
+      Dependencies: {}
+    Info_732:
+      Name: mahjong/sources/sound/cards/woman/opera4.mp3
+      Dependencies: {}
+    Info_733:
+      Name: mahjong/sources/sound/phrase/woman/phrase2.mp3
+      Dependencies: {}
+    Info_734:
+      Name: mahjong/sources/font/positive/-.png
+      Dependencies: {}
+    Info_735:
+      Name: mahjong/sources/sound/cards/man/last_tile_win.mp3
+      Dependencies: {}
+    Info_736:
+      Name: mahjong/sources/sound/baoxianxiang_enter.mp3
+      Dependencies: {}
+    Info_737:
+      Name: mahjong/sources/sound/phrase/man/phrase22.mp3
+      Dependencies: {}
+    Info_738:
+      Name: mahjong/sources/modules/table/prefabs/seatanchors.prefab
+      Dependencies: {}
+    Info_739:
+      Name: mahjong/sources/modules/public/font/countdown/countdwon_red.fontsettings
+      Dependencies: {}
+    Info_740:
+      Name: mahjong/sources/modules/public/font/countdown/countdown_yellow.fontsettings
+      Dependencies: {}
+    Info_741:
+      Name: mahjong/sources/modules/public/font/countdown/countdown.fontsettings
+      Dependencies: {}
+    Info_742:
+      Name: mahjong/sources/font/xbanker_small/xbanker_small.png
+      Dependencies: {}
+    Info_743:
+      Name: mahjong/sources/font/xbanker_small/xbanker_small.fontsettings
+      Dependencies:
+        Dependency_0: mahjong/sources/font/xbanker_small/xbanker_small.mat
+    Info_744:
+      Name: mahjong/sources/sound/turnme.mp3
+      Dependencies: {}
+    Info_745:
+      Name: mahjong/sources/font/xbanker_small/x.png
+      Dependencies: {}
+    Info_746:
+      Name: mahjong/sources/modules2/chat/newmessagecountbg.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/table/image/mainui.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_747:
+      Name: mahjong/sources/font/xbanker_small/xbanker_small.txt
+      Dependencies: {}
+    Info_748:
+      Name: mahjong/sources/font/xbanker_small/5.png
+      Dependencies: {}
+    Info_749:
+      Name: mahjong/sources/font/xbanker_small/0.png
+      Dependencies: {}
+    Info_750:
+      Name: mahjong/sources/font/xbanker_small/7.png
+      Dependencies: {}
+    Info_751:
+      Name: mahjong/sources/font/xbanker_small/2.png
+      Dependencies: {}
+    Info_752:
+      Name: mahjong/sources/font/xbanker_small/xbanker_small.mat
+      Dependencies:
+        Dependency_0: mahjong/sources/font/xbanker_small/xbanker_small.png
+    Info_753:
+      Name: mahjong/sources/font/xbanker_small/8.png
+      Dependencies: {}
+    Info_754:
+      Name: mahjong/sources/font/xbanker_small/6.png
+      Dependencies: {}
+    Info_755:
+      Name: mahjong/sources/font/xbanker_small/1.png
+      Dependencies: {}
+    Info_756:
+      Name: mahjong/sources/font/xbanker_small/9.png
+      Dependencies: {}
+    Info_757:
+      Name: mahjong/sources/font/xbanker_small/3.png
+      Dependencies: {}
+    Info_758:
+      Name: mahjong/sources/font/xbanker_small/4.png
+      Dependencies: {}
+    Info_759:
+      Name: home/sources/modules/hotupdatewindow/spine/boy.bytes
+      Dependencies: {}
+    Info_760:
+      Name: home/sources/modules/hotupdatewindow/spine/loading.bytes
+      Dependencies: {}
+    Info_761:
+      Name: mahjong/sources/modules/table/prefabs/syncvoice.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/table/image/mainui.atlas
+    Info_762:
+      Name: mahjong/sources/modules/commonwindow/public_gametipwindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_763:
+      Name: mahjong/luascript/ui_module/mj_table/ui/race.luabytes
+      Dependencies: {}
+    Info_764:
+      Name: mahjong/luascript/ui_module/gametipwindow/gametipwindow.luabytes
+      Dependencies: {}
+    Info_765:
+      Name: mahjong/luascript/mjgame/system/logic/race.luabytes
+      Dependencies: {}
+    Info_766:
+      Name: mahjong/luascript/ui_module/gametipwindow.luabytes
+      Dependencies: {}
+    Info_767:
+      Name: mahjong/sources/modules/table/prefabs/gamestarttip.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/mainnew.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_768:
+      Name: mahjong/sources/modules2/commonwindow/public_gametipwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_769:
+      Name: mahjong/luascript/ui_module/mj_table/ui/menu_panel/sync_voice.luabytes
+      Dependencies: {}
+    Info_770:
+      Name: mahjong/sources/modules2/table/prefabs/gamestarttip.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/table/image/mainui.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_771:
+      Name: mahjong/sources/modules2/table/prefabs/syncvoice.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/table/image/mainui.atlas
+    Info_772:
+      Name: mahjong/sources/modules2/table/spine/hu_basic.bytes
+      Dependencies: {}
+    Info_773:
+      Name: mahjong/sources/modules2/table/spine/hu_common.bytes
+      Dependencies: {}
+    Info_774:
+      Name: mahjong/sources/modules2/table/spine/hu_unuse.bytes
+      Dependencies: {}
+    Info_775:
+      Name: mahjong/sources/modules2/table/spine/hu_advance.bytes
+      Dependencies: {}
+    Info_776:
+      Name: mahjong/sources/sound/cards/man/lianzhuanghu.mp3
+      Dependencies: {}
+    Info_777:
+      Name: mahjong/luascript/ui_module/selfhostwindow.luabytes
+      Dependencies: {}
+    Info_778:
+      Name: mahjong/sources/sound/cards/woman/lianzhuanghu.mp3
+      Dependencies: {}
+    Info_779:
+      Name: mahjong/sources/modules/table/prefabs/hostorcancelhostbtn.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/bringinchipwindow/image.atlas
+        Dependency_1: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_2: mahjong/sources/modules/common/image.atlas
+        Dependency_3: mahjong/sources/modules/chat/image.atlas
+        Dependency_4: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_780:
+      Name: mahjong/luascript/ui_module/selfhostwindow/selfhostwindow.luabytes
+      Dependencies: {}
+    Info_781:
+      Name: mahjong/sources/modules/drawinghand/self_host.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/bringinchipwindow/image.atlas
+        Dependency_1: mahjong/sources/modules/smallsummary/image.atlas
+        Dependency_2: mahjong/sources/modules/common/image.atlas
+        Dependency_3: mahjong/sources/modules/chat/image.atlas
+        Dependency_4: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_782:
+      Name: mahjong/sources/modules2/table/prefabs/hostorcancelhostbtn.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_783:
+      Name: mahjong/sources/modules2/drawinghand/self_host2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_784:
+      Name: mahjong/sources/modules2/castscreenrisk/castscreenrisk_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_785:
+      Name: mahjong/sources/modules/castscreenrisk/castscreenrisk.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_786:
+      Name: mahjong/luascript/ui_module/castscreentrisk.luabytes
+      Dependencies: {}
+    Info_787:
+      Name: mahjong/luascript/ui_module/castscreentrisk/castscreentrisk.luabytes
+      Dependencies: {}
+    Info_788:
+      Name: mahjong/luascript/mjgame/system/logic/risk.luabytes
+      Dependencies: {}
+    Info_789:
+      Name: mahjong/sources/modules/table/prefabs/handcardmarqueeeffect.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+    Info_790:
+      Name: mahjong/sources/modules/table/prefabs/animation_ctl.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/models/mjtable/effect/hupai_cardeffect/materials.bytes
+    Info_791:
+      Name: mahjong/luascript/ui_module/sharewindow/sharewindow.luabytes
+      Dependencies: {}
+    Info_792:
+      Name: mahjong/luascript/ui_module/sharewindow.luabytes
+      Dependencies: {}
+    Info_793:
+      Name: mahjong/sources/modules/sharewindow/sharewindow.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/storytelling/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_794:
+      Name: mahjong/sources/modules/sharewindow/top.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: mahjong/sources/modules/storytelling/image.atlas
+    Info_795:
+      Name: mahjong/sources/modules2/sharewindow/buttonsubmit.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_796:
+      Name: mahjong/sources/modules2/sharewindow/btnsaveqr.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_797:
+      Name: mahjong/sources/modules2/sharewindow/sharewindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_798:
+      Name: mahjong/sources/modules/table/image/replay.atlas
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/playback/image.atlas
+    Info_799:
+      Name: mahjong/sources/modules2/playback/image.atlas
+      Dependencies: {}
+    Info_800:
+      Name: mahjong/sources/sound/phrase/woman/phrase24.mp3
+      Dependencies: {}
+    Info_801:
+      Name: mahjong/luascript/ui_module/invate/invate.luabytes
+      Dependencies: {}
+    Info_802:
+      Name: mahjong/luascript/ui_module/playback.luabytes
+      Dependencies: {}
+    Info_803:
+      Name: mahjong/luascript/ui_module/mj_table/ui/menu_panel/fps_net_show.luabytes
+      Dependencies: {}
+    Info_804:
+      Name: mahjong/sources/modules2/invatationnotice/invatationnotice_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_3: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_805:
+      Name: mahjong/sources/modules2/invatationtips/invatationtips_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_806:
+      Name: mahjong/luascript/ui_module/invatation_tips.luabytes
+      Dependencies: {}
+    Info_807:
+      Name: mahjong/luascript/ui_module/invate.luabytes
+      Dependencies: {}
+    Info_808:
+      Name: mahjong/sources/modules2/playback/playback_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc.ttf
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_3: mahjong/sources/modules2/playback/image.atlas
+    Info_809:
+      Name: mahjong/luascript/ui_module/invatation_notice/invatation_notice.luabytes
+      Dependencies: {}
+    Info_810:
+      Name: mahjong/luascript/ui_module/playback/playback.luabytes
+      Dependencies: {}
+    Info_811:
+      Name: mahjong/luascript/ui_module/invatation_tips/invatation_tips.luabytes
+      Dependencies: {}
+    Info_812:
+      Name: mahjong/sources/modules/playback/playback.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/playback/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_813:
+      Name: mahjong/luascript/ui_module/invatation_notice.luabytes
+      Dependencies: {}
+    Info_814:
+      Name: mahjong/sources/sound/phrase/man/phrase24.mp3
+      Dependencies: {}
+    Info_815:
+      Name: mahjong/luascript/mjgame/system/logic/invatation.luabytes
+      Dependencies: {}
+    Info_816:
+      Name: mahjong/sources/sound/phrase/man/phrase25.mp3
+      Dependencies: {}
+    Info_817:
+      Name: mahjong/sources/sound/phrase/woman/phrase25.mp3
+      Dependencies: {}
+    Info_818:
+      Name: mahjong/sources/modules2/invate/invate_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/gamereview/image.atlas
+        Dependency_3: mahjong/sources/modules/common/image.atlas
+        Dependency_4: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_5: mahjong/sources/modules2/gamereview/image.atlas
+        Dependency_6: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_819:
+      Name: mahjong/sources/modules2/privatesharewindow/image.atlas
+      Dependencies: {}
+    Info_820:
+      Name: mahjong/sources/modules2/bringinreview/image.atlas
+      Dependencies: {}
+    Info_821:
+      Name: mahjong/luascript/ui_module/bringin_review.luabytes
+      Dependencies: {}
+    Info_822:
+      Name: mahjong/luascript/ui_module/privatesharewindow.luabytes
+      Dependencies: {}
+    Info_823:
+      Name: mahjong/sources/modules2/bringinreview/bringinreview_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/table/image/seat.atlas
+        Dependency_2: mahjong/sources/modules/common/image.atlas
+        Dependency_3: mahjong/sources/material/avatar_mask_yuan.mat
+        Dependency_4: mahjong/sources/modules2/gamereview/image.atlas
+        Dependency_5: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_6: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_7: mahjong/sources/modules2/bringinreview/image.atlas
+    Info_824:
+      Name: mahjong/luascript/ui_module/bringin_review/bringin_review.luabytes
+      Dependencies: {}
+    Info_825:
+      Name: mahjong/luascript/ui_module/privatesharewindow/privatesharewindow.luabytes
+      Dependencies: {}
+    Info_826:
+      Name: mahjong/sources/modules2/privatesharewindow/btnsaveqr.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_827:
+      Name: mahjong/sources/modules2/privatesharewindow/privatesharesavewindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_3: mahjong/sources/modules2/privatesharewindow/image.atlas
+    Info_828:
+      Name: mahjong/sources/modules2/privatesharewindow/privatesharewindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_3: mahjong/sources/modules2/privatesharewindow/image.atlas
+    Info_829:
+      Name: mahjong/sources/modules2/privatesharewindow/btnshare.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_830:
+      Name: mahjong/luascript/ui_module/bringinfixedchip.luabytes
+      Dependencies: {}
+    Info_831:
+      Name: mahjong/luascript/ui_module/bringinfixedchip/bringinfixedchip.luabytes
+      Dependencies: {}
+    Info_832:
+      Name: mahjong/luascript/ui_module/addbringinamout/addbringinamout.luabytes
+      Dependencies: {}
+    Info_833:
+      Name: mahjong/sources/modules2/scorewalletwindow/image.atlas
+      Dependencies: {}
+    Info_834:
+      Name: mahjong/luascript/ui_module/scorewallet.luabytes
+      Dependencies: {}
+    Info_835:
+      Name: mahjong/sources/modules2/renameeditor/renameeditor_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_2: mahjong/sources/modules2/renameeditor/image.atlas
+    Info_836:
+      Name: mahjong/sources/modules2/table/spine/exclamationeffect.bytes
+      Dependencies: {}
+    Info_837:
+      Name: mahjong/luascript/ui_module/renameeditor/renameeditor.luabytes
+      Dependencies: {}
+    Info_838:
+      Name: mahjong/luascript/ui_module/renameeditor.luabytes
+      Dependencies: {}
+    Info_839:
+      Name: mahjong/luascript/ui_module/addbringinamout.luabytes
+      Dependencies: {}
+    Info_840:
+      Name: mahjong/sources/modules2/bringinfixedchip/bringinfixedchip.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_841:
+      Name: mahjong/sources/modules2/scorewalletwindow/scorewalletwindow_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_2: mahjong/sources/modules2/scorewalletwindow/image.atlas
+    Info_842:
+      Name: mahjong/sources/modules2/addbringinamout/addbringinamout.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+        Dependency_3: mahjong/sources/modules2/bringinreview/image.atlas
+    Info_843:
+      Name: mahjong/sources/modules2/renameeditor/image.atlas
+      Dependencies: {}
+    Info_844:
+      Name: mahjong/sources/modules2/bringinamountapply/bringinamountapply.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules/common/image.atlas
+        Dependency_2: mahjong/sources/modules2/gamereview/image.atlas
+        Dependency_3: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_4: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_845:
+      Name: mahjong/luascript/ui_module/scorewallet/scorewallet.luabytes
+      Dependencies: {}
+    Info_846:
+      Name: home/luascript/ui_module/login/login.luabytes
+      Dependencies: {}
+    Info_847:
+      Name: mahjong/sources/modules2/bringinchipwindow/bringinfixedchip.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_848:
+      Name: home/luascript/ui_module/login.luabytes
+      Dependencies: {}
+    Info_849:
+      Name: home/luascript/const.luabytes
+      Dependencies: {}
+    Info_850:
+      Name: mahjong/sources/modules2/bringinchipwindow/bringinfixedchip_2.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules2/common/image.atlas
+        Dependency_1: mahjong/sources/modules2/bringinchipwindow/image.atlas
+        Dependency_2: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_851:
+      Name: home/sources/modules/login/login.prefab
+      Dependencies:
+        Dependency_0: mahjong/sources/modules/common/image.atlas
+        Dependency_1: public/sources/font/pingfang/pingfangsc sdf.asset
+    Info_852:
+      Name: home/luascript/system/adapter.luabytes
+      Dependencies: {}

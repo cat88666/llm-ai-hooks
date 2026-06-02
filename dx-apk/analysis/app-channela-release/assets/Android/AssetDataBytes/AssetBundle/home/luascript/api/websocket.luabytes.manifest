@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3546885654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7058f78f8996d299fddc178fbafed509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7058f78f8996d299fddc178fbafed509
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/home/luascript/api/websocket/game_request.txt
+- Assets/Temp/home/luascript/api/websocket/game_response_code.txt
+Dependencies: []

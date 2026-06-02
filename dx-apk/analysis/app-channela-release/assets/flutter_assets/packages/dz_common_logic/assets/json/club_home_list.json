@@ -1,0 +1,48 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "clubs": [{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        },{
+            "id": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "games" : 6
+        }
+        ]
+    }
+}

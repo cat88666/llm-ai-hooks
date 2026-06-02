@@ -1,0 +1,57 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "members": [{
+            "uid": "793174910347",
+            "name": "张三",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+            "signature" : "这是个性签名"
+        },{
+            "uid": "793174910344",
+            "name": "李四",
+            "avatar" : "https://alifei01.cfp.cn/creative/vcg/800/new/VCG41N1209502987.jpg"
+        },{
+            "uid": "739147317401",
+            "name": "托马斯布莱恩特",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "983938048234",
+            "name": "航发卡很昂立放大后很辣很垃圾黄昂分类",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "437041037410",
+            "name": "拉法基扥骄傲兰",
+            "avatar" : "",
+            "signature" : "头像为空字符串"
+        },{
+            "uid": "75289479791",
+            "name": "很爱的",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "41739179347193",
+            "name": "单案例反拉",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "3794139479138",
+            "name": "单反垃圾大",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "397413794173941",
+            "name": "但按滥发Django",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "347193749141",
+            "name": "但按将按",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "79371973947191",
+            "name": "反拉降幅啦",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "497173491034180341",
+            "name": "发卡机法兰啊",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        }]
+    }
+}

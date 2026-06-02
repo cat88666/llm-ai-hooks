@@ -1,0 +1,37 @@
+<svg width="92" height="92" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="92" height="92" rx="46" fill="#EBF2FA"/>
+    <g filter="url(#znvi6r1zza)">
+        <path d="M56.555 31.56c0 .915-.756 1.655-1.69 1.655h-17.73c-.934 0-1.69-.74-1.69-1.654v-4.904c0-1.238 1.338-2.038 2.462-1.471l7.32 3.683c.484.244 1.06.244 1.545 0l7.32-3.684c1.125-.566 2.463.234 2.463 1.472v4.904z" fill="url(#pe8jbcc1hb)"/>
+        <path d="M27 36.452c0-.914.757-1.655 1.69-1.655h34.62c.933 0 1.69.741 1.69 1.655v6.336c0 .913-.757 1.654-1.69 1.654H28.69c-.933 0-1.69-.74-1.69-1.654v-6.336z" fill="url(#w82a8cwqsc)"/>
+        <path d="M46.81 46.333h15.034v19.013c0 .913-.756 1.654-1.69 1.654H46.81V46.333z" fill="url(#o8ixle74id)"/>
+        <path d="M30.156 46.333h14.872V67H31.846c-.934 0-1.69-.74-1.69-1.654V46.332z" fill="url(#1lkjlr9j6e)"/>
+    </g>
+    <defs>
+        <linearGradient id="pe8jbcc1hb" x1="46" y1="25" x2="46" y2="67" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3EC0FE"/>
+            <stop offset="1" stop-color="#178EF6"/>
+        </linearGradient>
+        <linearGradient id="w82a8cwqsc" x1="46" y1="25" x2="46" y2="67" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3EC0FE"/>
+            <stop offset="1" stop-color="#178EF6"/>
+        </linearGradient>
+        <linearGradient id="o8ixle74id" x1="46" y1="25" x2="46" y2="67" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3EC0FE"/>
+            <stop offset="1" stop-color="#178EF6"/>
+        </linearGradient>
+        <linearGradient id="1lkjlr9j6e" x1="46" y1="25" x2="46" y2="67" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3EC0FE"/>
+            <stop offset="1" stop-color="#178EF6"/>
+        </linearGradient>
+        <filter id="znvi6r1zza" x="19" y="25" width="54" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="8"/>
+            <feGaussianBlur stdDeviation="4"/>
+            <feComposite in2="hardAlpha" operator="out"/>
+            <feColorMatrix values="0 0 0 0 0.731145 0 0 0 0 0.731145 0 0 0 0 0.731145 0 0 0 0.2 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_37554_202348"/>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow_37554_202348" result="shape"/>
+        </filter>
+    </defs>
+</svg>

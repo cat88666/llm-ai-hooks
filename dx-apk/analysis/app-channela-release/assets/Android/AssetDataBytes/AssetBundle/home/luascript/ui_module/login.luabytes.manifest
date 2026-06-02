@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2715610679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa053e2b3e18ef76018b4258b6c61369
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa053e2b3e18ef76018b4258b6c61369
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/home/luascript/ui_module/login/login_module.txt
+Dependencies: []

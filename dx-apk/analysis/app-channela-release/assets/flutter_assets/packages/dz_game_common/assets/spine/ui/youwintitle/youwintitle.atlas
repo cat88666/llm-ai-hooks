@@ -1,0 +1,12 @@
+youwintitle.png
+size:314,72
+filter:Linear,Linear
+images/newAdd/youwin_effect_01
+bounds:238,2,74,68
+offsets:0,0,76,72
+images/newAdd/youwin_effect_02
+bounds:2,18,156,14
+offsets:16,1,188,16
+images/newAdd/youwin_text
+bounds:2,34,234,36
+offsets:0,14,238,68

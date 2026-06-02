@@ -1,0 +1,6 @@
+dark_record_active.png
+size:16,67
+filter:Linear,Linear
+pma:true
+VFX_06/VFX06_000
+bounds:2,2,4,63

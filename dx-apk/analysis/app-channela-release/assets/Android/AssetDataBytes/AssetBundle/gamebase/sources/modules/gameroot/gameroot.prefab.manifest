@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3346201789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9f7bfb90846f48bd97268d600e1d5d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 171de06935cfc9e2f375acff7e74e7a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b9f7bfb90846f48bd97268d600e1d5d5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ef05af6a8f3b1545aa3fe8245e6a0ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d93430a465ee2418e94cab62f71c8633, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c49b4cc203aa6414fae5c798d1d0e7d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+Assets:
+- Assets/3DGame/gamebase/Sources/Modules/GameRoot/GameRoot.prefab
+Dependencies: []

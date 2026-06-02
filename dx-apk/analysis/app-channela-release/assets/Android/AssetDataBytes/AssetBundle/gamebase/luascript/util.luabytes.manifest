@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1237079703
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56944d05e7169b3f649d25d85f6827f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 56944d05e7169b3f649d25d85f6827f1
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/util/MemoryReferenceInfo.txt
+- Assets/Temp/gamebase/luascript/util/game_amount_format.txt
+- Assets/Temp/gamebase/luascript/util/logger.txt
+- Assets/Temp/gamebase/luascript/util/player_prefs_util.txt
+- Assets/Temp/gamebase/luascript/util/component_util.txt
+- Assets/Temp/gamebase/luascript/util/time_util.txt
+- Assets/Temp/gamebase/luascript/util/location_util.txt
+- Assets/Temp/gamebase/luascript/util/flutter_message_util.txt
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 554429408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dc7c80a3db5cb4611ff6a4f470d2a1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5dc7c80a3db5cb4611ff6a4f470d2a1d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/home/luascript/ui_module/popwindow/popwindow/popwindow_ctrl.txt
+- Assets/Temp/home/luascript/ui_module/popwindow/popwindow/popwindow_view.txt
+Dependencies: []

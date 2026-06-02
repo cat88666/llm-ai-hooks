@@ -1,0 +1,464 @@
+{
+  "tableData": {
+    "tableId": 94381,
+    "tableConfigRule": {
+      "clubId": 878642584568807476,
+      "holderId": 880428053883285579,
+      "tableId": 94381,
+      "tableType": 2001,
+      "tableName": "w103",
+      "maxSeats": 6,
+      "autoStartUserCounts": 6,
+      "bringChipScore": 100.0,
+      "sbBlindScore": 50.0,
+      "bbBlindScore": 100.0,
+      "timeCount": 240,
+      "handCount": 0,
+      "minBringChipScore": 1,
+      "maxBringChipScore": 1000,
+      "realMinBringChipScore": 100.0,
+      "realMaxBringChipScore": 100000.0,
+      "bringInLimitChipScore": 100000.0,
+      "seatCountdown": 15,
+      "leaveCountdown": 30,
+      "upperLimit": 1000,
+      "sitDownLimit": 200,
+      "cardTableLimit": 100,
+      "lookOnLimit": 100,
+      "rake": 0.03,
+      "rakeStr": "3.00",
+      "createdAt": 1698820238072,
+      "minStartUserCounts": 2,
+      "seatsNumberLimit": 100,
+      "gameOvertime": 20,
+      "status": 0,
+      "tableCode": "D927584749919485979",
+      "insuranceMode": 1,
+      "insuranceTurn": 0.05,
+      "insuranceTurnStr": "5.0",
+      "insuranceLowerLimit": 1,
+      "insuranceLowerLimitScore": 100.0
+    },
+    "seatList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "users": [
+      {
+        "nickName": "c222",
+        "tableId": 94381,
+        "userId": 882330118406774861,
+        "chairId": 1,
+        "status": 10,
+        "allinBetRound": 1,
+        "raiseBetRound": 0,
+        "isLeave": false,
+        "userReqBetStatus": [
+          6,
+          10
+        ],
+        "betCountDown": 120,
+        "cardsType": 5,
+        "cardsTypeName": "顺子",
+        "lastCards": [],
+        "callScore": 100.00,
+        "needCallScore": 100.0,
+        "callTotalScore": 100.00,
+        "winScore": 0,
+        "chipScore": 0.0,
+        "minRaiseScore": 100.00,
+        "maxRaiseScore": 100.00,
+        "betTotalTime": 120,
+        "betStartTime": 1698820273975,
+        "scaleValue": 0,
+        "quickBetTip": {
+          "betOptions": [
+            {
+              "totalScore": 200.0,
+              "desc": "x2"
+            },
+            {
+              "totalScore": 300.0,
+              "desc": "x3"
+            },
+            {
+              "totalScore": 400.0,
+              "desc": "x4"
+            }
+          ],
+          "optionType": 1
+        },
+        "validBetAmount": 0,
+        "seatType": 1,
+        "ipAddress": "1.1.1.1",
+        "deviceType": 4,
+        "nextChipScore": 0,
+        "startChipScore": 100.0,
+        "waterAmount": 0,
+        "systemOperationCnt": 0,
+        "currency": "USDT",
+        "currentHand": 0,
+        "handCards": [
+          40,
+          33
+        ],
+        "onlineStatus": 0,
+        "showdownStatus": 1,
+        "isShowdown": false,
+        "showCards": true,
+        "maxCardList": [
+          {
+            "card": 40,
+            "highLight": true
+          },
+          {
+            "card": 33,
+            "highLight": true
+          },
+          {
+            "card": 28,
+            "highLight": true
+          },
+          {
+            "card": 39,
+            "highLight": true
+          },
+          {
+            "card": 25,
+            "highLight": true
+          }
+        ]
+      },
+      {
+        "nickName": "c1111",
+        "tableId": 94381,
+        "userId": 880428053883285579,
+        "chairId": 2,
+        "status": 10,
+        "allinBetRound": 1,
+        "raiseBetRound": 0,
+        "isLeave": false,
+        "userReqBetStatus": [
+          6,
+          10,
+          7
+        ],
+        "betCountDown": 120,
+        "cardsType": 2,
+        "cardsTypeName": "一对",
+        "lastCards": [],
+        "callScore": 200.00,
+        "needCallScore": 50.0,
+        "callTotalScore": 200.00,
+        "winScore": 0,
+        "chipScore": 62.50,
+        "minRaiseScore": 150.0,
+        "maxRaiseScore": 150.00,
+        "betTotalTime": 120,
+        "betStartTime": 1698820278460,
+        "scaleValue": 0,
+        "quickBetTip": {
+          "betOptions": [
+            {
+              "totalScore": 200.0,
+              "desc": "x2"
+            },
+            {
+              "totalScore": 300.0,
+              "desc": "x3"
+            },
+            {
+              "totalScore": 400.0,
+              "desc": "x4"
+            }
+          ],
+          "optionType": 1
+        },
+        "validBetAmount": 0,
+        "seatType": 3,
+        "ipAddress": "1.1.1.1",
+        "deviceType": 4,
+        "nextChipScore": 0,
+        "startChipScore": 200.0,
+        "waterAmount": 0,
+        "systemOperationCnt": 0,
+        "currency": "USDT",
+        "currentHand": 0,
+        "handCards": [
+          38,
+          1
+        ],
+        "onlineStatus": 2,
+        "showdownStatus": 1,
+        "isShowdown": false,
+        "showCards": true,
+        "maxCardList": [
+          {
+            "card": 38,
+            "highLight": true
+          },
+          {
+            "card": 1,
+            "highLight": false
+          },
+          {
+            "card": 28,
+            "highLight": false
+          },
+          {
+            "card": 39,
+            "highLight": true
+          },
+          {
+            "card": 51,
+            "highLight": false
+          }
+        ],
+        "insureStatus": 2,
+        "insureAmount": 25.0,
+        "compensationAmount": 62.50,
+        "buyOutsRound": 3
+      },
+      {
+        "nickName": "call03",
+        "topImagesUrl": "https://img2.baidu.com/it/u=861869171,3366406111&fm=253&fmt=auto&app=138&f=JPG?w=500&h=500",
+        "tableId": 94381,
+        "userId": 882330150409314356,
+        "chairId": 6,
+        "status": 10,
+        "allinBetRound": 1,
+        "raiseBetRound": 0,
+        "isLeave": false,
+        "userReqBetStatus": [
+          6,
+          10
+        ],
+        "betCountDown": 120,
+        "cardsType": 1,
+        "cardsTypeName": "高牌",
+        "lastCards": [],
+        "callScore": 200.00,
+        "needCallScore": 100.00,
+        "callTotalScore": 200.00,
+        "winScore": 0,
+        "chipScore": 0.0,
+        "minRaiseScore": 100.00,
+        "maxRaiseScore": 100.00,
+        "betTotalTime": 120,
+        "betStartTime": 1698820281580,
+        "scaleValue": 0,
+        "quickBetTip": {
+          "betOptions": [
+            {
+              "totalScore": 400.00,
+              "desc": "2x"
+            },
+            {
+              "totalScore": 600.00,
+              "desc": "3x"
+            },
+            {
+              "totalScore": 800.00,
+              "desc": "4x"
+            }
+          ],
+          "optionType": 3
+        },
+        "validBetAmount": 0,
+        "seatType": 2,
+        "ipAddress": "1.1.1.1",
+        "deviceType": 4,
+        "nextChipScore": 0,
+        "startChipScore": 200.0,
+        "waterAmount": 0,
+        "systemOperationCnt": 0,
+        "currency": "USDT",
+        "currentHand": 0,
+        "handCards": [
+          35,
+          44
+        ],
+        "onlineStatus": 0,
+        "showdownStatus": 1,
+        "isShowdown": false,
+        "showCards": true,
+        "maxCardList": [
+          {
+            "card": 35,
+            "highLight": false
+          },
+          {
+            "card": 44,
+            "highLight": false
+          },
+          {
+            "card": 28,
+            "highLight": false
+          },
+          {
+            "card": 39,
+            "highLight": false
+          },
+          {
+            "card": 51,
+            "highLight": false
+          }
+        ]
+      }
+    ],
+    "waitSeatUsers": [],
+    "sbChairId": 2,
+    "bbChairId": 6,
+    "button": 1,
+    "betRound": 3,
+    "mainPot": {
+      "totalScore": 300.00,
+      "userIds": [
+        882330118406774861,
+        882330150409314356,
+        880428053883285579
+      ],
+      "winners": [],
+      "waterAmount": 0,
+      "potUserInfoList": [
+        {
+          "userId": 882330118406774861,
+          "betAmount": 100.00,
+          "currency": "USDT"
+        },
+        {
+          "userId": 882330150409314356,
+          "betAmount": 100.00,
+          "currency": "USDT"
+        },
+        {
+          "userId": 880428053883285579,
+          "betAmount": 100.00,
+          "currency": "USDT"
+        }
+      ],
+      "currency": "USDT",
+      "hasAllinUser": true,
+      "sideNo": 0
+    },
+    "sidePots": [
+      {
+        "totalScore": 200.00,
+        "userIds": [
+          882330150409314356,
+          880428053883285579
+        ],
+        "winners": [],
+        "waterAmount": 0,
+        "potUserInfoList": [
+          {
+            "userId": 882330150409314356,
+            "betAmount": 100.00,
+            "currency": "USDT"
+          },
+          {
+            "userId": 880428053883285579,
+            "betAmount": 100.00,
+            "currency": "USDT"
+          }
+        ],
+        "currency": "USDT",
+        "hasAllinUser": true,
+        "sideNo": 1
+      }
+    ],
+    "potScore": 500.0,
+    "publicCards": [
+      28,
+      39,
+      51,
+      25
+    ],
+    "userCounts": 3,
+    "handCode": "H20231101143040907225",
+    "handCounts": 1,
+    "tableTotalTime": 14400,
+    "serverTime": 1698820314131,
+    "tableStartTime": 1698820270457,
+    "tableStatus": 2,
+    "holderId": 880428053883285579,
+    "showStart": true,
+    "showDisband": false,
+    "showAllPublic": false,
+    "topProxy": false,
+    "maxCallScore": 10.0,
+    "tableHandStatus": 1,
+    "gameHandStatus": 3,
+    "userInsureMsgDto": {
+      "tableId": 94381,
+      "summerDtoList": [
+        {
+          "userId": 882330118406774861,
+          "serverTime": 1698820314133,
+          "insureTotalTime": 30000,
+          "insureStartTime": 1698820293896,
+          "delayTime": 15,
+          "lowInsureLimitFlag": false,
+          "delayCount": 0
+        },
+        {
+          "userId": 880428053883285579,
+          "serverTime": 1698820314133,
+          "insureTotalTime": 30000,
+          "insureStartTime": 1698820293896,
+          "delayTime": 15,
+          "lowInsureLimitFlag": false,
+          "delayCount": 0
+        }
+      ],
+      "insureDetailDto": {
+        "userId": 880428053883285579,
+        "nickName": "c1111",
+        "potNo": 1,
+        "potAmount": 200.00,
+        "minInsureAmount": 0,
+        "maxInsureAmount": 50,
+        "upLimitAmount": 50,
+        "allInclusiveAmount": 40,
+        "fullPool": 80,
+        "outsCounts": 10,
+        "odds": 2.50,
+        "insureStatus": 1,
+        "insureTitle": "购买保险",
+        "publicCards": [
+          28,
+          39,
+          51,
+          25
+        ],
+        "outsCards": [
+          20,
+          21,
+          22,
+          23,
+          41,
+          42,
+          43,
+          45,
+          46,
+          47
+        ]
+      },
+      "showInsureMode": false,
+      "allinCounts": 3
+    },
+    "userBuyOutsDtoList": [
+      {
+        "userId": 880428053883285579,
+        "buyOuts": true,
+        "insureProfitAmount": 62.50,
+        "chipScore": 10.0,
+        "betRound": 3
+      }
+    ]
+  }
+}

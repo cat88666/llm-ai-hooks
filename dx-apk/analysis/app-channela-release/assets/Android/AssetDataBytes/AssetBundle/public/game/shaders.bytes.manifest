@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2960372544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e99f6fa8363f92f30d1abdf7037a378d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e99f6fa8363f92f30d1abdf7037a378d
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/mahjong/Sources/Shader/UIFlash.shader
+- Assets/3DGame/mahjong/Sources/Shader/SimpleGrabPassBlur.shader
+- Assets/3DGame/mahjong/Sources/Shader/RubCard.shader
+- Assets/3DGame/mahjong/Sources/Shader/ImageGray.shader
+- Assets/3DGame/mahjong/Sources/Shader/HalfLambert.shader
+- Assets/3DGame/mahjong/Sources/Shader/Outline.shader
+- Assets/3DGame/mahjong/Sources/Shader/Mobile-Particle-Add_Color_Mask.shader
+- Assets/3DGame/mahjong/Sources/Shader/Mask.shader
+Dependencies: []

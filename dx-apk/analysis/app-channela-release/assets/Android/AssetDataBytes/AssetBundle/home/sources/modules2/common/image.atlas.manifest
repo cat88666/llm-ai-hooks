@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1592270739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17d364a63ddc09a067eb957defcdb9e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 17d364a63ddc09a067eb957defcdb9e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/home/Sources/Modules2/Common/Image/img_common_btn_close.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/btn_icon_anniu_02.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/bg_imh_di_da_01.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/img_bg_huawen_di_01.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/img_bg_tab_da.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/btn_icon_anniu_01.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/btn_icon_anniu_03.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/image.spriteatlas
+- Assets/3DGame/home/Sources/Modules2/Common/Image/img_bg_huawen_tishiban.png
+- Assets/3DGame/home/Sources/Modules2/Common/Image/img_tabname_tishi.png
+Dependencies: []

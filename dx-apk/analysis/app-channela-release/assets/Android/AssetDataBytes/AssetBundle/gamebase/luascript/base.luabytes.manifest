@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1129114656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7046a100f402996020d264eef79c2a0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7046a100f402996020d264eef79c2a0f
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/base/dxg_proc_object.txt
+- Assets/Temp/gamebase/luascript/base/dxg_entry.txt
+- Assets/Temp/gamebase/luascript/base/dxg_object.txt
+Dependencies: []

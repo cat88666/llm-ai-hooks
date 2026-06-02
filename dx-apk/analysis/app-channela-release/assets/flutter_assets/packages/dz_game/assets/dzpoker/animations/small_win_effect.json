@@ -1,0 +1,428 @@
+{"frames": {
+
+"小动效_149.png":
+{
+	"frame": {"x":0,"y":0,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_150.png":
+{
+	"frame": {"x":375,"y":0,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_151.png":
+{
+	"frame": {"x":750,"y":0,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_152.png":
+{
+	"frame": {"x":1125,"y":0,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_153.png":
+{
+	"frame": {"x":1500,"y":0,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_154.png":
+{
+	"frame": {"x":0,"y":190,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_155.png":
+{
+	"frame": {"x":375,"y":190,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_156.png":
+{
+	"frame": {"x":750,"y":190,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_157.png":
+{
+	"frame": {"x":1125,"y":190,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_158.png":
+{
+	"frame": {"x":1500,"y":190,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_159.png":
+{
+	"frame": {"x":0,"y":380,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_160.png":
+{
+	"frame": {"x":375,"y":380,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_161.png":
+{
+	"frame": {"x":750,"y":380,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_162.png":
+{
+	"frame": {"x":1125,"y":380,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_163.png":
+{
+	"frame": {"x":1500,"y":380,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_164.png":
+{
+	"frame": {"x":0,"y":570,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_165.png":
+{
+	"frame": {"x":375,"y":570,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_166.png":
+{
+	"frame": {"x":750,"y":570,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_167.png":
+{
+	"frame": {"x":1125,"y":570,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_168.png":
+{
+	"frame": {"x":1500,"y":570,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_169.png":
+{
+	"frame": {"x":0,"y":760,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_170.png":
+{
+	"frame": {"x":375,"y":760,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_171.png":
+{
+	"frame": {"x":750,"y":760,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_172.png":
+{
+	"frame": {"x":1125,"y":760,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_173.png":
+{
+	"frame": {"x":1500,"y":760,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_174.png":
+{
+	"frame": {"x":0,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_175.png":
+{
+	"frame": {"x":375,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_176.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_177.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_178.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_179.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_180.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_181.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_182.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_183.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_184.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_185.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_186.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_187.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_188.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_189.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_190.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_191.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_192.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_193.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_194.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_195.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_196.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_197.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_198.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_199.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+},
+"小动效_200.png":
+{
+	"frame": {"x":750,"y":950,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},"duration": 40
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "small_win_effect.png",
+	"format": "RGBA8888",
+	"size": {"w":1875,"h":1140},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:f606d6d08c182dc84830c2520c812d72:4f8659d1a0390d9ec5b1ae42bd512afd:0e374513c38024576f6427f06f3ebd3b$"
+}
+}

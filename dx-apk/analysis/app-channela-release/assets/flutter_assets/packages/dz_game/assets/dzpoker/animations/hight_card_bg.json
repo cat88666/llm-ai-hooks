@@ -1,0 +1,21 @@
+{"frames": {
+
+"高牌-特效.png":
+{
+	"frame": {"x":1,"y":1,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":190},
+	"sourceSize": {"w":375,"h":190},
+	"duration": 40
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hight_card_bg.png",
+	"format": "RGBA8888",
+	"size": {"w":377,"h":192},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:cbda888d8a076676980c54d5054ec5a5:ad34971b622b6ee2e68cfb500531e6dd:bdffe8eda8ae321781eeb93df10b9c94$"
+}
+}

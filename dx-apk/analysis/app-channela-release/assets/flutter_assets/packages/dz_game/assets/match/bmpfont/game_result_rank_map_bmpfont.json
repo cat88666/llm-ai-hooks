@@ -1,0 +1,84 @@
+{
+	"strImgPath": "match/bmpfont",
+	"strImgName": "game_result_rank_map.png",
+	"dSize": 78.0,
+	"dSpace": -18.0,
+	"data": {
+		"0": {
+			"dLeft": 0,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"1": {
+			"dLeft": 66,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"2": {
+			"dLeft": 132,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"3": {
+			"dLeft": 198,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"4": {
+			"dLeft": 264,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"5": {
+			"dLeft": 330,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"6": {
+			"dLeft": 398,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"7": {
+			"dLeft": 462,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"8": {
+			"dLeft": 528,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"9": {
+			"dLeft": 594,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"r": {
+			"dLeft": 666,
+			"dTop": 0,
+			"dWidth": 54
+		},
+		"n": {
+			"dLeft": 726,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"d": {
+			"dLeft": 792,
+			"dTop": 0,
+			"dWidth": 66
+		},
+		"t": {
+			"dLeft": 864,
+			"dTop": 0,
+			"dWidth": 54
+		},
+		"h": {
+			"dLeft": 932,
+			"dTop": 0,
+			"dWidth": 50
+		}
+
+	}
+}

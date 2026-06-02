@@ -1,0 +1,696 @@
+{"frames": {
+
+"buyCoinEffect_0.png":
+{
+	"frame": {"x":1,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_1.png":
+{
+	"frame": {"x":150,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_2.png":
+{
+	"frame": {"x":299,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_3.png":
+{
+	"frame": {"x":448,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_4.png":
+{
+	"frame": {"x":597,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_5.png":
+{
+	"frame": {"x":746,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_6.png":
+{
+	"frame": {"x":895,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_7.png":
+{
+	"frame": {"x":1044,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_8.png":
+{
+	"frame": {"x":1193,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_9.png":
+{
+	"frame": {"x":1342,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_10.png":
+{
+	"frame": {"x":1491,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_11.png":
+{
+	"frame": {"x":1640,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_12.png":
+{
+	"frame": {"x":1789,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_13.png":
+{
+	"frame": {"x":1,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_14.png":
+{
+	"frame": {"x":150,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_15.png":
+{
+	"frame": {"x":299,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_16.png":
+{
+	"frame": {"x":448,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_17.png":
+{
+	"frame": {"x":597,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_18.png":
+{
+	"frame": {"x":746,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_19.png":
+{
+	"frame": {"x":895,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_20.png":
+{
+	"frame": {"x":1044,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_21.png":
+{
+	"frame": {"x":1193,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_22.png":
+{
+	"frame": {"x":1342,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_23.png":
+{
+	"frame": {"x":1491,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_24.png":
+{
+	"frame": {"x":1640,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_25.png":
+{
+	"frame": {"x":1789,"y":151,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_26.png":
+{
+	"frame": {"x":1,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_27.png":
+{
+	"frame": {"x":150,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_28.png":
+{
+	"frame": {"x":299,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_29.png":
+{
+	"frame": {"x":448,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_30.png":
+{
+	"frame": {"x":597,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_31.png":
+{
+	"frame": {"x":746,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_32.png":
+{
+	"frame": {"x":895,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_33.png":
+{
+	"frame": {"x":1044,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_34.png":
+{
+	"frame": {"x":1193,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_35.png":
+{
+	"frame": {"x":1342,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_36.png":
+{
+	"frame": {"x":1491,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_37.png":
+{
+	"frame": {"x":1640,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_38.png":
+{
+	"frame": {"x":1789,"y":301,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_39.png":
+{
+	"frame": {"x":1,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_40.png":
+{
+	"frame": {"x":150,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_41.png":
+{
+	"frame": {"x":299,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_42.png":
+{
+	"frame": {"x":448,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_43.png":
+{
+	"frame": {"x":597,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_44.png":
+{
+	"frame": {"x":746,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_45.png":
+{
+	"frame": {"x":895,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_46.png":
+{
+	"frame": {"x":1044,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_47.png":
+{
+	"frame": {"x":1193,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_48.png":
+{
+	"frame": {"x":1342,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_49.png":
+{
+	"frame": {"x":1491,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_50.png":
+{
+	"frame": {"x":1640,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_51.png":
+{
+	"frame": {"x":1789,"y":451,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_52.png":
+{
+	"frame": {"x":1,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_53.png":
+{
+	"frame": {"x":150,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_54.png":
+{
+	"frame": {"x":299,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_55.png":
+{
+	"frame": {"x":448,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_56.png":
+{
+	"frame": {"x":597,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_57.png":
+{
+	"frame": {"x":746,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_58.png":
+{
+	"frame": {"x":895,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_59.png":
+{
+	"frame": {"x":1044,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_60.png":
+{
+	"frame": {"x":1193,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_61.png":
+{
+	"frame": {"x":1342,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_62.png":
+{
+	"frame": {"x":1491,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_63.png":
+{
+	"frame": {"x":1640,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_64.png":
+{
+	"frame": {"x":1789,"y":601,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_65.png":
+{
+	"frame": {"x":1,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_66.png":
+{
+	"frame": {"x":150,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_67.png":
+{
+	"frame": {"x":299,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_68.png":
+{
+	"frame": {"x":448,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_69.png":
+{
+	"frame": {"x":597,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_70.png":
+{
+	"frame": {"x":746,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_71.png":
+{
+	"frame": {"x":895,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_72.png":
+{
+	"frame": {"x":1044,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_73.png":
+{
+	"frame": {"x":1193,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_74.png":
+{
+	"frame": {"x":1342,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+},
+"buyCoinEffect_75.png":
+{
+	"frame": {"x":1491,"y":1,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":148},
+	"sourceSize": {"w":147,"h":148},
+    "duration": 40
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buy_coin_effect.png",
+	"format": "RGBA8888",
+	"size": {"w":1937,"h":750},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8e731ac8b1b9cf249c2b1a2f8fe0d969:7d1617459dd6405f94384c76dea57a78:9832f0c5d72a59e9a9c71c9c5f3210c6$"
+}
+}

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 282366508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e84946c7a7ddcd9b1a5165a0921b546b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e84946c7a7ddcd9b1a5165a0921b546b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_progress_fg.png
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_mask.png
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_icon.png
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_btn_kefu.png
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_btn_repair.png
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_version_bg.png
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/hotupdateui.spriteatlas
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/HotUpdateUI/img_hotupdatewindow_progress_bg.png
+Dependencies: []

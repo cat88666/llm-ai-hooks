@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1123063650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98fd71b94e3a394e79506988b970f423
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 98fd71b94e3a394e79506988b970f423
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/home/luascript/const/dxg_home_request_code.txt
+Dependencies: []

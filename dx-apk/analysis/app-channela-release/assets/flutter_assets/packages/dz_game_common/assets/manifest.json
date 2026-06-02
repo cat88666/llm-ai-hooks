@@ -1,0 +1,4673 @@
+{
+  "metadata": {
+    "package": "dz_game_common",
+    "version": "1.0.0",
+    "generated": "2026-05-23T12:05:04.749399",
+    "totalResources": 862,
+    "totalCategories": 58
+  },
+  "categories": {
+    "animations": {
+      "resourceCount": 13,
+      "totalSize": 751912,
+      "resources": [
+        {
+          "path": "animations/buy_coin_effect.json",
+          "size": 16801,
+          "fileName": "buy_coin_effect.json"
+        },
+        {
+          "path": "animations/buy_coin_effect.png",
+          "size": 150753,
+          "fileName": "buy_coin_effect.png"
+        },
+        {
+          "path": "animations/light_sweep.json",
+          "size": 4905,
+          "fileName": "light_sweep.json"
+        },
+        {
+          "path": "animations/light_sweep.png",
+          "size": 42465,
+          "fileName": "light_sweep.png"
+        },
+        {
+          "path": "animations/logo_anim_ats.json",
+          "size": 14050,
+          "fileName": "logo_anim_ats.json"
+        },
+        {
+          "path": "animations/logo_anim_ats.png",
+          "size": 490682,
+          "fileName": "logo_anim_ats.png"
+        },
+        {
+          "path": "animations/player_audio_ing.json",
+          "size": 928,
+          "fileName": "player_audio_ing.json"
+        },
+        {
+          "path": "animations/player_audio_ing.png",
+          "size": 491,
+          "fileName": "player_audio_ing.png"
+        },
+        {
+          "path": "animations/player_audio_ing2.png",
+          "size": 4168,
+          "fileName": "player_audio_ing2.png"
+        },
+        {
+          "path": "animations/voice_anim_load_center.json",
+          "size": 6244,
+          "fileName": "voice_anim_load_center.json"
+        },
+        {
+          "path": "animations/voice_anim_load_center.png",
+          "size": 17123,
+          "fileName": "voice_anim_load_center.png"
+        },
+        {
+          "path": "animations/wind_round_bg.json",
+          "size": 555,
+          "fileName": "wind_round_bg.json"
+        },
+        {
+          "path": "animations/wind_round_bg.png",
+          "size": 2747,
+          "fileName": "wind_round_bg.png"
+        }
+      ]
+    },
+    "animations_simple": {
+      "resourceCount": 22,
+      "totalSize": 614706,
+      "resources": [
+        {
+          "path": "animations_simple/MoneyGift.atlas",
+          "size": 155,
+          "fileName": "MoneyGift.atlas"
+        },
+        {
+          "path": "animations_simple/MoneyGift.json",
+          "size": 1704,
+          "fileName": "MoneyGift.json"
+        },
+        {
+          "path": "animations_simple/MoneyGift.png",
+          "size": 51059,
+          "fileName": "MoneyGift.png"
+        },
+        {
+          "path": "animations_simple/UI_VFX_005.atlas",
+          "size": 80,
+          "fileName": "UI_VFX_005.atlas"
+        },
+        {
+          "path": "animations_simple/UI_VFX_005.json",
+          "size": 4414,
+          "fileName": "UI_VFX_005.json"
+        },
+        {
+          "path": "animations_simple/UI_VFX_005.png",
+          "size": 136,
+          "fileName": "UI_VFX_005.png"
+        },
+        {
+          "path": "animations_simple/load_work_anim.atlas",
+          "size": 567,
+          "fileName": "load_work_anim.atlas"
+        },
+        {
+          "path": "animations_simple/load_work_anim.json",
+          "size": 2130,
+          "fileName": "load_work_anim.json"
+        },
+        {
+          "path": "animations_simple/load_work_anim.png",
+          "size": 1278,
+          "fileName": "load_work_anim.png"
+        },
+        {
+          "path": "animations_simple/logo_anim_ats.atlas",
+          "size": 3637,
+          "fileName": "logo_anim_ats.atlas"
+        },
+        {
+          "path": "animations_simple/logo_anim_ats.json",
+          "size": 2358,
+          "fileName": "logo_anim_ats.json"
+        },
+        {
+          "path": "animations_simple/logo_anim_ats.png",
+          "size": 307857,
+          "fileName": "logo_anim_ats.png"
+        },
+        {
+          "path": "animations_simple/logo_anim_ats_2.png",
+          "size": 227941,
+          "fileName": "logo_anim_ats_2.png"
+        },
+        {
+          "path": "animations_simple/player_audio_ing.atlas",
+          "size": 164,
+          "fileName": "player_audio_ing.atlas"
+        },
+        {
+          "path": "animations_simple/player_audio_ing.json",
+          "size": 1058,
+          "fileName": "player_audio_ing.json"
+        },
+        {
+          "path": "animations_simple/player_audio_ing.png",
+          "size": 468,
+          "fileName": "player_audio_ing.png"
+        },
+        {
+          "path": "animations_simple/voice_anim_load_center.atlas",
+          "size": 92,
+          "fileName": "voice_anim_load_center.atlas"
+        },
+        {
+          "path": "animations_simple/voice_anim_load_center.json",
+          "size": 5471,
+          "fileName": "voice_anim_load_center.json"
+        },
+        {
+          "path": "animations_simple/voice_anim_load_center.png",
+          "size": 146,
+          "fileName": "voice_anim_load_center.png"
+        },
+        {
+          "path": "animations_simple/youwintitle.atlas",
+          "size": 113,
+          "fileName": "youwintitle.atlas"
+        },
+        {
+          "path": "animations_simple/youwintitle.json",
+          "size": 554,
+          "fileName": "youwintitle.json"
+        },
+        {
+          "path": "animations_simple/youwintitle.png",
+          "size": 3324,
+          "fileName": "youwintitle.png"
+        }
+      ]
+    },
+    "audio": {
+      "resourceCount": 2,
+      "totalSize": 162262,
+      "resources": [
+        {
+          "path": "audio/countdown.mp3",
+          "size": 151554,
+          "fileName": "countdown.mp3"
+        },
+        {
+          "path": "audio/switchtable.mp3",
+          "size": 10708,
+          "fileName": "switchtable.mp3"
+        }
+      ]
+    },
+    "audio/man/zh": {
+      "resourceCount": 85,
+      "totalSize": 3211067,
+      "resources": [
+        {
+          "path": "audio/man/zh/10_man_wet_board.mp3",
+          "size": 17186,
+          "fileName": "10_man_wet_board.mp3"
+        },
+        {
+          "path": "audio/man/zh/11_man_wet_board_many_players.mp3",
+          "size": 23873,
+          "fileName": "11_man_wet_board_many_players.mp3"
+        },
+        {
+          "path": "audio/man/zh/12_man_get_lucky.mp3",
+          "size": 14678,
+          "fileName": "12_man_get_lucky.mp3"
+        },
+        {
+          "path": "audio/man/zh/13_man_unlucky.mp3",
+          "size": 20112,
+          "fileName": "13_man_unlucky.mp3"
+        },
+        {
+          "path": "audio/man/zh/14_man_almost.mp3",
+          "size": 34333,
+          "fileName": "14_man_almost.mp3"
+        },
+        {
+          "path": "audio/man/zh/15_man_cooler.mp3",
+          "size": 20530,
+          "fileName": "15_man_cooler.mp3"
+        },
+        {
+          "path": "audio/man/zh/16_man_pot_commit.mp3",
+          "size": 23873,
+          "fileName": "16_man_pot_commit.mp3"
+        },
+        {
+          "path": "audio/man/zh/17_man_big_hand.mp3",
+          "size": 13424,
+          "fileName": "17_man_big_hand.mp3"
+        },
+        {
+          "path": "audio/man/zh/18_man_hit_the_board.mp3",
+          "size": 15096,
+          "fileName": "18_man_hit_the_board.mp3"
+        },
+        {
+          "path": "audio/man/zh/19_man_drawing.mp3",
+          "size": 12588,
+          "fileName": "19_man_drawing.mp3"
+        },
+        {
+          "path": "audio/man/zh/1_man_good_play.mp3",
+          "size": 13424,
+          "fileName": "1_man_good_play.mp3"
+        },
+        {
+          "path": "audio/man/zh/20_man_one_on_one.mp3",
+          "size": 17186,
+          "fileName": "20_man_one_on_one.mp3"
+        },
+        {
+          "path": "audio/man/zh/21_man_see_flop.mp3",
+          "size": 22619,
+          "fileName": "21_man_see_flop.mp3"
+        },
+        {
+          "path": "audio/man/zh/22_man_do_not_bluff.mp3",
+          "size": 12170,
+          "fileName": "22_man_do_not_bluff.mp3"
+        },
+        {
+          "path": "audio/man/zh/23_man_catch.mp3",
+          "size": 18440,
+          "fileName": "23_man_catch.mp3"
+        },
+        {
+          "path": "audio/man/zh/24_man_catch_you.mp3",
+          "size": 15096,
+          "fileName": "24_man_catch_you.mp3"
+        },
+        {
+          "path": "audio/man/zh/25_man_unexpectedly_fold.mp3",
+          "size": 16350,
+          "fileName": "25_man_unexpectedly_fold.mp3"
+        },
+        {
+          "path": "audio/man/zh/26_man_trap.mp3",
+          "size": 22619,
+          "fileName": "26_man_trap.mp3"
+        },
+        {
+          "path": "audio/man/zh/27_man_deep_trap.mp3",
+          "size": 15932,
+          "fileName": "27_man_deep_trap.mp3"
+        },
+        {
+          "path": "audio/man/zh/28_man_honest.mp3",
+          "size": 22332,
+          "fileName": "28_man_honest.mp3"
+        },
+        {
+          "path": "audio/man/zh/29_man_confused.mp3",
+          "size": 19694,
+          "fileName": "29_man_confused.mp3"
+        },
+        {
+          "path": "audio/man/zh/2_man_good_play.mp3",
+          "size": 13842,
+          "fileName": "2_man_good_play.mp3"
+        },
+        {
+          "path": "audio/man/zh/30_man_difficult_choice.mp3",
+          "size": 23455,
+          "fileName": "30_man_difficult_choice.mp3"
+        },
+        {
+          "path": "audio/man/zh/31_man_so_difficult.mp3",
+          "size": 24709,
+          "fileName": "31_man_so_difficult.mp3"
+        },
+        {
+          "path": "audio/man/zh/32_man_that_is_close.mp3",
+          "size": 27809,
+          "fileName": "32_man_that_is_close.mp3"
+        },
+        {
+          "path": "audio/man/zh/33_man_wanna_call.mp3",
+          "size": 45473,
+          "fileName": "33_man_wanna_call.mp3"
+        },
+        {
+          "path": "audio/man/zh/34_man_all_in_i_fold.mp3",
+          "size": 27040,
+          "fileName": "34_man_all_in_i_fold.mp3"
+        },
+        {
+          "path": "audio/man/zh/35_man_show_card.mp3",
+          "size": 28193,
+          "fileName": "35_man_show_card.mp3"
+        },
+        {
+          "path": "audio/man/zh/36_man_show_card_please.mp3",
+          "size": 24709,
+          "fileName": "36_man_show_card_please.mp3"
+        },
+        {
+          "path": "audio/man/zh/37_man_hurry_up.mp3",
+          "size": 16350,
+          "fileName": "37_man_hurry_up.mp3"
+        },
+        {
+          "path": "audio/man/zh/38_man_asleep.mp3",
+          "size": 19694,
+          "fileName": "38_man_asleep.mp3"
+        },
+        {
+          "path": "audio/man/zh/39_man_bluff_again.mp3",
+          "size": 22201,
+          "fileName": "39_man_bluff_again.mp3"
+        },
+        {
+          "path": "audio/man/zh/3_man_good_fold.mp3",
+          "size": 17186,
+          "fileName": "3_man_good_fold.mp3"
+        },
+        {
+          "path": "audio/man/zh/40_man_bet_to_much.mp3",
+          "size": 27635,
+          "fileName": "40_man_bet_to_much.mp3"
+        },
+        {
+          "path": "audio/man/zh/41_man_be_catch.mp3",
+          "size": 32029,
+          "fileName": "41_man_be_catch.mp3"
+        },
+        {
+          "path": "audio/man/zh/42_man_be_punished.mp3",
+          "size": 40480,
+          "fileName": "42_man_be_punished.mp3"
+        },
+        {
+          "path": "audio/man/zh/43_man_do_not_drawing.mp3",
+          "size": 22619,
+          "fileName": "43_man_do_not_drawing.mp3"
+        },
+        {
+          "path": "audio/man/zh/44_man_fold_please.mp3",
+          "size": 15932,
+          "fileName": "44_man_fold_please.mp3"
+        },
+        {
+          "path": "audio/man/zh/45_man_one_more_card.mp3",
+          "size": 20514,
+          "fileName": "45_man_one_more_card.mp3"
+        },
+        {
+          "path": "audio/man/zh/46_man_crying_call.mp3",
+          "size": 34337,
+          "fileName": "46_man_crying_call.mp3"
+        },
+        {
+          "path": "audio/man/zh/47_man_crying_fold.mp3",
+          "size": 29307,
+          "fileName": "47_man_crying_fold.mp3"
+        },
+        {
+          "path": "audio/man/zh/48_man_pay_me_please.mp3",
+          "size": 23455,
+          "fileName": "48_man_pay_me_please.mp3"
+        },
+        {
+          "path": "audio/man/zh/49_man_can_not_call.mp3",
+          "size": 13424,
+          "fileName": "49_man_can_not_call.mp3"
+        },
+        {
+          "path": "audio/man/zh/50_man_afraid_of_calling.mp3",
+          "size": 18440,
+          "fileName": "50_man_afraid_of_calling.mp3"
+        },
+        {
+          "path": "audio/man/zh/51_man_thanks_boss.mp3",
+          "size": 16350,
+          "fileName": "51_man_thanks_boss.mp3"
+        },
+        {
+          "path": "audio/man/zh/52_man_take_it.mp3",
+          "size": 10081,
+          "fileName": "52_man_take_it.mp3"
+        },
+        {
+          "path": "audio/man/zh/53_man_wrong_card.mp3",
+          "size": 23584,
+          "fileName": "53_man_wrong_card.mp3"
+        },
+        {
+          "path": "audio/man/zh/54_man_do_not_feed.mp3",
+          "size": 17604,
+          "fileName": "54_man_do_not_feed.mp3"
+        },
+        {
+          "path": "audio/man/zh/55_man_big_fish.mp3",
+          "size": 18858,
+          "fileName": "55_man_big_fish.mp3"
+        },
+        {
+          "path": "audio/man/zh/56_man_feeding_slowly.mp3",
+          "size": 18858,
+          "fileName": "56_man_feeding_slowly.mp3"
+        },
+        {
+          "path": "audio/man/zh/57_man_takt_it_away.mp3",
+          "size": 19694,
+          "fileName": "57_man_takt_it_away.mp3"
+        },
+        {
+          "path": "audio/man/zh/58_man_folding_for_30_years.mp3",
+          "size": 20530,
+          "fileName": "58_man_folding_for_30_years.mp3"
+        },
+        {
+          "path": "audio/man/zh/59_man_lost_even_my_shorts.mp3",
+          "size": 22201,
+          "fileName": "59_man_lost_even_my_shorts.mp3"
+        },
+        {
+          "path": "audio/man/zh/5_man_good_call.mp3",
+          "size": 34333,
+          "fileName": "5_man_good_call.mp3"
+        },
+        {
+          "path": "audio/man/zh/60_man_family_owns_a_mine.mp3",
+          "size": 33068,
+          "fileName": "60_man_family_owns_a_mine.mp3"
+        },
+        {
+          "path": "audio/man/zh/61_man_all_about_acting.mp3",
+          "size": 24709,
+          "fileName": "61_man_all_about_acting.mp3"
+        },
+        {
+          "path": "audio/man/zh/62_man_aura_of_2_point_8_m.mp3",
+          "size": 44353,
+          "fileName": "62_man_aura_of_2_point_8_m.mp3"
+        },
+        {
+          "path": "audio/man/zh/63_man_thanks_for_chips.mp3",
+          "size": 23455,
+          "fileName": "63_man_thanks_for_chips.mp3"
+        },
+        {
+          "path": "audio/man/zh/64_man_testing_your_skills.mp3",
+          "size": 45189,
+          "fileName": "64_man_testing_your_skills.mp3"
+        },
+        {
+          "path": "audio/man/zh/65_man_slip_of_the_hand.mp3",
+          "size": 33904,
+          "fileName": "65_man_slip_of_the_hand.mp3"
+        },
+        {
+          "path": "audio/man/zh/66_man_just_lucky.mp3",
+          "size": 23873,
+          "fileName": "66_man_just_lucky.mp3"
+        },
+        {
+          "path": "audio/man/zh/67_man_happy_but_short_lived.mp3",
+          "size": 73401,
+          "fileName": "67_man_happy_but_short_lived.mp3"
+        },
+        {
+          "path": "audio/man/zh/68_man_small_call_just_for_fun.mp3",
+          "size": 44353,
+          "fileName": "68_man_small_call_just_for_fun.mp3"
+        },
+        {
+          "path": "audio/man/zh/69_man_no_all_in_no_life.mp3",
+          "size": 75909,
+          "fileName": "69_man_no_all_in_no_life.mp3"
+        },
+        {
+          "path": "audio/man/zh/70_man_see_your_cards.mp3",
+          "size": 35785,
+          "fileName": "70_man_see_your_cards.mp3"
+        },
+        {
+          "path": "audio/man/zh/71_man_never_seen.mp3",
+          "size": 41428,
+          "fileName": "71_man_never_seen.mp3"
+        },
+        {
+          "path": "audio/man/zh/72_man_met_one.mp3",
+          "size": 44562,
+          "fileName": "72_man_met_one.mp3"
+        },
+        {
+          "path": "audio/man/zh/73_man.mp3",
+          "size": 69013,
+          "fileName": "73_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/74_man.mp3",
+          "size": 74655,
+          "fileName": "74_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/75_man.mp3",
+          "size": 90956,
+          "fileName": "75_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/76_man.mp3",
+          "size": 56474,
+          "fileName": "76_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/77_man.mp3",
+          "size": 43308,
+          "fileName": "77_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/78_man.mp3",
+          "size": 37666,
+          "fileName": "78_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/79_man.mp3",
+          "size": 61490,
+          "fileName": "79_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/7_man_all_in.mp3",
+          "size": 22433,
+          "fileName": "7_man_all_in.mp3"
+        },
+        {
+          "path": "audio/man/zh/80_man.mp3",
+          "size": 50832,
+          "fileName": "80_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/81_man.mp3",
+          "size": 62116,
+          "fileName": "81_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/82_man.mp3",
+          "size": 130371,
+          "fileName": "82_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/83_man.mp3",
+          "size": 131809,
+          "fileName": "83_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/84_man.mp3",
+          "size": 99700,
+          "fileName": "84_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/85_man.mp3",
+          "size": 167447,
+          "fileName": "85_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/86_man.mp3",
+          "size": 243665,
+          "fileName": "86_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/87_man.mp3",
+          "size": 119095,
+          "fileName": "87_man.mp3"
+        },
+        {
+          "path": "audio/man/zh/8_man_bb.mp3",
+          "size": 15096,
+          "fileName": "8_man_bb.mp3"
+        },
+        {
+          "path": "audio/man/zh/9_man_bad_beat_again.mp3",
+          "size": 28471,
+          "fileName": "9_man_bad_beat_again.mp3"
+        }
+      ]
+    },
+    "audio/woman/zh": {
+      "resourceCount": 85,
+      "totalSize": 3642866,
+      "resources": [
+        {
+          "path": "audio/woman/zh/10_woman_wet_board.mp3",
+          "size": 27427,
+          "fileName": "10_woman_wet_board.mp3"
+        },
+        {
+          "path": "audio/woman/zh/11_woman_wet_board_many_players.mp3",
+          "size": 23203,
+          "fileName": "11_woman_wet_board_many_players.mp3"
+        },
+        {
+          "path": "audio/woman/zh/12_woman_get_lucky.mp3",
+          "size": 23203,
+          "fileName": "12_woman_get_lucky.mp3"
+        },
+        {
+          "path": "audio/woman/zh/13_woman_unlucky.mp3",
+          "size": 33187,
+          "fileName": "13_woman_unlucky.mp3"
+        },
+        {
+          "path": "audio/woman/zh/14_woman_almost.mp3",
+          "size": 24739,
+          "fileName": "14_woman_almost.mp3"
+        },
+        {
+          "path": "audio/woman/zh/15_woman_cooler.mp3",
+          "size": 31651,
+          "fileName": "15_woman_cooler.mp3"
+        },
+        {
+          "path": "audio/woman/zh/16_woman_pot_commit.mp3",
+          "size": 25123,
+          "fileName": "16_woman_pot_commit.mp3"
+        },
+        {
+          "path": "audio/woman/zh/17_woman_big_hand.mp3",
+          "size": 17827,
+          "fileName": "17_woman_big_hand.mp3"
+        },
+        {
+          "path": "audio/woman/zh/18_woman_hit_the_board.mp3",
+          "size": 22819,
+          "fileName": "18_woman_hit_the_board.mp3"
+        },
+        {
+          "path": "audio/woman/zh/19_woman_drawing.mp3",
+          "size": 20131,
+          "fileName": "19_woman_drawing.mp3"
+        },
+        {
+          "path": "audio/woman/zh/1_woman_good_play.mp3",
+          "size": 18211,
+          "fileName": "1_woman_good_play.mp3"
+        },
+        {
+          "path": "audio/woman/zh/20_woman_one_on_one.mp3",
+          "size": 13219,
+          "fileName": "20_woman_one_on_one.mp3"
+        },
+        {
+          "path": "audio/woman/zh/21_woman_see_flop.mp3",
+          "size": 24355,
+          "fileName": "21_woman_see_flop.mp3"
+        },
+        {
+          "path": "audio/woman/zh/22_woman_do_not_bluff.mp3",
+          "size": 20515,
+          "fileName": "22_woman_do_not_bluff.mp3"
+        },
+        {
+          "path": "audio/woman/zh/23_woman_catch.mp3",
+          "size": 23587,
+          "fileName": "23_woman_catch.mp3"
+        },
+        {
+          "path": "audio/woman/zh/24_woman_catch_you.mp3",
+          "size": 17059,
+          "fileName": "24_woman_catch_you.mp3"
+        },
+        {
+          "path": "audio/woman/zh/25_woman_unexpectedly_fold.mp3",
+          "size": 29347,
+          "fileName": "25_woman_unexpectedly_fold.mp3"
+        },
+        {
+          "path": "audio/woman/zh/26_woman_trap.mp3",
+          "size": 25891,
+          "fileName": "26_woman_trap.mp3"
+        },
+        {
+          "path": "audio/woman/zh/27_woman_deep_trap.mp3",
+          "size": 21283,
+          "fileName": "27_woman_deep_trap.mp3"
+        },
+        {
+          "path": "audio/woman/zh/28_woman_honest.mp3",
+          "size": 23587,
+          "fileName": "28_woman_honest.mp3"
+        },
+        {
+          "path": "audio/woman/zh/29_woman_confused.mp3",
+          "size": 25507,
+          "fileName": "29_woman_confused.mp3"
+        },
+        {
+          "path": "audio/woman/zh/2_woman_good_play.mp3",
+          "size": 18211,
+          "fileName": "2_woman_good_play.mp3"
+        },
+        {
+          "path": "audio/woman/zh/30_woman_difficult_choice.mp3",
+          "size": 31651,
+          "fileName": "30_woman_difficult_choice.mp3"
+        },
+        {
+          "path": "audio/woman/zh/31_woman_so_difficult.mp3",
+          "size": 35491,
+          "fileName": "31_woman_so_difficult.mp3"
+        },
+        {
+          "path": "audio/woman/zh/32_woman_that_is_close.mp3",
+          "size": 32419,
+          "fileName": "32_woman_that_is_close.mp3"
+        },
+        {
+          "path": "audio/woman/zh/33_woman_wanna_call.mp3",
+          "size": 27427,
+          "fileName": "33_woman_wanna_call.mp3"
+        },
+        {
+          "path": "audio/woman/zh/34_woman_all_in_i_fold.mp3",
+          "size": 23971,
+          "fileName": "34_woman_all_in_i_fold.mp3"
+        },
+        {
+          "path": "audio/woman/zh/35_woman_show_card.mp3",
+          "size": 21283,
+          "fileName": "35_woman_show_card.mp3"
+        },
+        {
+          "path": "audio/woman/zh/36_woman_show_card_please.mp3",
+          "size": 28579,
+          "fileName": "36_woman_show_card_please.mp3"
+        },
+        {
+          "path": "audio/woman/zh/37_woman_hurry_up.mp3",
+          "size": 20131,
+          "fileName": "37_woman_hurry_up.mp3"
+        },
+        {
+          "path": "audio/woman/zh/38_woman_asleep.mp3",
+          "size": 34339,
+          "fileName": "38_woman_asleep.mp3"
+        },
+        {
+          "path": "audio/woman/zh/39_woman_bluff_again.mp3",
+          "size": 29731,
+          "fileName": "39_woman_bluff_again.mp3"
+        },
+        {
+          "path": "audio/woman/zh/3_woman_good_fold.mp3",
+          "size": 20515,
+          "fileName": "3_woman_good_fold.mp3"
+        },
+        {
+          "path": "audio/woman/zh/40_woman_bet_to_much.mp3",
+          "size": 25123,
+          "fileName": "40_woman_bet_to_much.mp3"
+        },
+        {
+          "path": "audio/woman/zh/41_woman_be_catch.mp3",
+          "size": 24739,
+          "fileName": "41_woman_be_catch.mp3"
+        },
+        {
+          "path": "audio/woman/zh/42_woman_be_punished.mp3",
+          "size": 27811,
+          "fileName": "42_woman_be_punished.mp3"
+        },
+        {
+          "path": "audio/woman/zh/43_woman_do_not_drawing.mp3",
+          "size": 31651,
+          "fileName": "43_woman_do_not_drawing.mp3"
+        },
+        {
+          "path": "audio/woman/zh/44_woman_fold_please.mp3",
+          "size": 22819,
+          "fileName": "44_woman_fold_please.mp3"
+        },
+        {
+          "path": "audio/woman/zh/45_woman_one_more_card.mp3",
+          "size": 17059,
+          "fileName": "45_woman_one_more_card.mp3"
+        },
+        {
+          "path": "audio/woman/zh/46_woman_crying_call.mp3",
+          "size": 27427,
+          "fileName": "46_woman_crying_call.mp3"
+        },
+        {
+          "path": "audio/woman/zh/47_woman_crying_fold.mp3",
+          "size": 31267,
+          "fileName": "47_woman_crying_fold.mp3"
+        },
+        {
+          "path": "audio/woman/zh/48_woman_pay_me_please.mp3",
+          "size": 17186,
+          "fileName": "48_woman_pay_me_please.mp3"
+        },
+        {
+          "path": "audio/woman/zh/49_woman_can_not_call.mp3",
+          "size": 26276,
+          "fileName": "49_woman_can_not_call.mp3"
+        },
+        {
+          "path": "audio/woman/zh/50_woman_afraid_of_calling.mp3",
+          "size": 25124,
+          "fileName": "50_woman_afraid_of_calling.mp3"
+        },
+        {
+          "path": "audio/woman/zh/51_woman_thanks_boss.mp3",
+          "size": 23588,
+          "fileName": "51_woman_thanks_boss.mp3"
+        },
+        {
+          "path": "audio/woman/zh/52_woman_take_it.mp3",
+          "size": 21668,
+          "fileName": "52_woman_take_it.mp3"
+        },
+        {
+          "path": "audio/woman/zh/53_woman_wrong_card.mp3",
+          "size": 31268,
+          "fileName": "53_woman_wrong_card.mp3"
+        },
+        {
+          "path": "audio/woman/zh/54_woman_do_not_feed.mp3",
+          "size": 28580,
+          "fileName": "54_woman_do_not_feed.mp3"
+        },
+        {
+          "path": "audio/woman/zh/55_woman_big_fish.mp3",
+          "size": 32036,
+          "fileName": "55_woman_big_fish.mp3"
+        },
+        {
+          "path": "audio/woman/zh/56_woman_feeding_slowly.mp3",
+          "size": 27044,
+          "fileName": "56_woman_feeding_slowly.mp3"
+        },
+        {
+          "path": "audio/woman/zh/57_woman_takt_it_away.mp3",
+          "size": 25124,
+          "fileName": "57_woman_takt_it_away.mp3"
+        },
+        {
+          "path": "audio/woman/zh/58_woman_folding_for_30_years.mp3",
+          "size": 25545,
+          "fileName": "58_woman_folding_for_30_years.mp3"
+        },
+        {
+          "path": "audio/woman/zh/59_woman_lost_even_my_shorts.mp3",
+          "size": 62743,
+          "fileName": "59_woman_lost_even_my_shorts.mp3"
+        },
+        {
+          "path": "audio/woman/zh/5_woman_good_call.mp3",
+          "size": 19747,
+          "fileName": "5_woman_good_call.mp3"
+        },
+        {
+          "path": "audio/woman/zh/60_woman_family_owns_a_mine.mp3",
+          "size": 80298,
+          "fileName": "60_woman_family_owns_a_mine.mp3"
+        },
+        {
+          "path": "audio/woman/zh/61_woman_all_about_acting.mp3",
+          "size": 61490,
+          "fileName": "61_woman_all_about_acting.mp3"
+        },
+        {
+          "path": "audio/woman/zh/62_woman_aura_of_2_point_8_m.mp3",
+          "size": 74655,
+          "fileName": "62_woman_aura_of_2_point_8_m.mp3"
+        },
+        {
+          "path": "audio/woman/zh/63_woman_thanks_for_chips.mp3",
+          "size": 27217,
+          "fileName": "63_woman_thanks_for_chips.mp3"
+        },
+        {
+          "path": "audio/woman/zh/64_woman_testing_your_skills.mp3",
+          "size": 49369,
+          "fileName": "64_woman_testing_your_skills.mp3"
+        },
+        {
+          "path": "audio/woman/zh/65_woman_slip_of_the_hand.mp3",
+          "size": 35576,
+          "fileName": "65_woman_slip_of_the_hand.mp3"
+        },
+        {
+          "path": "audio/woman/zh/66_woman_just_lucky.mp3",
+          "size": 75282,
+          "fileName": "66_woman_just_lucky.mp3"
+        },
+        {
+          "path": "audio/woman/zh/67_woman_happy_but_short_lived.mp3",
+          "size": 65878,
+          "fileName": "67_woman_happy_but_short_lived.mp3"
+        },
+        {
+          "path": "audio/woman/zh/68_woman_small_call_just_for_fun.mp3",
+          "size": 51459,
+          "fileName": "68_woman_small_call_just_for_fun.mp3"
+        },
+        {
+          "path": "audio/woman/zh/69_woman_no_all_in_no_life.mp3",
+          "size": 76536,
+          "fileName": "69_woman_no_all_in_no_life.mp3"
+        },
+        {
+          "path": "audio/woman/zh/70_woman_see_your_cards.mp3",
+          "size": 35785,
+          "fileName": "70_woman_see_your_cards.mp3"
+        },
+        {
+          "path": "audio/woman/zh/71_woman_never_seen.mp3",
+          "size": 41428,
+          "fileName": "71_woman_never_seen.mp3"
+        },
+        {
+          "path": "audio/woman/zh/72_woman_met_one.mp3",
+          "size": 44562,
+          "fileName": "72_woman_met_one.mp3"
+        },
+        {
+          "path": "audio/woman/zh/73_woman.mp3",
+          "size": 77163,
+          "fileName": "73_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/74_woman.mp3",
+          "size": 90329,
+          "fileName": "74_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/75_woman.mp3",
+          "size": 89702,
+          "fileName": "75_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/76_woman.mp3",
+          "size": 53339,
+          "fileName": "76_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/77_woman.mp3",
+          "size": 44562,
+          "fileName": "77_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/78_woman.mp3",
+          "size": 37666,
+          "fileName": "78_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/79_woman.mp3",
+          "size": 61490,
+          "fileName": "79_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/7_woman_all_in.mp3",
+          "size": 22051,
+          "fileName": "7_woman_all_in.mp3"
+        },
+        {
+          "path": "audio/woman/zh/80_woman.mp3",
+          "size": 50832,
+          "fileName": "80_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/81_woman.mp3",
+          "size": 62116,
+          "fileName": "81_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/82_woman.mp3",
+          "size": 130371,
+          "fileName": "82_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/83_woman.mp3",
+          "size": 131809,
+          "fileName": "83_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/84_woman.mp3",
+          "size": 99700,
+          "fileName": "84_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/85_woman.mp3",
+          "size": 167447,
+          "fileName": "85_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/86_woman.mp3",
+          "size": 243665,
+          "fileName": "86_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/87_woman.mp3",
+          "size": 119095,
+          "fileName": "87_woman.mp3"
+        },
+        {
+          "path": "audio/woman/zh/8_woman_bb.mp3",
+          "size": 23971,
+          "fileName": "8_woman_bb.mp3"
+        },
+        {
+          "path": "audio/woman/zh/9_woman_bad_beat_again.mp3",
+          "size": 28579,
+          "fileName": "9_woman_bad_beat_again.mp3"
+        }
+      ]
+    },
+    "bg": {
+      "resourceCount": 5,
+      "totalSize": 442554,
+      "resources": [
+        {
+          "path": "bg/gameBg.webp",
+          "size": 19790,
+          "fileName": "gameBg.webp"
+        },
+        {
+          "path": "bg/gameBgPad.webp",
+          "size": 62340,
+          "fileName": "gameBgPad.webp"
+        },
+        {
+          "path": "bg/gameTableBg.webp",
+          "size": 56682,
+          "fileName": "gameTableBg.webp"
+        },
+        {
+          "path": "bg/gameTableBgPad.webp",
+          "size": 268016,
+          "fileName": "gameTableBgPad.webp"
+        },
+        {
+          "path": "bg/gameTableBg_small.webp",
+          "size": 35726,
+          "fileName": "gameTableBg_small.webp"
+        }
+      ]
+    },
+    "card": {
+      "resourceCount": 76,
+      "totalSize": 117500,
+      "resources": [
+        {
+          "path": "card/club_10_card.png",
+          "size": 1794,
+          "fileName": "club_10_card.png"
+        },
+        {
+          "path": "card/club_2_card.png",
+          "size": 1783,
+          "fileName": "club_2_card.png"
+        },
+        {
+          "path": "card/club_3_card.png",
+          "size": 1744,
+          "fileName": "club_3_card.png"
+        },
+        {
+          "path": "card/club_4_card.png",
+          "size": 1446,
+          "fileName": "club_4_card.png"
+        },
+        {
+          "path": "card/club_5_card.png",
+          "size": 1630,
+          "fileName": "club_5_card.png"
+        },
+        {
+          "path": "card/club_6_card.png",
+          "size": 1803,
+          "fileName": "club_6_card.png"
+        },
+        {
+          "path": "card/club_7_card.png",
+          "size": 1527,
+          "fileName": "club_7_card.png"
+        },
+        {
+          "path": "card/club_8_card.png",
+          "size": 1871,
+          "fileName": "club_8_card.png"
+        },
+        {
+          "path": "card/club_9_card.png",
+          "size": 1806,
+          "fileName": "club_9_card.png"
+        },
+        {
+          "path": "card/club_a_card.png",
+          "size": 1723,
+          "fileName": "club_a_card.png"
+        },
+        {
+          "path": "card/club_j_card.png",
+          "size": 1439,
+          "fileName": "club_j_card.png"
+        },
+        {
+          "path": "card/club_k_card.png",
+          "size": 1630,
+          "fileName": "club_k_card.png"
+        },
+        {
+          "path": "card/club_q_card.png",
+          "size": 1817,
+          "fileName": "club_q_card.png"
+        },
+        {
+          "path": "card/diamond_10_card.png",
+          "size": 1797,
+          "fileName": "diamond_10_card.png"
+        },
+        {
+          "path": "card/diamond_2_card.png",
+          "size": 1645,
+          "fileName": "diamond_2_card.png"
+        },
+        {
+          "path": "card/diamond_3_card.png",
+          "size": 1680,
+          "fileName": "diamond_3_card.png"
+        },
+        {
+          "path": "card/diamond_4_card.png",
+          "size": 1461,
+          "fileName": "diamond_4_card.png"
+        },
+        {
+          "path": "card/diamond_5_card.png",
+          "size": 1702,
+          "fileName": "diamond_5_card.png"
+        },
+        {
+          "path": "card/diamond_6_card.png",
+          "size": 1741,
+          "fileName": "diamond_6_card.png"
+        },
+        {
+          "path": "card/diamond_7_card.png",
+          "size": 1435,
+          "fileName": "diamond_7_card.png"
+        },
+        {
+          "path": "card/diamond_8_card.png",
+          "size": 1748,
+          "fileName": "diamond_8_card.png"
+        },
+        {
+          "path": "card/diamond_9_card.png",
+          "size": 1799,
+          "fileName": "diamond_9_card.png"
+        },
+        {
+          "path": "card/diamond_a_card.png",
+          "size": 1651,
+          "fileName": "diamond_a_card.png"
+        },
+        {
+          "path": "card/diamond_j_card.png",
+          "size": 1462,
+          "fileName": "diamond_j_card.png"
+        },
+        {
+          "path": "card/diamond_k_card.png",
+          "size": 1581,
+          "fileName": "diamond_k_card.png"
+        },
+        {
+          "path": "card/diamond_q_card.png",
+          "size": 1850,
+          "fileName": "diamond_q_card.png"
+        },
+        {
+          "path": "card/heart_10_card.png",
+          "size": 1932,
+          "fileName": "heart_10_card.png"
+        },
+        {
+          "path": "card/heart_2_card.png",
+          "size": 1764,
+          "fileName": "heart_2_card.png"
+        },
+        {
+          "path": "card/heart_3_card.png",
+          "size": 1811,
+          "fileName": "heart_3_card.png"
+        },
+        {
+          "path": "card/heart_4_card.png",
+          "size": 1556,
+          "fileName": "heart_4_card.png"
+        },
+        {
+          "path": "card/heart_5_card.png",
+          "size": 1734,
+          "fileName": "heart_5_card.png"
+        },
+        {
+          "path": "card/heart_6_card.png",
+          "size": 1825,
+          "fileName": "heart_6_card.png"
+        },
+        {
+          "path": "card/heart_7_card.png",
+          "size": 1620,
+          "fileName": "heart_7_card.png"
+        },
+        {
+          "path": "card/heart_8_card.png",
+          "size": 1867,
+          "fileName": "heart_8_card.png"
+        },
+        {
+          "path": "card/heart_9_card.png",
+          "size": 1839,
+          "fileName": "heart_9_card.png"
+        },
+        {
+          "path": "card/heart_a_card.png",
+          "size": 1774,
+          "fileName": "heart_a_card.png"
+        },
+        {
+          "path": "card/heart_j_card.png",
+          "size": 1573,
+          "fileName": "heart_j_card.png"
+        },
+        {
+          "path": "card/heart_k_card.png",
+          "size": 1718,
+          "fileName": "heart_k_card.png"
+        },
+        {
+          "path": "card/heart_q_card.png",
+          "size": 1822,
+          "fileName": "heart_q_card.png"
+        },
+        {
+          "path": "card/horse_mask.png",
+          "size": 2785,
+          "fileName": "horse_mask.png"
+        },
+        {
+          "path": "card/n10.png",
+          "size": 720,
+          "fileName": "n10.png"
+        },
+        {
+          "path": "card/n2.png",
+          "size": 531,
+          "fileName": "n2.png"
+        },
+        {
+          "path": "card/n3.png",
+          "size": 640,
+          "fileName": "n3.png"
+        },
+        {
+          "path": "card/n4.png",
+          "size": 405,
+          "fileName": "n4.png"
+        },
+        {
+          "path": "card/n5.png",
+          "size": 619,
+          "fileName": "n5.png"
+        },
+        {
+          "path": "card/n6.png",
+          "size": 1120,
+          "fileName": "n6.png"
+        },
+        {
+          "path": "card/n7.png",
+          "size": 338,
+          "fileName": "n7.png"
+        },
+        {
+          "path": "card/n8.png",
+          "size": 1139,
+          "fileName": "n8.png"
+        },
+        {
+          "path": "card/n9.png",
+          "size": 1140,
+          "fileName": "n9.png"
+        },
+        {
+          "path": "card/na.png",
+          "size": 596,
+          "fileName": "na.png"
+        },
+        {
+          "path": "card/nj.png",
+          "size": 632,
+          "fileName": "nj.png"
+        },
+        {
+          "path": "card/nk.png",
+          "size": 799,
+          "fileName": "nk.png"
+        },
+        {
+          "path": "card/nq.png",
+          "size": 1221,
+          "fileName": "nq.png"
+        },
+        {
+          "path": "card/poker_back.png",
+          "size": 9113,
+          "fileName": "poker_back.png"
+        },
+        {
+          "path": "card/poker_big_joker_text.png",
+          "size": 667,
+          "fileName": "poker_big_joker_text.png"
+        },
+        {
+          "path": "card/poker_big_joker_title.png",
+          "size": 269,
+          "fileName": "poker_big_joker_title.png"
+        },
+        {
+          "path": "card/poker_blank.png",
+          "size": 518,
+          "fileName": "poker_blank.png"
+        },
+        {
+          "path": "card/poker_club.png",
+          "size": 561,
+          "fileName": "poker_club.png"
+        },
+        {
+          "path": "card/poker_diamond.png",
+          "size": 443,
+          "fileName": "poker_diamond.png"
+        },
+        {
+          "path": "card/poker_heart.png",
+          "size": 501,
+          "fileName": "poker_heart.png"
+        },
+        {
+          "path": "card/poker_small_joker_text.png",
+          "size": 1664,
+          "fileName": "poker_small_joker_text.png"
+        },
+        {
+          "path": "card/poker_small_joker_title.png",
+          "size": 262,
+          "fileName": "poker_small_joker_title.png"
+        },
+        {
+          "path": "card/poker_spade.png",
+          "size": 495,
+          "fileName": "poker_spade.png"
+        },
+        {
+          "path": "card/spade_10_card.png",
+          "size": 2068,
+          "fileName": "spade_10_card.png"
+        },
+        {
+          "path": "card/spade_2_card.png",
+          "size": 1849,
+          "fileName": "spade_2_card.png"
+        },
+        {
+          "path": "card/spade_3_card.png",
+          "size": 1878,
+          "fileName": "spade_3_card.png"
+        },
+        {
+          "path": "card/spade_4_card.png",
+          "size": 1692,
+          "fileName": "spade_4_card.png"
+        },
+        {
+          "path": "card/spade_5_card.png",
+          "size": 1821,
+          "fileName": "spade_5_card.png"
+        },
+        {
+          "path": "card/spade_6_card.png",
+          "size": 2021,
+          "fileName": "spade_6_card.png"
+        },
+        {
+          "path": "card/spade_7_card.png",
+          "size": 1603,
+          "fileName": "spade_7_card.png"
+        },
+        {
+          "path": "card/spade_8_card.png",
+          "size": 1889,
+          "fileName": "spade_8_card.png"
+        },
+        {
+          "path": "card/spade_9_card.png",
+          "size": 1927,
+          "fileName": "spade_9_card.png"
+        },
+        {
+          "path": "card/spade_a_card.png",
+          "size": 1758,
+          "fileName": "spade_a_card.png"
+        },
+        {
+          "path": "card/spade_j_card.png",
+          "size": 1618,
+          "fileName": "spade_j_card.png"
+        },
+        {
+          "path": "card/spade_k_card.png",
+          "size": 1775,
+          "fileName": "spade_k_card.png"
+        },
+        {
+          "path": "card/spade_q_card.png",
+          "size": 2023,
+          "fileName": "spade_q_card.png"
+        }
+      ]
+    },
+    "common": {
+      "resourceCount": 194,
+      "totalSize": 317139,
+      "resources": [
+        {
+          "path": "common/action_loading.png",
+          "size": 661,
+          "fileName": "action_loading.png"
+        },
+        {
+          "path": "common/add_custom_barrage_bg.png",
+          "size": 482,
+          "fileName": "add_custom_barrage_bg.png"
+        },
+        {
+          "path": "common/alphabutton.png",
+          "size": 162,
+          "fileName": "alphabutton.png"
+        },
+        {
+          "path": "common/arrow_right_icon.png",
+          "size": 339,
+          "fileName": "arrow_right_icon.png"
+        },
+        {
+          "path": "common/avatar_anonymous.png",
+          "size": 60890,
+          "fileName": "avatar_anonymous.png"
+        },
+        {
+          "path": "common/back_to_top.png",
+          "size": 1495,
+          "fileName": "back_to_top.png"
+        },
+        {
+          "path": "common/bb_left_toast_bg.png",
+          "size": 412,
+          "fileName": "bb_left_toast_bg.png"
+        },
+        {
+          "path": "common/bill_arrow_right.png",
+          "size": 313,
+          "fileName": "bill_arrow_right.png"
+        },
+        {
+          "path": "common/bringInPop.png",
+          "size": 359,
+          "fileName": "bringInPop.png"
+        },
+        {
+          "path": "common/btn_black_small.png",
+          "size": 737,
+          "fileName": "btn_black_small.png"
+        },
+        {
+          "path": "common/btn_bomb_send.png",
+          "size": 922,
+          "fileName": "btn_bomb_send.png"
+        },
+        {
+          "path": "common/btn_bomb_send_disabled.png",
+          "size": 462,
+          "fileName": "btn_bomb_send_disabled.png"
+        },
+        {
+          "path": "common/btn_chat_bg.png",
+          "size": 618,
+          "fileName": "btn_chat_bg.png"
+        },
+        {
+          "path": "common/btn_check_gray.png",
+          "size": 304,
+          "fileName": "btn_check_gray.png"
+        },
+        {
+          "path": "common/btn_check_gray_big.png",
+          "size": 595,
+          "fileName": "btn_check_gray_big.png"
+        },
+        {
+          "path": "common/btn_check_green.png",
+          "size": 391,
+          "fileName": "btn_check_green.png"
+        },
+        {
+          "path": "common/btn_check_green_big.png",
+          "size": 902,
+          "fileName": "btn_check_green_big.png"
+        },
+        {
+          "path": "common/btn_close.png",
+          "size": 523,
+          "fileName": "btn_close.png"
+        },
+        {
+          "path": "common/btn_close_2.png",
+          "size": 339,
+          "fileName": "btn_close_2.png"
+        },
+        {
+          "path": "common/btn_close_3.png",
+          "size": 522,
+          "fileName": "btn_close_3.png"
+        },
+        {
+          "path": "common/btn_delete.png",
+          "size": 2797,
+          "fileName": "btn_delete.png"
+        },
+        {
+          "path": "common/btn_disable_pop.png",
+          "size": 577,
+          "fileName": "btn_disable_pop.png"
+        },
+        {
+          "path": "common/btn_garyWhite_small44.png",
+          "size": 406,
+          "fileName": "btn_garyWhite_small44.png"
+        },
+        {
+          "path": "common/btn_gold_img_342x126.png",
+          "size": 2670,
+          "fileName": "btn_gold_img_342x126.png"
+        },
+        {
+          "path": "common/btn_gray_pop.png",
+          "size": 513,
+          "fileName": "btn_gray_pop.png"
+        },
+        {
+          "path": "common/btn_gray_small64.png",
+          "size": 440,
+          "fileName": "btn_gray_small64.png"
+        },
+        {
+          "path": "common/btn_green_small.png",
+          "size": 751,
+          "fileName": "btn_green_small.png"
+        },
+        {
+          "path": "common/btn_keyboard_bg.png",
+          "size": 1758,
+          "fileName": "btn_keyboard_bg.png"
+        },
+        {
+          "path": "common/btn_pot_detail.png",
+          "size": 369,
+          "fileName": "btn_pot_detail.png"
+        },
+        {
+          "path": "common/btn_red_small.png",
+          "size": 814,
+          "fileName": "btn_red_small.png"
+        },
+        {
+          "path": "common/btn_tip.png",
+          "size": 438,
+          "fileName": "btn_tip.png"
+        },
+        {
+          "path": "common/btn_yellow_120.png",
+          "size": 788,
+          "fileName": "btn_yellow_120.png"
+        },
+        {
+          "path": "common/btn_yellow_216_72.png",
+          "size": 1132,
+          "fileName": "btn_yellow_216_72.png"
+        },
+        {
+          "path": "common/btn_yellow_216_75.png",
+          "size": 618,
+          "fileName": "btn_yellow_216_75.png"
+        },
+        {
+          "path": "common/btn_yellow_big.png",
+          "size": 895,
+          "fileName": "btn_yellow_big.png"
+        },
+        {
+          "path": "common/btn_yellow_larg_gray.png",
+          "size": 505,
+          "fileName": "btn_yellow_larg_gray.png"
+        },
+        {
+          "path": "common/btn_yellow_medium.png",
+          "size": 367,
+          "fileName": "btn_yellow_medium.png"
+        },
+        {
+          "path": "common/btn_yellow_pop.png",
+          "size": 587,
+          "fileName": "btn_yellow_pop.png"
+        },
+        {
+          "path": "common/btn_yellow_pop_long.png",
+          "size": 598,
+          "fileName": "btn_yellow_pop_long.png"
+        },
+        {
+          "path": "common/btn_yellow_set.png",
+          "size": 908,
+          "fileName": "btn_yellow_set.png"
+        },
+        {
+          "path": "common/btn_yellow_small.png",
+          "size": 882,
+          "fileName": "btn_yellow_small.png"
+        },
+        {
+          "path": "common/btn_yellow_ssmall.png",
+          "size": 823,
+          "fileName": "btn_yellow_ssmall.png"
+        },
+        {
+          "path": "common/btn_yellow_superBig.png",
+          "size": 908,
+          "fileName": "btn_yellow_superBig.png"
+        },
+        {
+          "path": "common/btn_yellow_use.png",
+          "size": 1177,
+          "fileName": "btn_yellow_use.png"
+        },
+        {
+          "path": "common/button_tips_bg.png",
+          "size": 2444,
+          "fileName": "button_tips_bg.png"
+        },
+        {
+          "path": "common/chat_record_btn_icon.png",
+          "size": 252,
+          "fileName": "chat_record_btn_icon.png"
+        },
+        {
+          "path": "common/check_circle_gold.png",
+          "size": 516,
+          "fileName": "check_circle_gold.png"
+        },
+        {
+          "path": "common/confirm_check.png",
+          "size": 862,
+          "fileName": "confirm_check.png"
+        },
+        {
+          "path": "common/confirm_fold.png",
+          "size": 734,
+          "fileName": "confirm_fold.png"
+        },
+        {
+          "path": "common/currency_cny.png",
+          "size": 1260,
+          "fileName": "currency_cny.png"
+        },
+        {
+          "path": "common/currency_gold.png",
+          "size": 1245,
+          "fileName": "currency_gold.png"
+        },
+        {
+          "path": "common/currency_test.png",
+          "size": 1880,
+          "fileName": "currency_test.png"
+        },
+        {
+          "path": "common/currency_usdt.png",
+          "size": 1319,
+          "fileName": "currency_usdt.png"
+        },
+        {
+          "path": "common/data_empty.png",
+          "size": 5113,
+          "fileName": "data_empty.png"
+        },
+        {
+          "path": "common/delaytime.png",
+          "size": 606,
+          "fileName": "delaytime.png"
+        },
+        {
+          "path": "common/delete_custom_barrage.png",
+          "size": 386,
+          "fileName": "delete_custom_barrage.png"
+        },
+        {
+          "path": "common/dissovetable.png",
+          "size": 610,
+          "fileName": "dissovetable.png"
+        },
+        {
+          "path": "common/download_status_tips_bg.png",
+          "size": 282,
+          "fileName": "download_status_tips_bg.png"
+        },
+        {
+          "path": "common/dxg_dialog_cancel_btn.png",
+          "size": 737,
+          "fileName": "dxg_dialog_cancel_btn.png"
+        },
+        {
+          "path": "common/dxg_dialog_close_btn.png",
+          "size": 523,
+          "fileName": "dxg_dialog_close_btn.png"
+        },
+        {
+          "path": "common/dxg_dialog_sure_btn.png",
+          "size": 905,
+          "fileName": "dxg_dialog_sure_btn.png"
+        },
+        {
+          "path": "common/dxg_goods_reward_pop.png",
+          "size": 465,
+          "fileName": "dxg_goods_reward_pop.png"
+        },
+        {
+          "path": "common/dxpoker_light.png",
+          "size": 6789,
+          "fileName": "dxpoker_light.png"
+        },
+        {
+          "path": "common/dxvip_light.png",
+          "size": 5744,
+          "fileName": "dxvip_light.png"
+        },
+        {
+          "path": "common/emoji_edit_click_tip_bg.png",
+          "size": 1103,
+          "fileName": "emoji_edit_click_tip_bg.png"
+        },
+        {
+          "path": "common/evins_pot_detail_bg.png",
+          "size": 3705,
+          "fileName": "evins_pot_detail_bg.png"
+        },
+        {
+          "path": "common/fj13_game_info_overlay_desc_pop.png",
+          "size": 274,
+          "fileName": "fj13_game_info_overlay_desc_pop.png"
+        },
+        {
+          "path": "common/gameCommonBtnClose.png",
+          "size": 523,
+          "fileName": "gameCommonBtnClose.png"
+        },
+        {
+          "path": "common/gameCommonRemarkCheck.png",
+          "size": 1000,
+          "fileName": "gameCommonRemarkCheck.png"
+        },
+        {
+          "path": "common/game_announcement_flag.png",
+          "size": 751,
+          "fileName": "game_announcement_flag.png"
+        },
+        {
+          "path": "common/game_bring_in_check_agree.png",
+          "size": 749,
+          "fileName": "game_bring_in_check_agree.png"
+        },
+        {
+          "path": "common/game_bring_in_check_disagree.png",
+          "size": 602,
+          "fileName": "game_bring_in_check_disagree.png"
+        },
+        {
+          "path": "common/game_common_check_yellow_14.png",
+          "size": 250,
+          "fileName": "game_common_check_yellow_14.png"
+        },
+        {
+          "path": "common/game_common_renshu.png",
+          "size": 391,
+          "fileName": "game_common_renshu.png"
+        },
+        {
+          "path": "common/game_common_uncheck_gray_14.png",
+          "size": 216,
+          "fileName": "game_common_uncheck_gray_14.png"
+        },
+        {
+          "path": "common/game_copy.png",
+          "size": 398,
+          "fileName": "game_copy.png"
+        },
+        {
+          "path": "common/game_cur_round_stand_check.png",
+          "size": 981,
+          "fileName": "game_cur_round_stand_check.png"
+        },
+        {
+          "path": "common/game_cur_round_stand_normal.png",
+          "size": 1014,
+          "fileName": "game_cur_round_stand_normal.png"
+        },
+        {
+          "path": "common/game_evInsure_me_tip_bg.png",
+          "size": 964,
+          "fileName": "game_evInsure_me_tip_bg.png"
+        },
+        {
+          "path": "common/game_evInsure_other_tip_bg.png",
+          "size": 322,
+          "fileName": "game_evInsure_other_tip_bg.png"
+        },
+        {
+          "path": "common/game_excmation_mark.png",
+          "size": 438,
+          "fileName": "game_excmation_mark.png"
+        },
+        {
+          "path": "common/game_image_realTime_off.png",
+          "size": 1085,
+          "fileName": "game_image_realTime_off.png"
+        },
+        {
+          "path": "common/game_image_realTime_on.png",
+          "size": 996,
+          "fileName": "game_image_realTime_on.png"
+        },
+        {
+          "path": "common/game_img_redPot.png",
+          "size": 262,
+          "fileName": "game_img_redPot.png"
+        },
+        {
+          "path": "common/game_info_overlay_desc_pop.png",
+          "size": 530,
+          "fileName": "game_info_overlay_desc_pop.png"
+        },
+        {
+          "path": "common/game_moreChipEdit.png",
+          "size": 405,
+          "fileName": "game_moreChipEdit.png"
+        },
+        {
+          "path": "common/game_msg_empty.webp",
+          "size": 27858,
+          "fileName": "game_msg_empty.webp"
+        },
+        {
+          "path": "common/game_realTime_voice_off.png",
+          "size": 1356,
+          "fileName": "game_realTime_voice_off.png"
+        },
+        {
+          "path": "common/game_realTime_voice_on.png",
+          "size": 1469,
+          "fileName": "game_realTime_voice_on.png"
+        },
+        {
+          "path": "common/game_record_error.png",
+          "size": 9192,
+          "fileName": "game_record_error.png"
+        },
+        {
+          "path": "common/game_record_openEye.png",
+          "size": 355,
+          "fileName": "game_record_openEye.png"
+        },
+        {
+          "path": "common/game_start_button_bg.png",
+          "size": 865,
+          "fileName": "game_start_button_bg.png"
+        },
+        {
+          "path": "common/game_unhandled_msg.png",
+          "size": 2004,
+          "fileName": "game_unhandled_msg.png"
+        },
+        {
+          "path": "common/game_unhandled_msg_dragging.png",
+          "size": 2019,
+          "fileName": "game_unhandled_msg_dragging.png"
+        },
+        {
+          "path": "common/game_unhandled_msg_unread.png",
+          "size": 2398,
+          "fileName": "game_unhandled_msg_unread.png"
+        },
+        {
+          "path": "common/game_unhandled_msg_unread_dragging.png",
+          "size": 2384,
+          "fileName": "game_unhandled_msg_unread_dragging.png"
+        },
+        {
+          "path": "common/gold_right_arrow.png",
+          "size": 177,
+          "fileName": "gold_right_arrow.png"
+        },
+        {
+          "path": "common/goodsreward_avatorbg.png",
+          "size": 516,
+          "fileName": "goodsreward_avatorbg.png"
+        },
+        {
+          "path": "common/goodsreward_selected.png",
+          "size": 221,
+          "fileName": "goodsreward_selected.png"
+        },
+        {
+          "path": "common/handGameCardVirt.png",
+          "size": 257,
+          "fileName": "handGameCardVirt.png"
+        },
+        {
+          "path": "common/hostingIcon.png",
+          "size": 1832,
+          "fileName": "hostingIcon.png"
+        },
+        {
+          "path": "common/ic_ins_add.png",
+          "size": 580,
+          "fileName": "ic_ins_add.png"
+        },
+        {
+          "path": "common/ic_ins_add_disable.png",
+          "size": 542,
+          "fileName": "ic_ins_add_disable.png"
+        },
+        {
+          "path": "common/ic_ins_reduce.png",
+          "size": 567,
+          "fileName": "ic_ins_reduce.png"
+        },
+        {
+          "path": "common/ic_ins_reduce_disable.png",
+          "size": 509,
+          "fileName": "ic_ins_reduce_disable.png"
+        },
+        {
+          "path": "common/icon_ban.png",
+          "size": 967,
+          "fileName": "icon_ban.png"
+        },
+        {
+          "path": "common/icon_bianji.png",
+          "size": 415,
+          "fileName": "icon_bianji.png"
+        },
+        {
+          "path": "common/icon_bianji1.png",
+          "size": 349,
+          "fileName": "icon_bianji1.png"
+        },
+        {
+          "path": "common/icon_insure.png",
+          "size": 853,
+          "fileName": "icon_insure.png"
+        },
+        {
+          "path": "common/icon_load.png",
+          "size": 981,
+          "fileName": "icon_load.png"
+        },
+        {
+          "path": "common/icon_ranking.png",
+          "size": 488,
+          "fileName": "icon_ranking.png"
+        },
+        {
+          "path": "common/img_common_tip.png",
+          "size": 385,
+          "fileName": "img_common_tip.png"
+        },
+        {
+          "path": "common/insure_outs_checked.png",
+          "size": 223,
+          "fileName": "insure_outs_checked.png"
+        },
+        {
+          "path": "common/insure_outs_uncheck.png",
+          "size": 214,
+          "fileName": "insure_outs_uncheck.png"
+        },
+        {
+          "path": "common/leave_table_time.png",
+          "size": 460,
+          "fileName": "leave_table_time.png"
+        },
+        {
+          "path": "common/light_card_btn_bg.png",
+          "size": 810,
+          "fileName": "light_card_btn_bg.png"
+        },
+        {
+          "path": "common/load_up_audio_bg.png",
+          "size": 504,
+          "fileName": "load_up_audio_bg.png"
+        },
+        {
+          "path": "common/mainPotBg.png",
+          "size": 467,
+          "fileName": "mainPotBg.png"
+        },
+        {
+          "path": "common/mainPotBtn.png",
+          "size": 2964,
+          "fileName": "mainPotBtn.png"
+        },
+        {
+          "path": "common/mtt_rebuy.png",
+          "size": 496,
+          "fileName": "mtt_rebuy.png"
+        },
+        {
+          "path": "common/mushPotIcon.png",
+          "size": 1026,
+          "fileName": "mushPotIcon.png"
+        },
+        {
+          "path": "common/mush_info.png",
+          "size": 459,
+          "fileName": "mush_info.png"
+        },
+        {
+          "path": "common/mushroom_structure.png",
+          "size": 2869,
+          "fileName": "mushroom_structure.png"
+        },
+        {
+          "path": "common/new_feat.png",
+          "size": 931,
+          "fileName": "new_feat.png"
+        },
+        {
+          "path": "common/noAdvancePropsBg.png",
+          "size": 11991,
+          "fileName": "noAdvancePropsBg.png"
+        },
+        {
+          "path": "common/no_open_gps.png",
+          "size": 1141,
+          "fileName": "no_open_gps.png"
+        },
+        {
+          "path": "common/outs_img_bg_win.png",
+          "size": 2796,
+          "fileName": "outs_img_bg_win.png"
+        },
+        {
+          "path": "common/poker_back.png",
+          "size": 9113,
+          "fileName": "poker_back.png"
+        },
+        {
+          "path": "common/poker_balck_mask.png",
+          "size": 229,
+          "fileName": "poker_balck_mask.png"
+        },
+        {
+          "path": "common/poker_blank.png",
+          "size": 704,
+          "fileName": "poker_blank.png"
+        },
+        {
+          "path": "common/poker_blue_mask.png",
+          "size": 984,
+          "fileName": "poker_blue_mask.png"
+        },
+        {
+          "path": "common/poker_club.png",
+          "size": 650,
+          "fileName": "poker_club.png"
+        },
+        {
+          "path": "common/poker_club_thumb.png",
+          "size": 458,
+          "fileName": "poker_club_thumb.png"
+        },
+        {
+          "path": "common/poker_dianmond.png",
+          "size": 533,
+          "fileName": "poker_dianmond.png"
+        },
+        {
+          "path": "common/poker_dianmond_thumb.png",
+          "size": 386,
+          "fileName": "poker_dianmond_thumb.png"
+        },
+        {
+          "path": "common/poker_flod_mask.png",
+          "size": 263,
+          "fileName": "poker_flod_mask.png"
+        },
+        {
+          "path": "common/poker_heart.png",
+          "size": 660,
+          "fileName": "poker_heart.png"
+        },
+        {
+          "path": "common/poker_heart_thumb.png",
+          "size": 478,
+          "fileName": "poker_heart_thumb.png"
+        },
+        {
+          "path": "common/poker_layer.png",
+          "size": 1296,
+          "fileName": "poker_layer.png"
+        },
+        {
+          "path": "common/poker_left_shadow.png",
+          "size": 427,
+          "fileName": "poker_left_shadow.png"
+        },
+        {
+          "path": "common/poker_light_mask.png",
+          "size": 3108,
+          "fileName": "poker_light_mask.png"
+        },
+        {
+          "path": "common/poker_rabbit.png",
+          "size": 1602,
+          "fileName": "poker_rabbit.png"
+        },
+        {
+          "path": "common/poker_spade.png",
+          "size": 645,
+          "fileName": "poker_spade.png"
+        },
+        {
+          "path": "common/poker_spade_thumb.png",
+          "size": 476,
+          "fileName": "poker_spade_thumb.png"
+        },
+        {
+          "path": "common/popover_arrow.png",
+          "size": 1818,
+          "fileName": "popover_arrow.png"
+        },
+        {
+          "path": "common/popover_bg.png",
+          "size": 6871,
+          "fileName": "popover_bg.png"
+        },
+        {
+          "path": "common/preCheckBlueMaskBg.png",
+          "size": 3005,
+          "fileName": "preCheckBlueMaskBg.png"
+        },
+        {
+          "path": "common/preCheckMaskBg.png",
+          "size": 5144,
+          "fileName": "preCheckMaskBg.png"
+        },
+        {
+          "path": "common/preFoldMaskBg.png",
+          "size": 5202,
+          "fileName": "preFoldMaskBg.png"
+        },
+        {
+          "path": "common/preFollowBg.png",
+          "size": 542,
+          "fileName": "preFollowBg.png"
+        },
+        {
+          "path": "common/preFollowMaskBg.png",
+          "size": 1625,
+          "fileName": "preFollowMaskBg.png"
+        },
+        {
+          "path": "common/pre_op_tips_bg.png",
+          "size": 539,
+          "fileName": "pre_op_tips_bg.png"
+        },
+        {
+          "path": "common/protect_check_box_false.png",
+          "size": 234,
+          "fileName": "protect_check_box_false.png"
+        },
+        {
+          "path": "common/protect_check_box_true.png",
+          "size": 301,
+          "fileName": "protect_check_box_true.png"
+        },
+        {
+          "path": "common/protect_tips_btn.png",
+          "size": 339,
+          "fileName": "protect_tips_btn.png"
+        },
+        {
+          "path": "common/rabbit_btn.png",
+          "size": 1524,
+          "fileName": "rabbit_btn.png"
+        },
+        {
+          "path": "common/record_voice_icon_1.png",
+          "size": 475,
+          "fileName": "record_voice_icon_1.png"
+        },
+        {
+          "path": "common/record_voice_icon_2.png",
+          "size": 459,
+          "fileName": "record_voice_icon_2.png"
+        },
+        {
+          "path": "common/redBag.png",
+          "size": 1183,
+          "fileName": "redBag.png"
+        },
+        {
+          "path": "common/redbagBtn.png",
+          "size": 960,
+          "fileName": "redbagBtn.png"
+        },
+        {
+          "path": "common/refresh_table.png",
+          "size": 555,
+          "fileName": "refresh_table.png"
+        },
+        {
+          "path": "common/reward2.png",
+          "size": 2424,
+          "fileName": "reward2.png"
+        },
+        {
+          "path": "common/see_all_cards_btn.png",
+          "size": 1127,
+          "fileName": "see_all_cards_btn.png"
+        },
+        {
+          "path": "common/selectedCallBtn.png",
+          "size": 2907,
+          "fileName": "selectedCallBtn.png"
+        },
+        {
+          "path": "common/share_table_button_bg.png",
+          "size": 803,
+          "fileName": "share_table_button_bg.png"
+        },
+        {
+          "path": "common/slider_shang.png",
+          "size": 1193,
+          "fileName": "slider_shang.png"
+        },
+        {
+          "path": "common/slider_xia.png",
+          "size": 1280,
+          "fileName": "slider_xia.png"
+        },
+        {
+          "path": "common/switch_close.png",
+          "size": 858,
+          "fileName": "switch_close.png"
+        },
+        {
+          "path": "common/switch_open.png",
+          "size": 836,
+          "fileName": "switch_open.png"
+        },
+        {
+          "path": "common/table_number.png",
+          "size": 528,
+          "fileName": "table_number.png"
+        },
+        {
+          "path": "common/table_sdk_logo.png",
+          "size": 1838,
+          "fileName": "table_sdk_logo.png"
+        },
+        {
+          "path": "common/tableset_chipplay_tips_bg.png",
+          "size": 554,
+          "fileName": "tableset_chipplay_tips_bg.png"
+        },
+        {
+          "path": "common/tableset_display_statistics_tips_bg.png",
+          "size": 273,
+          "fileName": "tableset_display_statistics_tips_bg.png"
+        },
+        {
+          "path": "common/tableset_op_add.png",
+          "size": 301,
+          "fileName": "tableset_op_add.png"
+        },
+        {
+          "path": "common/takeout_op_max_bg.png",
+          "size": 1409,
+          "fileName": "takeout_op_max_bg.png"
+        },
+        {
+          "path": "common/takeout_op_min_bg.png",
+          "size": 1408,
+          "fileName": "takeout_op_min_bg.png"
+        },
+        {
+          "path": "common/takeout_op_unselected_bg.png",
+          "size": 1454,
+          "fileName": "takeout_op_unselected_bg.png"
+        },
+        {
+          "path": "common/takeout_selected.png",
+          "size": 221,
+          "fileName": "takeout_selected.png"
+        },
+        {
+          "path": "common/takeout_slider_bg.png",
+          "size": 1654,
+          "fileName": "takeout_slider_bg.png"
+        },
+        {
+          "path": "common/takeout_slider_btn.png",
+          "size": 4326,
+          "fileName": "takeout_slider_btn.png"
+        },
+        {
+          "path": "common/takeout_unselected.png",
+          "size": 215,
+          "fileName": "takeout_unselected.png"
+        },
+        {
+          "path": "common/title_bg.png",
+          "size": 3790,
+          "fileName": "title_bg.png"
+        },
+        {
+          "path": "common/toastCloses.png",
+          "size": 560,
+          "fileName": "toastCloses.png"
+        },
+        {
+          "path": "common/un_light_card_btn_bg.png",
+          "size": 820,
+          "fileName": "un_light_card_btn_bg.png"
+        },
+        {
+          "path": "common/uncheck_circle_gold.png",
+          "size": 413,
+          "fileName": "uncheck_circle_gold.png"
+        },
+        {
+          "path": "common/update_username_tag.png",
+          "size": 646,
+          "fileName": "update_username_tag.png"
+        },
+        {
+          "path": "common/userinfo_change_btn.png",
+          "size": 448,
+          "fileName": "userinfo_change_btn.png"
+        },
+        {
+          "path": "common/userinfo_effect_bg.png",
+          "size": 243,
+          "fileName": "userinfo_effect_bg.png"
+        },
+        {
+          "path": "common/userinfo_shop_btn.png",
+          "size": 436,
+          "fileName": "userinfo_shop_btn.png"
+        },
+        {
+          "path": "common/voice_warning.png",
+          "size": 333,
+          "fileName": "voice_warning.png"
+        },
+        {
+          "path": "common/xiangshang.png",
+          "size": 232,
+          "fileName": "xiangshang.png"
+        },
+        {
+          "path": "common/xiangxia.png",
+          "size": 233,
+          "fileName": "xiangxia.png"
+        },
+        {
+          "path": "common/yellow_btn_64_28.png",
+          "size": 684,
+          "fileName": "yellow_btn_64_28.png"
+        },
+        {
+          "path": "common/yellow_right_arrow.png",
+          "size": 234,
+          "fileName": "yellow_right_arrow.png"
+        }
+      ]
+    },
+    "config/man": {
+      "resourceCount": 1,
+      "totalSize": 14054,
+      "resources": [
+        {
+          "path": "config/man/audio_config.json",
+          "size": 14054,
+          "fileName": "audio_config.json"
+        }
+      ]
+    },
+    "config/woman": {
+      "resourceCount": 1,
+      "totalSize": 14170,
+      "resources": [
+        {
+          "path": "config/woman/audio_config.json",
+          "size": 14170,
+          "fileName": "audio_config.json"
+        }
+      ]
+    },
+    "download": {
+      "resourceCount": 13,
+      "totalSize": 9245,
+      "resources": [
+        {
+          "path": "download/download_placeholder_cardback.png",
+          "size": 471,
+          "fileName": "download_placeholder_cardback.png"
+        },
+        {
+          "path": "download/download_placeholder_cardfront.png",
+          "size": 443,
+          "fileName": "download_placeholder_cardfront.png"
+        },
+        {
+          "path": "download/download_placeholder_tablestyle.png",
+          "size": 989,
+          "fileName": "download_placeholder_tablestyle.png"
+        },
+        {
+          "path": "download/download_placeholder_temp.png",
+          "size": 409,
+          "fileName": "download_placeholder_temp.png"
+        },
+        {
+          "path": "download/download_restart.png",
+          "size": 550,
+          "fileName": "download_restart.png"
+        },
+        {
+          "path": "download/emoji_mask_fill.png",
+          "size": 2925,
+          "fileName": "emoji_mask_fill.png"
+        },
+        {
+          "path": "download/game_loading_resource_btn_retry.png",
+          "size": 592,
+          "fileName": "game_loading_resource_btn_retry.png"
+        },
+        {
+          "path": "download/game_loading_resource_progress_btn.png",
+          "size": 1515,
+          "fileName": "game_loading_resource_progress_btn.png"
+        },
+        {
+          "path": "download/loading_background.png",
+          "size": 133,
+          "fileName": "loading_background.png"
+        },
+        {
+          "path": "download/loading_background_interrupt.png",
+          "size": 133,
+          "fileName": "loading_background_interrupt.png"
+        },
+        {
+          "path": "download/loading_foreground.png",
+          "size": 229,
+          "fileName": "loading_foreground.png"
+        },
+        {
+          "path": "download/loading_foreground_interrupt.png",
+          "size": 228,
+          "fileName": "loading_foreground_interrupt.png"
+        },
+        {
+          "path": "download/props_mask_fill.png",
+          "size": 628,
+          "fileName": "props_mask_fill.png"
+        }
+      ]
+    },
+    "flutter": {
+      "resourceCount": 1,
+      "totalSize": 1430,
+      "resources": [
+        {
+          "path": "flutter/qr_dxlogo.png",
+          "size": 1430,
+          "fileName": "qr_dxlogo.png"
+        }
+      ]
+    },
+    "flutter/game_review/icons": {
+      "resourceCount": 26,
+      "totalSize": 30605,
+      "resources": [
+        {
+          "path": "flutter/game_review/icons/JYLogoDark.png",
+          "size": 5003,
+          "fileName": "JYLogoDark.png"
+        },
+        {
+          "path": "flutter/game_review/icons/arrow_down.png",
+          "size": 233,
+          "fileName": "arrow_down.png"
+        },
+        {
+          "path": "flutter/game_review/icons/arrow_up.png",
+          "size": 232,
+          "fileName": "arrow_up.png"
+        },
+        {
+          "path": "flutter/game_review/icons/chip.png",
+          "size": 2771,
+          "fileName": "chip.png"
+        },
+        {
+          "path": "flutter/game_review/icons/copy.png",
+          "size": 313,
+          "fileName": "copy.png"
+        },
+        {
+          "path": "flutter/game_review/icons/double_right_arrow.png",
+          "size": 450,
+          "fileName": "double_right_arrow.png"
+        },
+        {
+          "path": "flutter/game_review/icons/dxlogo.png",
+          "size": 2141,
+          "fileName": "dxlogo.png"
+        },
+        {
+          "path": "flutter/game_review/icons/dz_four_hand_card_mask.png",
+          "size": 980,
+          "fileName": "dz_four_hand_card_mask.png"
+        },
+        {
+          "path": "flutter/game_review/icons/dz_two_hand_card_mask.png",
+          "size": 1044,
+          "fileName": "dz_two_hand_card_mask.png"
+        },
+        {
+          "path": "flutter/game_review/icons/end.png",
+          "size": 564,
+          "fileName": "end.png"
+        },
+        {
+          "path": "flutter/game_review/icons/eye_line.png",
+          "size": 438,
+          "fileName": "eye_line.png"
+        },
+        {
+          "path": "flutter/game_review/icons/first.png",
+          "size": 606,
+          "fileName": "first.png"
+        },
+        {
+          "path": "flutter/game_review/icons/game_review_share.png",
+          "size": 467,
+          "fileName": "game_review_share.png"
+        },
+        {
+          "path": "flutter/game_review/icons/hand_cards_collected.png",
+          "size": 887,
+          "fileName": "hand_cards_collected.png"
+        },
+        {
+          "path": "flutter/game_review/icons/hand_cards_uncollect.png",
+          "size": 544,
+          "fileName": "hand_cards_uncollect.png"
+        },
+        {
+          "path": "flutter/game_review/icons/information.png",
+          "size": 438,
+          "fileName": "information.png"
+        },
+        {
+          "path": "flutter/game_review/icons/insure.png",
+          "size": 853,
+          "fileName": "insure.png"
+        },
+        {
+          "path": "flutter/game_review/icons/next.png",
+          "size": 605,
+          "fileName": "next.png"
+        },
+        {
+          "path": "flutter/game_review/icons/poker_back.png",
+          "size": 8248,
+          "fileName": "poker_back.png"
+        },
+        {
+          "path": "flutter/game_review/icons/pre.png",
+          "size": 646,
+          "fileName": "pre.png"
+        },
+        {
+          "path": "flutter/game_review/icons/question.png",
+          "size": 532,
+          "fileName": "question.png"
+        },
+        {
+          "path": "flutter/game_review/icons/rabbit.png",
+          "size": 382,
+          "fileName": "rabbit.png"
+        },
+        {
+          "path": "flutter/game_review/icons/refresh.png",
+          "size": 662,
+          "fileName": "refresh.png"
+        },
+        {
+          "path": "flutter/game_review/icons/report.png",
+          "size": 875,
+          "fileName": "report.png"
+        },
+        {
+          "path": "flutter/game_review/icons/share.png",
+          "size": 458,
+          "fileName": "share.png"
+        },
+        {
+          "path": "flutter/game_review/icons/up_triangle.png",
+          "size": 233,
+          "fileName": "up_triangle.png"
+        }
+      ]
+    },
+    "flutter/game_review/in_game": {
+      "resourceCount": 31,
+      "totalSize": 30091,
+      "resources": [
+        {
+          "path": "flutter/game_review/in_game/A.png",
+          "size": 473,
+          "fileName": "A.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/ANTE.png",
+          "size": 540,
+          "fileName": "ANTE.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/B.png",
+          "size": 447,
+          "fileName": "B.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/BB.png",
+          "size": 501,
+          "fileName": "BB.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/BH.png",
+          "size": 521,
+          "fileName": "BH.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/BO.png",
+          "size": 626,
+          "fileName": "BO.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/C.png",
+          "size": 470,
+          "fileName": "C.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/EVTB.png",
+          "size": 529,
+          "fileName": "EVTB.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/F.png",
+          "size": 364,
+          "fileName": "F.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/M.png",
+          "size": 630,
+          "fileName": "M.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/MB.png",
+          "size": 578,
+          "fileName": "MB.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/PF.png",
+          "size": 521,
+          "fileName": "PF.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/R.png",
+          "size": 432,
+          "fileName": "R.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/RB.png",
+          "size": 555,
+          "fileName": "RB.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/S.png",
+          "size": 471,
+          "fileName": "S.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/SB.png",
+          "size": 567,
+          "fileName": "SB.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/TB.png",
+          "size": 521,
+          "fileName": "TB.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/X.png",
+          "size": 467,
+          "fileName": "X.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/YY.png",
+          "size": 741,
+          "fileName": "YY.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/background_B.png",
+          "size": 309,
+          "fileName": "background_B.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/card_mask.png",
+          "size": 241,
+          "fileName": "card_mask.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/ds.png",
+          "size": 849,
+          "fileName": "ds.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/ds_alert.png",
+          "size": 589,
+          "fileName": "ds_alert.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/error.png",
+          "size": 9832,
+          "fileName": "error.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/game_pos_bg.png",
+          "size": 318,
+          "fileName": "game_pos_bg.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/hand_card_has_view_tag.png",
+          "size": 402,
+          "fileName": "hand_card_has_view_tag.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/hand_card_wait_to_view.png",
+          "size": 3495,
+          "fileName": "hand_card_wait_to_view.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/person.png",
+          "size": 391,
+          "fileName": "person.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/person_two.png",
+          "size": 403,
+          "fileName": "person_two.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/qld.png",
+          "size": 909,
+          "fileName": "qld.png"
+        },
+        {
+          "path": "flutter/game_review/in_game/single_hand_card_wait_to_view.png",
+          "size": 2399,
+          "fileName": "single_hand_card_wait_to_view.png"
+        }
+      ]
+    },
+    "flutter/race": {
+      "resourceCount": 6,
+      "totalSize": 3833,
+      "resources": [
+        {
+          "path": "flutter/race/player_nav_back.png",
+          "size": 546,
+          "fileName": "player_nav_back.png"
+        },
+        {
+          "path": "flutter/race/race_first.png",
+          "size": 579,
+          "fileName": "race_first.png"
+        },
+        {
+          "path": "flutter/race/race_last.png",
+          "size": 579,
+          "fileName": "race_last.png"
+        },
+        {
+          "path": "flutter/race/race_next.png",
+          "size": 701,
+          "fileName": "race_next.png"
+        },
+        {
+          "path": "flutter/race/race_pre.png",
+          "size": 644,
+          "fileName": "race_pre.png"
+        },
+        {
+          "path": "flutter/race/race_reward.png",
+          "size": 784,
+          "fileName": "race_reward.png"
+        }
+      ]
+    },
+    "game020": {
+      "resourceCount": 1,
+      "totalSize": 788,
+      "resources": [
+        {
+          "path": "game020/gameCardMask.png",
+          "size": 788,
+          "fileName": "gameCardMask.png"
+        }
+      ]
+    },
+    "gif": {
+      "resourceCount": 6,
+      "totalSize": 999653,
+      "resources": [
+        {
+          "path": "gif/club_loading.gif",
+          "size": 324767,
+          "fileName": "club_loading.gif"
+        },
+        {
+          "path": "gif/home_jiameng.gif",
+          "size": 179342,
+          "fileName": "home_jiameng.gif"
+        },
+        {
+          "path": "gif/loading_blue.gif",
+          "size": 11639,
+          "fileName": "loading_blue.gif"
+        },
+        {
+          "path": "gif/loading_white.gif",
+          "size": 11639,
+          "fileName": "loading_white.gif"
+        },
+        {
+          "path": "gif/logo_app_new.gif",
+          "size": 360255,
+          "fileName": "logo_app_new.gif"
+        },
+        {
+          "path": "gif/up_arrow_animation.gif",
+          "size": 112011,
+          "fileName": "up_arrow_animation.gif"
+        }
+      ]
+    },
+    "head": {
+      "resourceCount": 18,
+      "totalSize": 36667,
+      "resources": [
+        {
+          "path": "head/avatar_anonymous.png",
+          "size": 23643,
+          "fileName": "avatar_anonymous.png"
+        },
+        {
+          "path": "head/avatar_default_image.png",
+          "size": 1565,
+          "fileName": "avatar_default_image.png"
+        },
+        {
+          "path": "head/cardTipGray.png",
+          "size": 300,
+          "fileName": "cardTipGray.png"
+        },
+        {
+          "path": "head/card_type_name_bg.png",
+          "size": 317,
+          "fileName": "card_type_name_bg.png"
+        },
+        {
+          "path": "head/game_play_voice_mute.png",
+          "size": 728,
+          "fileName": "game_play_voice_mute.png"
+        },
+        {
+          "path": "head/game_report_disable.png",
+          "size": 651,
+          "fileName": "game_report_disable.png"
+        },
+        {
+          "path": "head/game_report_normal.png",
+          "size": 832,
+          "fileName": "game_report_normal.png"
+        },
+        {
+          "path": "head/game_voice_img.png",
+          "size": 477,
+          "fileName": "game_voice_img.png"
+        },
+        {
+          "path": "head/mySelfCardTypeBg.png",
+          "size": 1198,
+          "fileName": "mySelfCardTypeBg.png"
+        },
+        {
+          "path": "head/mySelfScoreBg.png",
+          "size": 454,
+          "fileName": "mySelfScoreBg.png"
+        },
+        {
+          "path": "head/nameAndScoreBg.png",
+          "size": 486,
+          "fileName": "nameAndScoreBg.png"
+        },
+        {
+          "path": "head/offLineIcon.png",
+          "size": 513,
+          "fileName": "offLineIcon.png"
+        },
+        {
+          "path": "head/player_allin_bg.png",
+          "size": 265,
+          "fileName": "player_allin_bg.png"
+        },
+        {
+          "path": "head/player_quick_msg_bg.png",
+          "size": 1596,
+          "fileName": "player_quick_msg_bg.png"
+        },
+        {
+          "path": "head/player_quick_msg_special_bg.png",
+          "size": 1117,
+          "fileName": "player_quick_msg_special_bg.png"
+        },
+        {
+          "path": "head/player_voice_play_bg.png",
+          "size": 1716,
+          "fileName": "player_voice_play_bg.png"
+        },
+        {
+          "path": "head/weakNetIcon.png",
+          "size": 551,
+          "fileName": "weakNetIcon.png"
+        },
+        {
+          "path": "head/win_money_score_bg.png",
+          "size": 258,
+          "fileName": "win_money_score_bg.png"
+        }
+      ]
+    },
+    "json": {
+      "resourceCount": 2,
+      "totalSize": 3873,
+      "resources": [
+        {
+          "path": "json/barrage_config.json",
+          "size": 2907,
+          "fileName": "barrage_config.json"
+        },
+        {
+          "path": "json/short_voice_config.json",
+          "size": 966,
+          "fileName": "short_voice_config.json"
+        }
+      ]
+    },
+    "lang/en/common": {
+      "resourceCount": 14,
+      "totalSize": 16526,
+      "resources": [
+        {
+          "path": "lang/en/common/btn_yellow_use.png",
+          "size": 1181,
+          "fileName": "btn_yellow_use.png"
+        },
+        {
+          "path": "lang/en/common/currency_gold.png",
+          "size": 659,
+          "fileName": "currency_gold.png"
+        },
+        {
+          "path": "lang/en/common/currency_sfjfp.png",
+          "size": 800,
+          "fileName": "currency_sfjfp.png"
+        },
+        {
+          "path": "lang/en/common/currency_test.png",
+          "size": 848,
+          "fileName": "currency_test.png"
+        },
+        {
+          "path": "lang/en/common/game_cur_round_stand_check.png",
+          "size": 941,
+          "fileName": "game_cur_round_stand_check.png"
+        },
+        {
+          "path": "lang/en/common/game_cur_round_stand_normal.png",
+          "size": 925,
+          "fileName": "game_cur_round_stand_normal.png"
+        },
+        {
+          "path": "lang/en/common/goods_reward_tag.png",
+          "size": 888,
+          "fileName": "goods_reward_tag.png"
+        },
+        {
+          "path": "lang/en/common/light_card_btn_bg.png",
+          "size": 2754,
+          "fileName": "light_card_btn_bg.png"
+        },
+        {
+          "path": "lang/en/common/no_open_gps.png",
+          "size": 977,
+          "fileName": "no_open_gps.png"
+        },
+        {
+          "path": "lang/en/common/redbagBtn.png",
+          "size": 1036,
+          "fileName": "redbagBtn.png"
+        },
+        {
+          "path": "lang/en/common/slider_shang.png",
+          "size": 1566,
+          "fileName": "slider_shang.png"
+        },
+        {
+          "path": "lang/en/common/slider_xia.png",
+          "size": 1619,
+          "fileName": "slider_xia.png"
+        },
+        {
+          "path": "lang/en/common/tableLogo.png",
+          "size": 1219,
+          "fileName": "tableLogo.png"
+        },
+        {
+          "path": "lang/en/common/un_light_card_btn_bg.png",
+          "size": 1113,
+          "fileName": "un_light_card_btn_bg.png"
+        }
+      ]
+    },
+    "lang/en/flutter/game_review/icons": {
+      "resourceCount": 4,
+      "totalSize": 3781,
+      "resources": [
+        {
+          "path": "lang/en/flutter/game_review/icons/end.png",
+          "size": 1010,
+          "fileName": "end.png"
+        },
+        {
+          "path": "lang/en/flutter/game_review/icons/first.png",
+          "size": 952,
+          "fileName": "first.png"
+        },
+        {
+          "path": "lang/en/flutter/game_review/icons/next.png",
+          "size": 905,
+          "fileName": "next.png"
+        },
+        {
+          "path": "lang/en/flutter/game_review/icons/pre.png",
+          "size": 914,
+          "fileName": "pre.png"
+        }
+      ]
+    },
+    "lang/en/main": {
+      "resourceCount": 1,
+      "totalSize": 2772,
+      "resources": [
+        {
+          "path": "lang/en/main/game_btn_match.png",
+          "size": 2772,
+          "fileName": "game_btn_match.png"
+        }
+      ]
+    },
+    "lang/ja/common": {
+      "resourceCount": 14,
+      "totalSize": 15559,
+      "resources": [
+        {
+          "path": "lang/ja/common/btn_yellow_use.png",
+          "size": 1371,
+          "fileName": "btn_yellow_use.png"
+        },
+        {
+          "path": "lang/ja/common/currency_gold.png",
+          "size": 588,
+          "fileName": "currency_gold.png"
+        },
+        {
+          "path": "lang/ja/common/currency_sfjfp.png",
+          "size": 756,
+          "fileName": "currency_sfjfp.png"
+        },
+        {
+          "path": "lang/ja/common/currency_test.png",
+          "size": 854,
+          "fileName": "currency_test.png"
+        },
+        {
+          "path": "lang/ja/common/game_cur_round_stand_check.png",
+          "size": 1050,
+          "fileName": "game_cur_round_stand_check.png"
+        },
+        {
+          "path": "lang/ja/common/game_cur_round_stand_normal.png",
+          "size": 1020,
+          "fileName": "game_cur_round_stand_normal.png"
+        },
+        {
+          "path": "lang/ja/common/goods_reward_tag.png",
+          "size": 552,
+          "fileName": "goods_reward_tag.png"
+        },
+        {
+          "path": "lang/ja/common/light_card_btn_bg.png",
+          "size": 1083,
+          "fileName": "light_card_btn_bg.png"
+        },
+        {
+          "path": "lang/ja/common/no_open_gps.png",
+          "size": 1213,
+          "fileName": "no_open_gps.png"
+        },
+        {
+          "path": "lang/ja/common/redbagBtn.png",
+          "size": 1366,
+          "fileName": "redbagBtn.png"
+        },
+        {
+          "path": "lang/ja/common/slider_shang.png",
+          "size": 1516,
+          "fileName": "slider_shang.png"
+        },
+        {
+          "path": "lang/ja/common/slider_xia.png",
+          "size": 1501,
+          "fileName": "slider_xia.png"
+        },
+        {
+          "path": "lang/ja/common/tableLogo.png",
+          "size": 1589,
+          "fileName": "tableLogo.png"
+        },
+        {
+          "path": "lang/ja/common/un_light_card_btn_bg.png",
+          "size": 1100,
+          "fileName": "un_light_card_btn_bg.png"
+        }
+      ]
+    },
+    "lang/ja/flutter/game_review/icons": {
+      "resourceCount": 4,
+      "totalSize": 3781,
+      "resources": [
+        {
+          "path": "lang/ja/flutter/game_review/icons/end.png",
+          "size": 1010,
+          "fileName": "end.png"
+        },
+        {
+          "path": "lang/ja/flutter/game_review/icons/first.png",
+          "size": 952,
+          "fileName": "first.png"
+        },
+        {
+          "path": "lang/ja/flutter/game_review/icons/next.png",
+          "size": 905,
+          "fileName": "next.png"
+        },
+        {
+          "path": "lang/ja/flutter/game_review/icons/pre.png",
+          "size": 914,
+          "fileName": "pre.png"
+        }
+      ]
+    },
+    "lang/ja/main": {
+      "resourceCount": 1,
+      "totalSize": 4897,
+      "resources": [
+        {
+          "path": "lang/ja/main/game_btn_match.png",
+          "size": 4897,
+          "fileName": "game_btn_match.png"
+        }
+      ]
+    },
+    "lang/ko/common": {
+      "resourceCount": 14,
+      "totalSize": 18925,
+      "resources": [
+        {
+          "path": "lang/ko/common/btn_yellow_use.png",
+          "size": 1372,
+          "fileName": "btn_yellow_use.png"
+        },
+        {
+          "path": "lang/ko/common/currency_gold.png",
+          "size": 620,
+          "fileName": "currency_gold.png"
+        },
+        {
+          "path": "lang/ko/common/currency_sfjfp.png",
+          "size": 755,
+          "fileName": "currency_sfjfp.png"
+        },
+        {
+          "path": "lang/ko/common/currency_test.png",
+          "size": 771,
+          "fileName": "currency_test.png"
+        },
+        {
+          "path": "lang/ko/common/game_cur_round_stand_check.png",
+          "size": 978,
+          "fileName": "game_cur_round_stand_check.png"
+        },
+        {
+          "path": "lang/ko/common/game_cur_round_stand_normal.png",
+          "size": 983,
+          "fileName": "game_cur_round_stand_normal.png"
+        },
+        {
+          "path": "lang/ko/common/goods_reward_tag.png",
+          "size": 467,
+          "fileName": "goods_reward_tag.png"
+        },
+        {
+          "path": "lang/ko/common/light_card_btn_bg.png",
+          "size": 1017,
+          "fileName": "light_card_btn_bg.png"
+        },
+        {
+          "path": "lang/ko/common/no_open_gps.png",
+          "size": 1214,
+          "fileName": "no_open_gps.png"
+        },
+        {
+          "path": "lang/ko/common/redbagBtn.png",
+          "size": 1147,
+          "fileName": "redbagBtn.png"
+        },
+        {
+          "path": "lang/ko/common/slider_shang.png",
+          "size": 1532,
+          "fileName": "slider_shang.png"
+        },
+        {
+          "path": "lang/ko/common/slider_xia.png",
+          "size": 1651,
+          "fileName": "slider_xia.png"
+        },
+        {
+          "path": "lang/ko/common/tableLogo.png",
+          "size": 3788,
+          "fileName": "tableLogo.png"
+        },
+        {
+          "path": "lang/ko/common/un_light_card_btn_bg.png",
+          "size": 2630,
+          "fileName": "un_light_card_btn_bg.png"
+        }
+      ]
+    },
+    "lang/ko/flutter/game_review/icons": {
+      "resourceCount": 4,
+      "totalSize": 3781,
+      "resources": [
+        {
+          "path": "lang/ko/flutter/game_review/icons/end.png",
+          "size": 1010,
+          "fileName": "end.png"
+        },
+        {
+          "path": "lang/ko/flutter/game_review/icons/first.png",
+          "size": 952,
+          "fileName": "first.png"
+        },
+        {
+          "path": "lang/ko/flutter/game_review/icons/next.png",
+          "size": 905,
+          "fileName": "next.png"
+        },
+        {
+          "path": "lang/ko/flutter/game_review/icons/pre.png",
+          "size": 914,
+          "fileName": "pre.png"
+        }
+      ]
+    },
+    "lang/ko/main": {
+      "resourceCount": 1,
+      "totalSize": 4541,
+      "resources": [
+        {
+          "path": "lang/ko/main/game_btn_match.png",
+          "size": 4541,
+          "fileName": "game_btn_match.png"
+        }
+      ]
+    },
+    "lang/vi/common": {
+      "resourceCount": 14,
+      "totalSize": 28404,
+      "resources": [
+        {
+          "path": "lang/vi/common/btn_yellow_use.png",
+          "size": 1659,
+          "fileName": "btn_yellow_use.png"
+        },
+        {
+          "path": "lang/vi/common/currency_gold.png",
+          "size": 1115,
+          "fileName": "currency_gold.png"
+        },
+        {
+          "path": "lang/vi/common/currency_sfjfp.png",
+          "size": 1151,
+          "fileName": "currency_sfjfp.png"
+        },
+        {
+          "path": "lang/vi/common/currency_test.png",
+          "size": 997,
+          "fileName": "currency_test.png"
+        },
+        {
+          "path": "lang/vi/common/game_cur_round_stand_check.png",
+          "size": 1406,
+          "fileName": "game_cur_round_stand_check.png"
+        },
+        {
+          "path": "lang/vi/common/game_cur_round_stand_normal.png",
+          "size": 1301,
+          "fileName": "game_cur_round_stand_normal.png"
+        },
+        {
+          "path": "lang/vi/common/goods_reward_tag.png",
+          "size": 575,
+          "fileName": "goods_reward_tag.png"
+        },
+        {
+          "path": "lang/vi/common/light_card_btn_bg.png",
+          "size": 1476,
+          "fileName": "light_card_btn_bg.png"
+        },
+        {
+          "path": "lang/vi/common/no_open_gps.png",
+          "size": 3296,
+          "fileName": "no_open_gps.png"
+        },
+        {
+          "path": "lang/vi/common/redbagBtn.png",
+          "size": 2601,
+          "fileName": "redbagBtn.png"
+        },
+        {
+          "path": "lang/vi/common/slider_shang.png",
+          "size": 3619,
+          "fileName": "slider_shang.png"
+        },
+        {
+          "path": "lang/vi/common/slider_xia.png",
+          "size": 3615,
+          "fileName": "slider_xia.png"
+        },
+        {
+          "path": "lang/vi/common/tableLogo.png",
+          "size": 2792,
+          "fileName": "tableLogo.png"
+        },
+        {
+          "path": "lang/vi/common/un_light_card_btn_bg.png",
+          "size": 2801,
+          "fileName": "un_light_card_btn_bg.png"
+        }
+      ]
+    },
+    "lang/vi/flutter/game_review/icons": {
+      "resourceCount": 4,
+      "totalSize": 3781,
+      "resources": [
+        {
+          "path": "lang/vi/flutter/game_review/icons/end.png",
+          "size": 1010,
+          "fileName": "end.png"
+        },
+        {
+          "path": "lang/vi/flutter/game_review/icons/first.png",
+          "size": 952,
+          "fileName": "first.png"
+        },
+        {
+          "path": "lang/vi/flutter/game_review/icons/next.png",
+          "size": 905,
+          "fileName": "next.png"
+        },
+        {
+          "path": "lang/vi/flutter/game_review/icons/pre.png",
+          "size": 914,
+          "fileName": "pre.png"
+        }
+      ]
+    },
+    "lang/vi/main": {
+      "resourceCount": 1,
+      "totalSize": 4538,
+      "resources": [
+        {
+          "path": "lang/vi/main/game_btn_match.png",
+          "size": 4538,
+          "fileName": "game_btn_match.png"
+        }
+      ]
+    },
+    "lang/zh/common": {
+      "resourceCount": 14,
+      "totalSize": 17642,
+      "resources": [
+        {
+          "path": "lang/zh/common/btn_yellow_use.png",
+          "size": 1177,
+          "fileName": "btn_yellow_use.png"
+        },
+        {
+          "path": "lang/zh/common/currency_gold.png",
+          "size": 1245,
+          "fileName": "currency_gold.png"
+        },
+        {
+          "path": "lang/zh/common/currency_sfjfp.png",
+          "size": 807,
+          "fileName": "currency_sfjfp.png"
+        },
+        {
+          "path": "lang/zh/common/currency_test.png",
+          "size": 1880,
+          "fileName": "currency_test.png"
+        },
+        {
+          "path": "lang/zh/common/game_cur_round_stand_check.png",
+          "size": 981,
+          "fileName": "game_cur_round_stand_check.png"
+        },
+        {
+          "path": "lang/zh/common/game_cur_round_stand_normal.png",
+          "size": 1014,
+          "fileName": "game_cur_round_stand_normal.png"
+        },
+        {
+          "path": "lang/zh/common/goods_reward_tag.png",
+          "size": 934,
+          "fileName": "goods_reward_tag.png"
+        },
+        {
+          "path": "lang/zh/common/light_card_btn_bg.png",
+          "size": 781,
+          "fileName": "light_card_btn_bg.png"
+        },
+        {
+          "path": "lang/zh/common/no_open_gps.png",
+          "size": 1085,
+          "fileName": "no_open_gps.png"
+        },
+        {
+          "path": "lang/zh/common/redbagBtn.png",
+          "size": 945,
+          "fileName": "redbagBtn.png"
+        },
+        {
+          "path": "lang/zh/common/slider_shang.png",
+          "size": 1957,
+          "fileName": "slider_shang.png"
+        },
+        {
+          "path": "lang/zh/common/slider_xia.png",
+          "size": 2055,
+          "fileName": "slider_xia.png"
+        },
+        {
+          "path": "lang/zh/common/tableLogo.png",
+          "size": 1989,
+          "fileName": "tableLogo.png"
+        },
+        {
+          "path": "lang/zh/common/un_light_card_btn_bg.png",
+          "size": 792,
+          "fileName": "un_light_card_btn_bg.png"
+        }
+      ]
+    },
+    "lang/zh/flutter/game_review/icons": {
+      "resourceCount": 4,
+      "totalSize": 3781,
+      "resources": [
+        {
+          "path": "lang/zh/flutter/game_review/icons/end.png",
+          "size": 1010,
+          "fileName": "end.png"
+        },
+        {
+          "path": "lang/zh/flutter/game_review/icons/first.png",
+          "size": 952,
+          "fileName": "first.png"
+        },
+        {
+          "path": "lang/zh/flutter/game_review/icons/next.png",
+          "size": 905,
+          "fileName": "next.png"
+        },
+        {
+          "path": "lang/zh/flutter/game_review/icons/pre.png",
+          "size": 914,
+          "fileName": "pre.png"
+        }
+      ]
+    },
+    "lang/zh/main": {
+      "resourceCount": 1,
+      "totalSize": 2406,
+      "resources": [
+        {
+          "path": "lang/zh/main/game_btn_match.png",
+          "size": 2406,
+          "fileName": "game_btn_match.png"
+        }
+      ]
+    },
+    "loading": {
+      "resourceCount": 4,
+      "totalSize": 176252,
+      "resources": [
+        {
+          "path": "loading/background.png",
+          "size": 19731,
+          "fileName": "background.png"
+        },
+        {
+          "path": "loading/game_loading.gif",
+          "size": 151864,
+          "fileName": "game_loading.gif"
+        },
+        {
+          "path": "loading/logo.png",
+          "size": 2430,
+          "fileName": "logo.png"
+        },
+        {
+          "path": "loading/sdk_paifang_logo.png",
+          "size": 2227,
+          "fileName": "sdk_paifang_logo.png"
+        }
+      ]
+    },
+    "loading_trtc": {
+      "resourceCount": 25,
+      "totalSize": 15278,
+      "resources": [
+        {
+          "path": "loading_trtc/loading_0.png",
+          "size": 622,
+          "fileName": "loading_0.png"
+        },
+        {
+          "path": "loading_trtc/loading_1.png",
+          "size": 622,
+          "fileName": "loading_1.png"
+        },
+        {
+          "path": "loading_trtc/loading_10.png",
+          "size": 612,
+          "fileName": "loading_10.png"
+        },
+        {
+          "path": "loading_trtc/loading_11.png",
+          "size": 612,
+          "fileName": "loading_11.png"
+        },
+        {
+          "path": "loading_trtc/loading_12.png",
+          "size": 615,
+          "fileName": "loading_12.png"
+        },
+        {
+          "path": "loading_trtc/loading_13.png",
+          "size": 615,
+          "fileName": "loading_13.png"
+        },
+        {
+          "path": "loading_trtc/loading_14.png",
+          "size": 612,
+          "fileName": "loading_14.png"
+        },
+        {
+          "path": "loading_trtc/loading_15.png",
+          "size": 612,
+          "fileName": "loading_15.png"
+        },
+        {
+          "path": "loading_trtc/loading_16.png",
+          "size": 567,
+          "fileName": "loading_16.png"
+        },
+        {
+          "path": "loading_trtc/loading_17.png",
+          "size": 567,
+          "fileName": "loading_17.png"
+        },
+        {
+          "path": "loading_trtc/loading_18.png",
+          "size": 602,
+          "fileName": "loading_18.png"
+        },
+        {
+          "path": "loading_trtc/loading_19.png",
+          "size": 602,
+          "fileName": "loading_19.png"
+        },
+        {
+          "path": "loading_trtc/loading_2.png",
+          "size": 595,
+          "fileName": "loading_2.png"
+        },
+        {
+          "path": "loading_trtc/loading_20.png",
+          "size": 616,
+          "fileName": "loading_20.png"
+        },
+        {
+          "path": "loading_trtc/loading_21.png",
+          "size": 616,
+          "fileName": "loading_21.png"
+        },
+        {
+          "path": "loading_trtc/loading_22.png",
+          "size": 642,
+          "fileName": "loading_22.png"
+        },
+        {
+          "path": "loading_trtc/loading_23.png",
+          "size": 642,
+          "fileName": "loading_23.png"
+        },
+        {
+          "path": "loading_trtc/loading_24.png",
+          "size": 622,
+          "fileName": "loading_24.png"
+        },
+        {
+          "path": "loading_trtc/loading_3.png",
+          "size": 595,
+          "fileName": "loading_3.png"
+        },
+        {
+          "path": "loading_trtc/loading_4.png",
+          "size": 582,
+          "fileName": "loading_4.png"
+        },
+        {
+          "path": "loading_trtc/loading_5.png",
+          "size": 582,
+          "fileName": "loading_5.png"
+        },
+        {
+          "path": "loading_trtc/loading_6.png",
+          "size": 621,
+          "fileName": "loading_6.png"
+        },
+        {
+          "path": "loading_trtc/loading_7.png",
+          "size": 621,
+          "fileName": "loading_7.png"
+        },
+        {
+          "path": "loading_trtc/loading_8.png",
+          "size": 642,
+          "fileName": "loading_8.png"
+        },
+        {
+          "path": "loading_trtc/loading_9.png",
+          "size": 642,
+          "fileName": "loading_9.png"
+        }
+      ]
+    },
+    "main": {
+      "resourceCount": 18,
+      "totalSize": 34397,
+      "resources": [
+        {
+          "path": "main/gameDetailBtn.png",
+          "size": 1972,
+          "fileName": "gameDetailBtn.png"
+        },
+        {
+          "path": "main/gameMenubtn.png",
+          "size": 1778,
+          "fileName": "gameMenubtn.png"
+        },
+        {
+          "path": "main/gameRecordBtn.png",
+          "size": 2197,
+          "fileName": "gameRecordBtn.png"
+        },
+        {
+          "path": "main/game_btn_match.png",
+          "size": 2041,
+          "fileName": "game_btn_match.png"
+        },
+        {
+          "path": "main/game_btn_trophy.png",
+          "size": 2326,
+          "fileName": "game_btn_trophy.png"
+        },
+        {
+          "path": "main/game_cash_wallet_btn.png",
+          "size": 2109,
+          "fileName": "game_cash_wallet_btn.png"
+        },
+        {
+          "path": "main/game_chat_btn.png",
+          "size": 975,
+          "fileName": "game_chat_btn.png"
+        },
+        {
+          "path": "main/game_invite_btn.png",
+          "size": 1965,
+          "fileName": "game_invite_btn.png"
+        },
+        {
+          "path": "main/game_mall_btn.png",
+          "size": 1749,
+          "fileName": "game_mall_btn.png"
+        },
+        {
+          "path": "main/game_player_seat_bg.png",
+          "size": 1410,
+          "fileName": "game_player_seat_bg.png"
+        },
+        {
+          "path": "main/game_wait_select_seat.png",
+          "size": 642,
+          "fileName": "game_wait_select_seat.png"
+        },
+        {
+          "path": "main/gps_warning.png",
+          "size": 849,
+          "fileName": "gps_warning.png"
+        },
+        {
+          "path": "main/other_emp.png",
+          "size": 1013,
+          "fileName": "other_emp.png"
+        },
+        {
+          "path": "main/scoreWalletBtn.png",
+          "size": 2122,
+          "fileName": "scoreWalletBtn.png"
+        },
+        {
+          "path": "main/shareTableBtn.png",
+          "size": 1793,
+          "fileName": "shareTableBtn.png"
+        },
+        {
+          "path": "main/shopingBtn.png",
+          "size": 3078,
+          "fileName": "shopingBtn.png"
+        },
+        {
+          "path": "main/tablerefresh.png",
+          "size": 3338,
+          "fileName": "tablerefresh.png"
+        },
+        {
+          "path": "main/takeOutBtn.png",
+          "size": 3040,
+          "fileName": "takeOutBtn.png"
+        }
+      ]
+    },
+    "multi_language": {
+      "resourceCount": 1,
+      "totalSize": 813521,
+      "resources": [
+        {
+          "path": "multi_language/game_i18n.json",
+          "size": 813521,
+          "fileName": "game_i18n.json"
+        }
+      ]
+    },
+    "new_feat": {
+      "resourceCount": 1,
+      "totalSize": 730,
+      "resources": [
+        {
+          "path": "new_feat/new_feat_config.json",
+          "size": 730,
+          "fileName": "new_feat_config.json"
+        }
+      ]
+    },
+    "pb": {
+      "resourceCount": 6,
+      "totalSize": 2494,
+      "resources": [
+        {
+          "path": "pb/icon_next_step.png",
+          "size": 373,
+          "fileName": "icon_next_step.png"
+        },
+        {
+          "path": "pb/icon_pause.png",
+          "size": 331,
+          "fileName": "icon_pause.png"
+        },
+        {
+          "path": "pb/icon_play.png",
+          "size": 190,
+          "fileName": "icon_play.png"
+        },
+        {
+          "path": "pb/icon_replay.png",
+          "size": 740,
+          "fileName": "icon_replay.png"
+        },
+        {
+          "path": "pb/icon_up_step.png",
+          "size": 385,
+          "fileName": "icon_up_step.png"
+        },
+        {
+          "path": "pb/keyframe_btn_bg.png",
+          "size": 475,
+          "fileName": "keyframe_btn_bg.png"
+        }
+      ]
+    },
+    "poker": {
+      "resourceCount": 34,
+      "totalSize": 72816,
+      "resources": [
+        {
+          "path": "poker/n10.png",
+          "size": 616,
+          "fileName": "n10.png"
+        },
+        {
+          "path": "poker/n2.png",
+          "size": 497,
+          "fileName": "n2.png"
+        },
+        {
+          "path": "poker/n3.png",
+          "size": 533,
+          "fileName": "n3.png"
+        },
+        {
+          "path": "poker/n4.png",
+          "size": 360,
+          "fileName": "n4.png"
+        },
+        {
+          "path": "poker/n5.png",
+          "size": 531,
+          "fileName": "n5.png"
+        },
+        {
+          "path": "poker/n6.png",
+          "size": 959,
+          "fileName": "n6.png"
+        },
+        {
+          "path": "poker/n7.png",
+          "size": 318,
+          "fileName": "n7.png"
+        },
+        {
+          "path": "poker/n8.png",
+          "size": 571,
+          "fileName": "n8.png"
+        },
+        {
+          "path": "poker/n9.png",
+          "size": 584,
+          "fileName": "n9.png"
+        },
+        {
+          "path": "poker/na.png",
+          "size": 515,
+          "fileName": "na.png"
+        },
+        {
+          "path": "poker/nj.png",
+          "size": 324,
+          "fileName": "nj.png"
+        },
+        {
+          "path": "poker/nk.png",
+          "size": 470,
+          "fileName": "nk.png"
+        },
+        {
+          "path": "poker/nq.png",
+          "size": 638,
+          "fileName": "nq.png"
+        },
+        {
+          "path": "poker/nx.png",
+          "size": 516,
+          "fileName": "nx.png"
+        },
+        {
+          "path": "poker/poker_back.png",
+          "size": 9113,
+          "fileName": "poker_back.png"
+        },
+        {
+          "path": "poker/poker_big_joker_crown_thumb.png",
+          "size": 461,
+          "fileName": "poker_big_joker_crown_thumb.png"
+        },
+        {
+          "path": "poker/poker_big_joker_crown_top.png",
+          "size": 461,
+          "fileName": "poker_big_joker_crown_top.png"
+        },
+        {
+          "path": "poker/poker_big_joker_text.png",
+          "size": 717,
+          "fileName": "poker_big_joker_text.png"
+        },
+        {
+          "path": "poker/poker_big_joker_title.png",
+          "size": 270,
+          "fileName": "poker_big_joker_title.png"
+        },
+        {
+          "path": "poker/poker_blank.png",
+          "size": 704,
+          "fileName": "poker_blank.png"
+        },
+        {
+          "path": "poker/poker_club.png",
+          "size": 644,
+          "fileName": "poker_club.png"
+        },
+        {
+          "path": "poker/poker_club_thumb.png",
+          "size": 435,
+          "fileName": "poker_club_thumb.png"
+        },
+        {
+          "path": "poker/poker_diamond.png",
+          "size": 492,
+          "fileName": "poker_diamond.png"
+        },
+        {
+          "path": "poker/poker_diamond_thumb.png",
+          "size": 349,
+          "fileName": "poker_diamond_thumb.png"
+        },
+        {
+          "path": "poker/poker_heart.png",
+          "size": 546,
+          "fileName": "poker_heart.png"
+        },
+        {
+          "path": "poker/poker_heart_thumb.png",
+          "size": 375,
+          "fileName": "poker_heart_thumb.png"
+        },
+        {
+          "path": "poker/poker_horse.png",
+          "size": 4246,
+          "fileName": "poker_horse.png"
+        },
+        {
+          "path": "poker/poker_horse_back.png",
+          "size": 43752,
+          "fileName": "poker_horse_back.png"
+        },
+        {
+          "path": "poker/poker_small_joker_crown_thumb.png",
+          "size": 440,
+          "fileName": "poker_small_joker_crown_thumb.png"
+        },
+        {
+          "path": "poker/poker_small_joker_crown_top.png",
+          "size": 440,
+          "fileName": "poker_small_joker_crown_top.png"
+        },
+        {
+          "path": "poker/poker_small_joker_text.png",
+          "size": 688,
+          "fileName": "poker_small_joker_text.png"
+        },
+        {
+          "path": "poker/poker_small_joker_title.png",
+          "size": 264,
+          "fileName": "poker_small_joker_title.png"
+        },
+        {
+          "path": "poker/poker_spade.png",
+          "size": 584,
+          "fileName": "poker_spade.png"
+        },
+        {
+          "path": "poker/poker_spade_thumb.png",
+          "size": 403,
+          "fileName": "poker_spade_thumb.png"
+        }
+      ]
+    },
+    "report": {
+      "resourceCount": 9,
+      "totalSize": 7446,
+      "resources": [
+        {
+          "path": "report/game_report_arrow_down.png",
+          "size": 299,
+          "fileName": "game_report_arrow_down.png"
+        },
+        {
+          "path": "report/game_report_arrow_up.png",
+          "size": 938,
+          "fileName": "game_report_arrow_up.png"
+        },
+        {
+          "path": "report/game_report_name_bg.png",
+          "size": 605,
+          "fileName": "game_report_name_bg.png"
+        },
+        {
+          "path": "report/out_game_report_arrow_down.png",
+          "size": 220,
+          "fileName": "out_game_report_arrow_down.png"
+        },
+        {
+          "path": "report/out_game_report_arrow_up.png",
+          "size": 771,
+          "fileName": "out_game_report_arrow_up.png"
+        },
+        {
+          "path": "report/out_game_report_close.png",
+          "size": 320,
+          "fileName": "out_game_report_close.png"
+        },
+        {
+          "path": "report/out_game_report_name_bg.png",
+          "size": 380,
+          "fileName": "out_game_report_name_bg.png"
+        },
+        {
+          "path": "report/out_game_report_seleted_player_border.png",
+          "size": 1396,
+          "fileName": "out_game_report_seleted_player_border.png"
+        },
+        {
+          "path": "report/report_seleted_player_border.png",
+          "size": 2517,
+          "fileName": "report_seleted_player_border.png"
+        }
+      ]
+    },
+    "root": {
+      "resourceCount": 1,
+      "totalSize": 127905,
+      "resources": [
+        {
+          "path": "manifest.json",
+          "size": 127905,
+          "fileName": "manifest.json"
+        }
+      ]
+    },
+    "shop": {
+      "resourceCount": 26,
+      "totalSize": 159801,
+      "resources": [
+        {
+          "path": "shop/back.png",
+          "size": 541,
+          "fileName": "back.png"
+        },
+        {
+          "path": "shop/bg.png",
+          "size": 73594,
+          "fileName": "bg.png"
+        },
+        {
+          "path": "shop/btn_left.png",
+          "size": 766,
+          "fileName": "btn_left.png"
+        },
+        {
+          "path": "shop/btn_right.png",
+          "size": 743,
+          "fileName": "btn_right.png"
+        },
+        {
+          "path": "shop/btn_shopBuy.png",
+          "size": 7441,
+          "fileName": "btn_shopBuy.png"
+        },
+        {
+          "path": "shop/btn_shopBuy_disable.png",
+          "size": 690,
+          "fileName": "btn_shopBuy_disable.png"
+        },
+        {
+          "path": "shop/btn_table_selecet.png",
+          "size": 642,
+          "fileName": "btn_table_selecet.png"
+        },
+        {
+          "path": "shop/btn_table_unselect.png",
+          "size": 460,
+          "fileName": "btn_table_unselect.png"
+        },
+        {
+          "path": "shop/img_money.png",
+          "size": 1642,
+          "fileName": "img_money.png"
+        },
+        {
+          "path": "shop/img_name_bg.png",
+          "size": 2905,
+          "fileName": "img_name_bg.png"
+        },
+        {
+          "path": "shop/img_shop_day_normal.png",
+          "size": 336,
+          "fileName": "img_shop_day_normal.png"
+        },
+        {
+          "path": "shop/img_shop_day_selectd.png",
+          "size": 1587,
+          "fileName": "img_shop_day_selectd.png"
+        },
+        {
+          "path": "shop/no_data_bg.png",
+          "size": 272,
+          "fileName": "no_data_bg.png"
+        },
+        {
+          "path": "shop/shop_btn_add_disable.png",
+          "size": 517,
+          "fileName": "shop_btn_add_disable.png"
+        },
+        {
+          "path": "shop/shop_btn_add_enable.png",
+          "size": 717,
+          "fileName": "shop_btn_add_enable.png"
+        },
+        {
+          "path": "shop/shop_btn_mix_disable.png",
+          "size": 449,
+          "fileName": "shop_btn_mix_disable.png"
+        },
+        {
+          "path": "shop/shop_btn_mix_enable.png",
+          "size": 513,
+          "fileName": "shop_btn_mix_enable.png"
+        },
+        {
+          "path": "shop/shop_btn_mix_however.png",
+          "size": 939,
+          "fileName": "shop_btn_mix_however.png"
+        },
+        {
+          "path": "shop/shop_img_buyNum_bg.png",
+          "size": 290,
+          "fileName": "shop_img_buyNum_bg.png"
+        },
+        {
+          "path": "shop/shop_img_my_moeny_bg.png",
+          "size": 253,
+          "fileName": "shop_img_my_moeny_bg.png"
+        },
+        {
+          "path": "shop/shop_img_price_bg.png",
+          "size": 232,
+          "fileName": "shop_img_price_bg.png"
+        },
+        {
+          "path": "shop/shop_no_data.png",
+          "size": 11991,
+          "fileName": "shop_no_data.png"
+        },
+        {
+          "path": "shop/tab_btn.png",
+          "size": 870,
+          "fileName": "tab_btn.png"
+        },
+        {
+          "path": "shop/tab_down_bg.png",
+          "size": 46744,
+          "fileName": "tab_down_bg.png"
+        },
+        {
+          "path": "shop/tab_light.png",
+          "size": 1707,
+          "fileName": "tab_light.png"
+        },
+        {
+          "path": "shop/title_bg.png",
+          "size": 2960,
+          "fileName": "title_bg.png"
+        }
+      ]
+    },
+    "spine/ui/ExclamationEffect": {
+      "resourceCount": 3,
+      "totalSize": 46953,
+      "resources": [
+        {
+          "path": "spine/ui/ExclamationEffect/ExclamationEffect.atlas",
+          "size": 1636,
+          "fileName": "ExclamationEffect.atlas"
+        },
+        {
+          "path": "spine/ui/ExclamationEffect/ExclamationEffect.json",
+          "size": 772,
+          "fileName": "ExclamationEffect.json"
+        },
+        {
+          "path": "spine/ui/ExclamationEffect/ExclamationEffect.png",
+          "size": 44545,
+          "fileName": "ExclamationEffect.png"
+        }
+      ]
+    },
+    "spine/ui/buy_coin_effect": {
+      "resourceCount": 3,
+      "totalSize": 2035,
+      "resources": [
+        {
+          "path": "spine/ui/buy_coin_effect/buy_coin_effect.atlas",
+          "size": 89,
+          "fileName": "buy_coin_effect.atlas"
+        },
+        {
+          "path": "spine/ui/buy_coin_effect/buy_coin_effect.json",
+          "size": 943,
+          "fileName": "buy_coin_effect.json"
+        },
+        {
+          "path": "spine/ui/buy_coin_effect/buy_coin_effect.png",
+          "size": 1003,
+          "fileName": "buy_coin_effect.png"
+        }
+      ]
+    },
+    "spine/ui/fire_rope": {
+      "resourceCount": 3,
+      "totalSize": 29997,
+      "resources": [
+        {
+          "path": "spine/ui/fire_rope/fire_rope.atlas",
+          "size": 3511,
+          "fileName": "fire_rope.atlas"
+        },
+        {
+          "path": "spine/ui/fire_rope/fire_rope.json",
+          "size": 5534,
+          "fileName": "fire_rope.json"
+        },
+        {
+          "path": "spine/ui/fire_rope/fire_rope.png",
+          "size": 20952,
+          "fileName": "fire_rope.png"
+        }
+      ]
+    },
+    "spine/ui/fresh_card": {
+      "resourceCount": 3,
+      "totalSize": 94322,
+      "resources": [
+        {
+          "path": "spine/ui/fresh_card/dx_vfx_12.atlas",
+          "size": 2351,
+          "fileName": "dx_vfx_12.atlas"
+        },
+        {
+          "path": "spine/ui/fresh_card/dx_vfx_12.json",
+          "size": 3682,
+          "fileName": "dx_vfx_12.json"
+        },
+        {
+          "path": "spine/ui/fresh_card/dx_vfx_12.png",
+          "size": 88289,
+          "fileName": "dx_vfx_12.png"
+        }
+      ]
+    },
+    "spine/ui/gameEndResult": {
+      "resourceCount": 3,
+      "totalSize": 23356,
+      "resources": [
+        {
+          "path": "spine/ui/gameEndResult/gameEndResult.atlas",
+          "size": 399,
+          "fileName": "gameEndResult.atlas"
+        },
+        {
+          "path": "spine/ui/gameEndResult/gameEndResult.json",
+          "size": 1386,
+          "fileName": "gameEndResult.json"
+        },
+        {
+          "path": "spine/ui/gameEndResult/gameEndResult.png",
+          "size": 21571,
+          "fileName": "gameEndResult.png"
+        }
+      ]
+    },
+    "spine/ui/head_line_win_effect": {
+      "resourceCount": 3,
+      "totalSize": 20686,
+      "resources": [
+        {
+          "path": "spine/ui/head_line_win_effect/head_line_win_effect.atlas",
+          "size": 4056,
+          "fileName": "head_line_win_effect.atlas"
+        },
+        {
+          "path": "spine/ui/head_line_win_effect/head_line_win_effect.json",
+          "size": 800,
+          "fileName": "head_line_win_effect.json"
+        },
+        {
+          "path": "spine/ui/head_line_win_effect/head_line_win_effect.png",
+          "size": 15830,
+          "fileName": "head_line_win_effect.png"
+        }
+      ]
+    },
+    "spine/ui/head_sound_spine": {
+      "resourceCount": 3,
+      "totalSize": 1774,
+      "resources": [
+        {
+          "path": "spine/ui/head_sound_spine/vfx_01_sound.atlas",
+          "size": 169,
+          "fileName": "vfx_01_sound.atlas"
+        },
+        {
+          "path": "spine/ui/head_sound_spine/vfx_01_sound.json",
+          "size": 1127,
+          "fileName": "vfx_01_sound.json"
+        },
+        {
+          "path": "spine/ui/head_sound_spine/vfx_01_sound.png",
+          "size": 478,
+          "fileName": "vfx_01_sound.png"
+        }
+      ]
+    },
+    "spine/ui/head_win_effect": {
+      "resourceCount": 3,
+      "totalSize": 66932,
+      "resources": [
+        {
+          "path": "spine/ui/head_win_effect/head_win_effect.atlas",
+          "size": 2767,
+          "fileName": "head_win_effect.atlas"
+        },
+        {
+          "path": "spine/ui/head_win_effect/head_win_effect.json",
+          "size": 4554,
+          "fileName": "head_win_effect.json"
+        },
+        {
+          "path": "spine/ui/head_win_effect/head_win_effect.png",
+          "size": 59611,
+          "fileName": "head_win_effect.png"
+        }
+      ]
+    },
+    "spine/ui/load_work": {
+      "resourceCount": 3,
+      "totalSize": 10128,
+      "resources": [
+        {
+          "path": "spine/ui/load_work/load_work_anim.atlas",
+          "size": 1369,
+          "fileName": "load_work_anim.atlas"
+        },
+        {
+          "path": "spine/ui/load_work/load_work_anim.json",
+          "size": 620,
+          "fileName": "load_work_anim.json"
+        },
+        {
+          "path": "spine/ui/load_work/load_work_anim.png",
+          "size": 8139,
+          "fileName": "load_work_anim.png"
+        }
+      ]
+    },
+    "spine/ui/loading_loop": {
+      "resourceCount": 3,
+      "totalSize": 26967,
+      "resources": [
+        {
+          "path": "spine/ui/loading_loop/loading_loop.atlas",
+          "size": 3022,
+          "fileName": "loading_loop.atlas"
+        },
+        {
+          "path": "spine/ui/loading_loop/loading_loop.json",
+          "size": 1040,
+          "fileName": "loading_loop.json"
+        },
+        {
+          "path": "spine/ui/loading_loop/loading_loop.png",
+          "size": 22905,
+          "fileName": "loading_loop.png"
+        }
+      ]
+    },
+    "spine/ui/paifang_loading": {
+      "resourceCount": 3,
+      "totalSize": 22335,
+      "resources": [
+        {
+          "path": "spine/ui/paifang_loading/paifang_loding.atlas",
+          "size": 202,
+          "fileName": "paifang_loding.atlas"
+        },
+        {
+          "path": "spine/ui/paifang_loading/paifang_loding.json",
+          "size": 1628,
+          "fileName": "paifang_loding.json"
+        },
+        {
+          "path": "spine/ui/paifang_loading/paifang_loding.png",
+          "size": 20505,
+          "fileName": "paifang_loding.png"
+        }
+      ]
+    },
+    "spine/ui/red_package_gift": {
+      "resourceCount": 3,
+      "totalSize": 387689,
+      "resources": [
+        {
+          "path": "spine/ui/red_package_gift/MoneyGift.atlas",
+          "size": 2202,
+          "fileName": "MoneyGift.atlas"
+        },
+        {
+          "path": "spine/ui/red_package_gift/MoneyGift.json",
+          "size": 10360,
+          "fileName": "MoneyGift.json"
+        },
+        {
+          "path": "spine/ui/red_package_gift/MoneyGift.png",
+          "size": 375127,
+          "fileName": "MoneyGift.png"
+        }
+      ]
+    },
+    "spine/ui/youwintitle": {
+      "resourceCount": 3,
+      "totalSize": 31977,
+      "resources": [
+        {
+          "path": "spine/ui/youwintitle/youwintitle.atlas",
+          "size": 252,
+          "fileName": "youwintitle.atlas"
+        },
+        {
+          "path": "spine/ui/youwintitle/youwintitle.json",
+          "size": 13166,
+          "fileName": "youwintitle.json"
+        },
+        {
+          "path": "spine/ui/youwintitle/youwintitle.png",
+          "size": 18559,
+          "fileName": "youwintitle.png"
+        }
+      ]
+    },
+    "voice": {
+      "resourceCount": 15,
+      "totalSize": 14553,
+      "resources": [
+        {
+          "path": "voice/game_realTime_voice_on1.png",
+          "size": 1609,
+          "fileName": "game_realTime_voice_on1.png"
+        },
+        {
+          "path": "voice/game_realTime_voice_on2.png",
+          "size": 1447,
+          "fileName": "game_realTime_voice_on2.png"
+        },
+        {
+          "path": "voice/game_realTime_voice_on3.png",
+          "size": 1440,
+          "fileName": "game_realTime_voice_on3.png"
+        },
+        {
+          "path": "voice/game_realTime_voice_on4.png",
+          "size": 1360,
+          "fileName": "game_realTime_voice_on4.png"
+        },
+        {
+          "path": "voice/game_realTime_voice_on5.png",
+          "size": 1316,
+          "fileName": "game_realTime_voice_on5.png"
+        },
+        {
+          "path": "voice/game_realTime_voice_play_bg.png",
+          "size": 1372,
+          "fileName": "game_realTime_voice_play_bg.png"
+        },
+        {
+          "path": "voice/game_record_voice_ing.png",
+          "size": 223,
+          "fileName": "game_record_voice_ing.png"
+        },
+        {
+          "path": "voice/game_record_voice_stop.png",
+          "size": 227,
+          "fileName": "game_record_voice_stop.png"
+        },
+        {
+          "path": "voice/game_voice_disable.png",
+          "size": 659,
+          "fileName": "game_voice_disable.png"
+        },
+        {
+          "path": "voice/game_voice_mute.png",
+          "size": 1686,
+          "fileName": "game_voice_mute.png"
+        },
+        {
+          "path": "voice/game_voice_normal.png",
+          "size": 1253,
+          "fileName": "game_voice_normal.png"
+        },
+        {
+          "path": "voice/game_voice_play_img.png",
+          "size": 459,
+          "fileName": "game_voice_play_img.png"
+        },
+        {
+          "path": "voice/game_voice_press.png",
+          "size": 676,
+          "fileName": "game_voice_press.png"
+        },
+        {
+          "path": "voice/game_voice_record_bg.png",
+          "size": 624,
+          "fileName": "game_voice_record_bg.png"
+        },
+        {
+          "path": "voice/game_voice_waiting_bg.png",
+          "size": 202,
+          "fileName": "game_voice_waiting_bg.png"
+        }
+      ]
+    }
+  },
+  "fileStatistics": {
+    "totalSize": 12729874,
+    "averageSize": 14767
+  }
+}

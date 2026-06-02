@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4253469044
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d5ae39adc9355effd83a73a599da866
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a080c5e957a7258012b93e76c51b4603
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4d5ae39adc9355effd83a73a599da866
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0655d4c53a38aff4f8d97fdec32b5713, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Sprite
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/3DGame/public/Sources/Font/EmojiAssets/texturepacker-emoji-apple-64.asset
+Dependencies:
+- /Users/ec2-user/.jenkins/workspace/3D_Game_Flutter_Unity_Lib/3d_game_flutter_android/AssetBundles/Android/AndroidCompression/public/sources/font/emojiassets/texturepacker-emoji-apple-64.png

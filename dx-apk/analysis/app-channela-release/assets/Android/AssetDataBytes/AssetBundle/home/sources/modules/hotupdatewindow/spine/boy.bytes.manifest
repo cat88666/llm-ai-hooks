@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3018639918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17e47365a10e01b97f09b9a590d21148
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a7257142156f9c66a06bbc4d9da4ff6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 17e47365a10e01b97f09b9a590d21148
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials/ReplacementMaterial
+Assets:
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy_Material-Additive.mat
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy_Atlas.asset
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy.png
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy.atlas.txt
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy.json
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy_Material.mat
+- Assets/3DGame/home/Sources/Modules/HotUpdateWindow/Spine/Boy/loding_boy_SkeletonData.asset
+Dependencies: []

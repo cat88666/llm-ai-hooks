@@ -1,0 +1,35 @@
+{
+  "newFeats": [
+    {
+      "key": "NEW_FEAT_TABLE_STYLE_SETTING",
+      "desc": "牌桌风格设置",
+      "enable": true
+    },
+    {
+      "key": "NEW_FEAT_VPIP_COUNTRY_ICON_SHOW",
+      "desc": "入池率&国家图标显示",
+      "enable": true
+    },
+    {
+      "key": "NEW_FEAT_TABLE_POKER_BACK_SETTING",
+      "desc": "牌背风格设置",
+      "enable": true
+    },
+    {
+      "key": "NEW_FEAT_TABLE_POKER_FRONT_SETTING",
+      "desc": "牌面风格设置",
+      "enable": true
+    },
+    {
+      "key": "NEW_FEAT_VPIP_ICON_SHOW",
+      "desc": "VPIP图标显示",
+      "enable": true
+    },
+    {
+      "key": "NEW_FEAT_COUNTRY_ICON_SHOW",
+      "desc": "国家图标显示",
+      "enable": false
+    }
+  ]
+}
+

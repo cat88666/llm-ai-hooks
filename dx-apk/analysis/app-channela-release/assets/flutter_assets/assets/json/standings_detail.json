@@ -1,0 +1,103 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "tableId": 1,
+        "tableName": "科比的俱乐部",
+        "totalHandCount": "80",
+        "totalFlow": "539859",
+        "totalAllIn": "34399",
+        "maxBottomPool": "8000",
+        "day": "5月25日",
+        "startTime": "22:33",
+        "smallBlind": 100,
+        "bigBlind": 200,
+        "tableTime": 1,
+        "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg",
+        "members": [{
+            "uid": "793174910347",
+            "ranking": "第一名",
+            "name": "科比",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://tenfei05.cfp.cn/creative/vcg/veer/800/new/VCG41N864619006.jpg"
+        },{
+            "uid": "793174910344",
+            "name": "乔丹",
+            "ranking": "第二名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei01.cfp.cn/creative/vcg/800/new/VCG41N1209502987.jpg"
+        },{
+            "uid": "739147317401",
+            "name": "库里",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "983938048234",
+            "name": "杜兰特",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "437041037410",
+            "name": "吉姆巴特勒",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "75289479791",
+            "name": "罗斯",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "41739179347193",
+            "name": "威少",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "3794139479138",
+            "name": "浓眉",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "397413794173941",
+            "name": "詹姆斯",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "347193749141",
+            "name": "莫兰特",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "79371973947191",
+            "name": "字母哥",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        },{
+            "uid": "497173491034180341",
+            "name": "奥斯丁里弗斯",
+            "ranking": "第一名",
+            "allIn": "4000",
+            "nelAmount": "+4000",
+            "avatar" : "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg"
+        }]
+    }
+}

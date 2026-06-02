@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新增数据icon1" transform="translate(-390, -118)">
+            <g id="编组-16" transform="translate(390, 118)">
+                <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+                <g id="编组-12" transform="translate(2.7776, 1.3514)" stroke="#3B5078" stroke-width="2.7">
+                    <line x1="2.08425406" y1="15.9117548" x2="2.08425406" y2="27.7868309" id="路径-9"></line>
+                    <line x1="13.2367694" y1="18.5225722" x2="13.2367694" y2="27.7868309" id="路径-9备份"></line>
+                    <line x1="24.3892847" y1="9.25831338" x2="24.3892847" y2="27.7868309" id="路径-9备份-2"></line>
+                    <path d="M0,9.23035094 L6.59543963,4.09121443 L12.9912506,10.2024417 L25.9825012,0" id="路径-13"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,98 @@
+{
+	"strImgPath": "hunt_bmp",
+	"strImgName": "hunt_bmp_number.png",
+	"dSize": 30.0,
+	"dSpace": 2.0,
+	"data": {
+		"¥": {
+			"dLeft": 6.0,
+			"dTop": 3.0,
+			"dWidth": 17.0,
+			"dHeight": 24.0
+		},
+		"$": {
+			"dLeft": 35.0,
+			"dTop": 3.0,
+			"dWidth": 14.4,
+			"dHeight": 24.0
+		},
+		".": {
+			"dLeft": 66.8,
+			"dTop": 3.0,
+			"dWidth": 4.2,
+			"dHeight": 24.0
+		},
+		"1": {
+			"dLeft": 91.9,
+			"dTop": 3.0,
+			"dWidth": 7.2,
+			"dHeight": 24.0
+		},
+		"2": {
+			"dLeft": 116.0,
+			"dTop": 3.0,
+			"dWidth": 12.9,
+			"dHeight": 24.0
+		},
+		"3": {
+			"dLeft": 143.0,
+			"dTop": 3.0,
+			"dWidth": 13.0,
+			"dHeight": 24.0
+		},
+		"4": {
+			"dLeft": 170.0,
+			"dTop": 3.0,
+			"dWidth": 14.1,
+			"dHeight": 24.0
+		},
+		"5": {
+			"dLeft": 198.1,
+			"dTop": 3.0,
+			"dWidth": 13.1,
+			"dHeight": 24.0
+		},
+		"6": {
+			"dLeft": 224.0,
+			"dTop": 3.0,
+			"dWidth": 14.2,
+			"dHeight": 24.0
+		},
+		"7": {
+			"dLeft": 251.0,
+			"dTop": 3.0,
+			"dWidth": 13.0,
+			"dHeight": 24.0
+		},
+		"8": {
+			"dLeft": 278.0,
+			"dTop": 3.0,
+			"dWidth": 14.3,
+			"dHeight": 24.0
+		},
+		"9": {
+			"dLeft": 305.0,
+			"dTop": 3.0,
+			"dWidth": 14.2,
+			"dHeight": 24.0
+		},
+		"0": {
+			"dLeft": 332.0,
+			"dTop": 3.0,
+			"dWidth": 14.0,
+			"dHeight": 24.0
+		},
+		"+": {
+			"dLeft": 360.0,
+			"dTop": 3.0,
+			"dWidth": 12.1,
+			"dHeight": 24.0
+		},
+		"K": {
+			"dLeft": 387.0,
+			"dTop": 3.0,
+			"dWidth": 14.2,
+			"dHeight": 24.0
+		}
+	}
+}

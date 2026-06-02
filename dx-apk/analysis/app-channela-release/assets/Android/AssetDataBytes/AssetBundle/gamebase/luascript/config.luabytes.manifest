@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3288044545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c36d6f44d440c25a3da67ea35a51931
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c36d6f44d440c25a3da67ea35a51931
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/config/http_config.txt
+- Assets/Temp/gamebase/luascript/config/websocket_config.txt
+Dependencies: []

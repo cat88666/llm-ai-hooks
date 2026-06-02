@@ -1,0 +1,50 @@
+{
+  "currentUserBetInfo": {
+    "betRound": 1,
+    "tableId": 90327,
+    "userId": 885098325996552269,
+    "chairId": 1,
+    "minRaiseScore": 2000.0,
+    "maxRaiseScore": 4500.0,
+    "callScore": 500.0,
+    "needCallScore": 1500.0,
+    "callTotalScore": 500.0,
+    "chipScore": 4500.0,
+    "scaleValue": 209,
+    "quickBetTip": {
+      "betOptions": [
+        {
+          "totalScore": 2000.0,
+          "desc": "1/3"
+        },
+        {
+          "totalScore": 3000.0,
+          "desc": "1/2"
+        },
+        {
+          "totalScore": 5000.0,
+          "desc": "1"
+        }
+      ],
+      "optionType": 2
+    },
+    "betStatus": [
+      6,
+      9,
+      7
+    ],
+    "betTotalTime": 300,
+    "betStartTime": 1689055245623,
+    "serverTime": 1689055245623
+  },
+  "preUserBetInfo": {
+    "tableId": 90327,
+    "userId": 885097973461106745,
+    "chairId": 2,
+    "betStatus": 5,
+    "callScore": 1000.0,
+    "callTotalScore": 1000.0,
+    "chipScore": 4000.0,
+    "isDefaultShow": false
+  }
+}

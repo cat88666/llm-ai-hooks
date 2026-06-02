@@ -1,0 +1,138 @@
+{
+  "tableId": 1710672,
+  "betRound": 3,
+  "summerDtoList": [
+    {
+      "userId": 880428053883285579,
+      "serverTime": 1708682639910,
+      "insureTotalTime": 30000,
+      "insureStartTime": 1708682639909,
+      "lowInsureLimitFlag": false,
+      "delayTime": 5,
+      "singleTableAvailableTimes": 9,
+      "singleActionAvailableTimes": 2,
+      "isDelay": false
+    }
+  ],
+  "insureDetailDtoList": [
+    {
+      "betRound": 3,
+      "userId": 880428053883285579,
+      "nickName": "DXgame1",
+      "potNo": 0,
+      "potAmount": 2000.0,
+      "potUidList": [
+        880428053883285579
+      ],
+      "isBackup": false,
+      "minInsureAmount": 20.0,
+      "maxInsureAmount": 250.0,
+      "upLimitAmount": 250.0,
+      "allInclusiveAmount": 625.0,
+      "fullPool": 1250.0,
+      "outsCounts": 14,
+      "odds": 1.6,
+      "insureStatus": 1,
+      "insureType": 1,
+      "insureTitle": "购买保险",
+      "publicCardList": [
+        {
+          "cardNum": 23,
+          "showStatus": 2,
+          "manipulateStatus": 0
+        },
+        {
+          "cardNum": 36,
+          "showStatus": 2,
+          "manipulateStatus": 0
+        },
+        {
+          "cardNum": 41,
+          "showStatus": 2,
+          "manipulateStatus": 0
+        }
+      ],
+      "outsCards": [
+        0,
+        1,
+        2,
+        3,
+        32,
+        33,
+        34,
+        35,
+        44,
+        45,
+        47,
+        48,
+        50,
+        51
+      ]
+    },
+    {
+      "betRound": 3,
+      "userId": 880428053883285579,
+      "nickName": "DXgame1",
+      "potNo": 0,
+      "potAmount": 2000.0,
+      "potUidList": [
+        880428053883285579
+      ],
+      "isBackup": false,
+      "minInsureAmount": 20.0,
+      "maxInsureAmount": 250.0,
+      "upLimitAmount": 250.0,
+      "allInclusiveAmount": 625.0,
+      "fullPool": 1250.0,
+      "outsCounts": 14,
+      "odds": 1.6,
+      "insureStatus": 1,
+      "insureTitle": "购买保险",
+      "publicCardList": [
+        {
+          "cardNum": 23,
+          "showStatus": 2,
+          "manipulateStatus": 0
+        },
+        {
+          "cardNum": 36,
+          "showStatus": 2,
+          "manipulateStatus": 0
+        },
+        {
+          "cardNum": 41,
+          "showStatus": 2,
+          "manipulateStatus": 0
+        }
+      ],
+      "outsCards": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "insureUserDtoList": [
+    {
+      "nickName": null,
+      "userId": 880428053883285579,
+      "handCardList": [
+        {
+          "cardNum": 28,
+          "showStatus": 2,
+          "showDownTime": 0,
+          "manipulateStatus": 0
+        },
+        {
+          "cardNum": 20,
+          "showStatus": 2,
+          "showDownTime": 0,
+          "manipulateStatus": 0
+        }
+      ]
+    }
+  ],
+  "showInsureMode": true,
+  "allinCounts": 1
+}

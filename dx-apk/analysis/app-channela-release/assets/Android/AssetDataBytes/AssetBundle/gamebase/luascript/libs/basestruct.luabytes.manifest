@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 135401722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3feeb5d2501d053d0faf79228f72dec9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3feeb5d2501d053d0faf79228f72dec9
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/libs/basestruct/stack.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/vector.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/map.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/tuple.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/queue.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/list.txt
+- Assets/Temp/gamebase/luascript/libs/basestruct/vector2.txt
+Dependencies: []

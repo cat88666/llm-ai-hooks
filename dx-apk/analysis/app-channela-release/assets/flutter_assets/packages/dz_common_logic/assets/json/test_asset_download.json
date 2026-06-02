@@ -1,0 +1,26 @@
+{
+  "data" : [{
+    "type": 1,
+    "version": "1.0.0",
+    "sequenceMd5": "123",
+    "size": 10,
+    "path":"https://upload.wikimedia.org/wikipedia/commons/b/b2",
+    "fileName": "Sand_Dunes_in_Death_Valley_National_Park.jpg" 
+  },
+  {
+    "type": 3,
+    "version": "1.0.0",
+    "sequenceMd5": "123",
+    "size": 10,
+    "path":"https://www.hengrui-power.com/download/dodw-17.html",
+    "fileName": ""
+  },
+  {
+    "type": 2,
+    "version": "1.0.0",
+    "sequenceMd5": "123",
+    "size": 10,
+    "path":"https://picsum.photos/id/237/1920/1080",
+    "fileName": ""
+  }]
+}

@@ -1,0 +1,1439 @@
+{
+  "metadata": {
+    "package": "dz_game_fj13",
+    "version": "1.0.0",
+    "generated": "2026-05-23T12:05:04.785296",
+    "totalResources": 268,
+    "totalCategories": 14
+  },
+  "categories": {
+    "fj13poker": {
+      "resourceCount": 5,
+      "totalSize": 31745,
+      "resources": [
+        {
+          "path": "fj13poker/action_loading.png",
+          "size": 661,
+          "fileName": "action_loading.png"
+        },
+        {
+          "path": "fj13poker/chip.png",
+          "size": 1415,
+          "fileName": "chip.png"
+        },
+        {
+          "path": "fj13poker/qld_tip_mask.png",
+          "size": 519,
+          "fileName": "qld_tip_mask.png"
+        },
+        {
+          "path": "fj13poker/quanleida.png",
+          "size": 909,
+          "fileName": "quanleida.png"
+        },
+        {
+          "path": "fj13poker/special_tip.png",
+          "size": 28241,
+          "fileName": "special_tip.png"
+        }
+      ]
+    },
+    "fj13poker/audio": {
+      "resourceCount": 23,
+      "totalSize": 526739,
+      "resources": [
+        {
+          "path": "fj13poker/audio/bullet_boom.mp3",
+          "size": 29193,
+          "fileName": "bullet_boom.mp3"
+        },
+        {
+          "path": "fj13poker/audio/bullet_fast_boom.mp3",
+          "size": 32022,
+          "fileName": "bullet_fast_boom.mp3"
+        },
+        {
+          "path": "fj13poker/audio/click.mp3",
+          "size": 1303,
+          "fileName": "click.mp3"
+        },
+        {
+          "path": "fj13poker/audio/deal_card3.mp3",
+          "size": 3448,
+          "fileName": "deal_card3.mp3"
+        },
+        {
+          "path": "fj13poker/audio/dz_chips_move.mp3",
+          "size": 42884,
+          "fileName": "dz_chips_move.mp3"
+        },
+        {
+          "path": "fj13poker/audio/dz_op_my_turn.mp3",
+          "size": 21603,
+          "fileName": "dz_op_my_turn.mp3"
+        },
+        {
+          "path": "fj13poker/audio/dz_room_I_win.mp3",
+          "size": 28460,
+          "fileName": "dz_room_I_win.mp3"
+        },
+        {
+          "path": "fj13poker/audio/dz_send_community.mp3",
+          "size": 11015,
+          "fileName": "dz_send_community.mp3"
+        },
+        {
+          "path": "fj13poker/audio/dz_show_handcard.mp3",
+          "size": 10028,
+          "fileName": "dz_show_handcard.mp3"
+        },
+        {
+          "path": "fj13poker/audio/dz_shuff_card.mp3",
+          "size": 27838,
+          "fileName": "dz_shuff_card.mp3"
+        },
+        {
+          "path": "fj13poker/audio/fapai.mp3",
+          "size": 8451,
+          "fileName": "fapai.mp3"
+        },
+        {
+          "path": "fj13poker/audio/homerun.mp3",
+          "size": 20448,
+          "fileName": "homerun.mp3"
+        },
+        {
+          "path": "fj13poker/audio/scores.wav",
+          "size": 31628,
+          "fileName": "scores.wav"
+        },
+        {
+          "path": "fj13poker/audio/shang_tang.mp3",
+          "size": 34726,
+          "fileName": "shang_tang.mp3"
+        },
+        {
+          "path": "fj13poker/audio/sound_gold.mp3",
+          "size": 14904,
+          "fileName": "sound_gold.mp3"
+        },
+        {
+          "path": "fj13poker/audio/specialbg.mp3",
+          "size": 15264,
+          "fileName": "specialbg.mp3"
+        },
+        {
+          "path": "fj13poker/audio/startgame.mp3",
+          "size": 10152,
+          "fileName": "startgame.mp3"
+        },
+        {
+          "path": "fj13poker/audio/switch.mp3",
+          "size": 4647,
+          "fileName": "switch.mp3"
+        },
+        {
+          "path": "fj13poker/audio/turn_to_myself_operate.mp3",
+          "size": 25754,
+          "fileName": "turn_to_myself_operate.mp3"
+        },
+        {
+          "path": "fj13poker/audio/turn_to_myself_operate_en.mp3",
+          "size": 72774,
+          "fileName": "turn_to_myself_operate_en.mp3"
+        },
+        {
+          "path": "fj13poker/audio/turn_to_myself_operate_ja.mp3",
+          "size": 21728,
+          "fileName": "turn_to_myself_operate_ja.mp3"
+        },
+        {
+          "path": "fj13poker/audio/turn_to_myself_operate_ko.mp3",
+          "size": 29669,
+          "fileName": "turn_to_myself_operate_ko.mp3"
+        },
+        {
+          "path": "fj13poker/audio/turn_to_myself_operate_vi.mp3",
+          "size": 28800,
+          "fileName": "turn_to_myself_operate_vi.mp3"
+        }
+      ]
+    },
+    "fj13poker/audio/man": {
+      "resourceCount": 30,
+      "totalSize": 173321,
+      "resources": [
+        {
+          "path": "fj13poker/audio/man/da_qiang.mp3",
+          "size": 3771,
+          "fileName": "da_qiang.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_1.mp3",
+          "size": 4869,
+          "fileName": "normal_1.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_10.mp3",
+          "size": 8944,
+          "fileName": "normal_10.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_11.mp3",
+          "size": 5182,
+          "fileName": "normal_11.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_2.mp3",
+          "size": 4242,
+          "fileName": "normal_2.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_3.mp3",
+          "size": 5339,
+          "fileName": "normal_3.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_4_first.mp3",
+          "size": 4398,
+          "fileName": "normal_4_first.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_4_last.mp3",
+          "size": 5652,
+          "fileName": "normal_4_last.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_4_middle.mp3",
+          "size": 5652,
+          "fileName": "normal_4_middle.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_5Joker.mp3",
+          "size": 3465,
+          "fileName": "normal_5Joker.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_6.mp3",
+          "size": 4712,
+          "fileName": "normal_6.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_7.mp3",
+          "size": 4712,
+          "fileName": "normal_7.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_8_last.mp3",
+          "size": 4085,
+          "fileName": "normal_8_last.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_8_middle.mp3",
+          "size": 7376,
+          "fileName": "normal_8_middle.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_9.mp3",
+          "size": 7220,
+          "fileName": "normal_9.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_eight.mp3",
+          "size": 4928,
+          "fileName": "normal_eight.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_first_2Joker.mp3",
+          "size": 4719,
+          "fileName": "normal_first_2Joker.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_first_3Joker.mp3",
+          "size": 4092,
+          "fileName": "normal_first_3Joker.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_seven.mp3",
+          "size": 4824,
+          "fileName": "normal_seven.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/normal_six.mp3",
+          "size": 4197,
+          "fileName": "normal_six.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/quanleida.mp3",
+          "size": 7690,
+          "fileName": "quanleida.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_1.mp3",
+          "size": 8317,
+          "fileName": "special_1.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_10.mp3",
+          "size": 4398,
+          "fileName": "special_10.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_2.mp3",
+          "size": 7690,
+          "fileName": "special_2.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_3.mp3",
+          "size": 5652,
+          "fileName": "special_3.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_4.mp3",
+          "size": 6279,
+          "fileName": "special_4.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_5.mp3",
+          "size": 6906,
+          "fileName": "special_5.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_6.mp3",
+          "size": 9571,
+          "fileName": "special_6.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_8.mp3",
+          "size": 7376,
+          "fileName": "special_8.mp3"
+        },
+        {
+          "path": "fj13poker/audio/man/special_9.mp3",
+          "size": 7063,
+          "fileName": "special_9.mp3"
+        }
+      ]
+    },
+    "fj13poker/audio/woman": {
+      "resourceCount": 30,
+      "totalSize": 186567,
+      "resources": [
+        {
+          "path": "fj13poker/audio/woman/da_qiang.mp3",
+          "size": 4388,
+          "fileName": "da_qiang.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_1.mp3",
+          "size": 5015,
+          "fileName": "normal_1.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_10.mp3",
+          "size": 7993,
+          "fileName": "normal_10.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_11.mp3",
+          "size": 5182,
+          "fileName": "normal_11.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_2.mp3",
+          "size": 5329,
+          "fileName": "normal_2.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_3.mp3",
+          "size": 5485,
+          "fileName": "normal_3.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_4_first.mp3",
+          "size": 4545,
+          "fileName": "normal_4_first.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_4_last.mp3",
+          "size": 6269,
+          "fileName": "normal_4_last.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_4_middle.mp3",
+          "size": 6269,
+          "fileName": "normal_4_middle.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_5Joker.mp3",
+          "size": 3570,
+          "fileName": "normal_5Joker.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_6.mp3",
+          "size": 5799,
+          "fileName": "normal_6.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_7.mp3",
+          "size": 5329,
+          "fileName": "normal_7.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_8_last.mp3",
+          "size": 5956,
+          "fileName": "normal_8_last.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_8_middle.mp3",
+          "size": 6896,
+          "fileName": "normal_8_middle.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_9.mp3",
+          "size": 5329,
+          "fileName": "normal_9.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_eight.mp3",
+          "size": 5346,
+          "fileName": "normal_eight.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_first_2Joker.mp3",
+          "size": 5659,
+          "fileName": "normal_first_2Joker.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_first_3Joker.mp3",
+          "size": 5659,
+          "fileName": "normal_first_3Joker.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_seven.mp3",
+          "size": 4719,
+          "fileName": "normal_seven.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/normal_six.mp3",
+          "size": 5346,
+          "fileName": "normal_six.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/quanleida.mp3",
+          "size": 7053,
+          "fileName": "quanleida.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_1.mp3",
+          "size": 8463,
+          "fileName": "special_1.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_10.mp3",
+          "size": 4859,
+          "fileName": "special_10.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_2.mp3",
+          "size": 8150,
+          "fileName": "special_2.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_3.mp3",
+          "size": 7053,
+          "fileName": "special_3.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_4.mp3",
+          "size": 5642,
+          "fileName": "special_4.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_5.mp3",
+          "size": 7836,
+          "fileName": "special_5.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_6.mp3",
+          "size": 10501,
+          "fileName": "special_6.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_8.mp3",
+          "size": 10344,
+          "fileName": "special_8.mp3"
+        },
+        {
+          "path": "fj13poker/audio/woman/special_9.mp3",
+          "size": 6583,
+          "fileName": "special_9.mp3"
+        }
+      ]
+    },
+    "fj13poker/betstatus": {
+      "resourceCount": 1,
+      "totalSize": 931,
+      "resources": [
+        {
+          "path": "fj13poker/betstatus/game_player_operation_delay.png",
+          "size": 931,
+          "fileName": "game_player_operation_delay.png"
+        }
+      ]
+    },
+    "fj13poker/bmpfont": {
+      "resourceCount": 4,
+      "totalSize": 18136,
+      "resources": [
+        {
+          "path": "fj13poker/bmpfont/13shui_lose.png",
+          "size": 8591,
+          "fileName": "13shui_lose.png"
+        },
+        {
+          "path": "fj13poker/bmpfont/13shui_win.png",
+          "size": 7848,
+          "fileName": "13shui_win.png"
+        },
+        {
+          "path": "fj13poker/bmpfont/bmpfont_fj13_score_lose.json",
+          "size": 849,
+          "fileName": "bmpfont_fj13_score_lose.json"
+        },
+        {
+          "path": "fj13poker/bmpfont/bmpfont_fj13_score_win.json",
+          "size": 848,
+          "fileName": "bmpfont_fj13_score_win.json"
+        }
+      ]
+    },
+    "fj13poker/cardtype": {
+      "resourceCount": 32,
+      "totalSize": 111025,
+      "resources": [
+        {
+          "path": "fj13poker/cardtype/e_mark_icon.png",
+          "size": 1088,
+          "fileName": "e_mark_icon.png"
+        },
+        {
+          "path": "fj13poker/cardtype/game_fj13_special_card_type_bg.png",
+          "size": 3550,
+          "fileName": "game_fj13_special_card_type_bg.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_1.png",
+          "size": 3055,
+          "fileName": "normal_1.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_10.png",
+          "size": 3351,
+          "fileName": "normal_10.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_11.png",
+          "size": 4542,
+          "fileName": "normal_11.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_12.png",
+          "size": 2466,
+          "fileName": "normal_12.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_13.png",
+          "size": 2858,
+          "fileName": "normal_13.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_2_first.png",
+          "size": 2925,
+          "fileName": "normal_2_first.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_2_last.png",
+          "size": 2929,
+          "fileName": "normal_2_last.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_2_middle.png",
+          "size": 2929,
+          "fileName": "normal_2_middle.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_3.png",
+          "size": 3069,
+          "fileName": "normal_3.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_4_first.png",
+          "size": 2485,
+          "fileName": "normal_4_first.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_4_last.png",
+          "size": 2344,
+          "fileName": "normal_4_last.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_4_middle.png",
+          "size": 2447,
+          "fileName": "normal_4_middle.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_5.png",
+          "size": 3278,
+          "fileName": "normal_5.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_6.png",
+          "size": 2305,
+          "fileName": "normal_6.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_7.png",
+          "size": 3101,
+          "fileName": "normal_7.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_8.png",
+          "size": 3166,
+          "fileName": "normal_8.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_9_last.png",
+          "size": 2938,
+          "fileName": "normal_9_last.png"
+        },
+        {
+          "path": "fj13poker/cardtype/normal_9_middle.png",
+          "size": 2882,
+          "fileName": "normal_9_middle.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_1.png",
+          "size": 4881,
+          "fileName": "special_1.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_10.png",
+          "size": 7666,
+          "fileName": "special_10.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_11.png",
+          "size": 3569,
+          "fileName": "special_11.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_12.png",
+          "size": 3332,
+          "fileName": "special_12.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_13.png",
+          "size": 3860,
+          "fileName": "special_13.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_2.png",
+          "size": 4645,
+          "fileName": "special_2.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_3.png",
+          "size": 3809,
+          "fileName": "special_3.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_4.png",
+          "size": 4408,
+          "fileName": "special_4.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_5.png",
+          "size": 3611,
+          "fileName": "special_5.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_6.png",
+          "size": 5344,
+          "fileName": "special_6.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_8.png",
+          "size": 4547,
+          "fileName": "special_8.png"
+        },
+        {
+          "path": "fj13poker/cardtype/special_9.png",
+          "size": 3645,
+          "fileName": "special_9.png"
+        }
+      ]
+    },
+    "fj13poker/common": {
+      "resourceCount": 2,
+      "totalSize": 1535,
+      "resources": [
+        {
+          "path": "fj13poker/common/fj13_cards_shadow_long.png",
+          "size": 796,
+          "fileName": "fj13_cards_shadow_long.png"
+        },
+        {
+          "path": "fj13poker/common/fj13_cards_shadow_short.png",
+          "size": 739,
+          "fileName": "fj13_cards_shadow_short.png"
+        }
+      ]
+    },
+    "fj13poker/poker": {
+      "resourceCount": 23,
+      "totalSize": 13649,
+      "resources": [
+        {
+          "path": "fj13poker/poker/10.png",
+          "size": 535,
+          "fileName": "10.png"
+        },
+        {
+          "path": "fj13poker/poker/2.png",
+          "size": 428,
+          "fileName": "2.png"
+        },
+        {
+          "path": "fj13poker/poker/3.png",
+          "size": 471,
+          "fileName": "3.png"
+        },
+        {
+          "path": "fj13poker/poker/4.png",
+          "size": 330,
+          "fileName": "4.png"
+        },
+        {
+          "path": "fj13poker/poker/5.png",
+          "size": 434,
+          "fileName": "5.png"
+        },
+        {
+          "path": "fj13poker/poker/6.png",
+          "size": 491,
+          "fileName": "6.png"
+        },
+        {
+          "path": "fj13poker/poker/7.png",
+          "size": 322,
+          "fileName": "7.png"
+        },
+        {
+          "path": "fj13poker/poker/8.png",
+          "size": 500,
+          "fileName": "8.png"
+        },
+        {
+          "path": "fj13poker/poker/9.png",
+          "size": 490,
+          "fileName": "9.png"
+        },
+        {
+          "path": "fj13poker/poker/a.png",
+          "size": 450,
+          "fileName": "a.png"
+        },
+        {
+          "path": "fj13poker/poker/background.png",
+          "size": 284,
+          "fileName": "background.png"
+        },
+        {
+          "path": "fj13poker/poker/card_test_tag.png",
+          "size": 1296,
+          "fileName": "card_test_tag.png"
+        },
+        {
+          "path": "fj13poker/poker/club.png",
+          "size": 398,
+          "fileName": "club.png"
+        },
+        {
+          "path": "fj13poker/poker/create_slider_chip.png",
+          "size": 3276,
+          "fileName": "create_slider_chip.png"
+        },
+        {
+          "path": "fj13poker/poker/diamond.png",
+          "size": 326,
+          "fileName": "diamond.png"
+        },
+        {
+          "path": "fj13poker/poker/heart.png",
+          "size": 384,
+          "fileName": "heart.png"
+        },
+        {
+          "path": "fj13poker/poker/j.png",
+          "size": 314,
+          "fileName": "j.png"
+        },
+        {
+          "path": "fj13poker/poker/joker.png",
+          "size": 640,
+          "fileName": "joker.png"
+        },
+        {
+          "path": "fj13poker/poker/k.png",
+          "size": 394,
+          "fileName": "k.png"
+        },
+        {
+          "path": "fj13poker/poker/king.png",
+          "size": 246,
+          "fileName": "king.png"
+        },
+        {
+          "path": "fj13poker/poker/multi_slider.png",
+          "size": 660,
+          "fileName": "multi_slider.png"
+        },
+        {
+          "path": "fj13poker/poker/q.png",
+          "size": 565,
+          "fileName": "q.png"
+        },
+        {
+          "path": "fj13poker/poker/spade.png",
+          "size": 415,
+          "fileName": "spade.png"
+        }
+      ]
+    },
+    "fj13poker/review": {
+      "resourceCount": 14,
+      "totalSize": 76115,
+      "resources": [
+        {
+          "path": "fj13poker/review/game_record_error.png",
+          "size": 54570,
+          "fileName": "game_record_error.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_next.png",
+          "size": 905,
+          "fileName": "game_records_btn_next.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_next_off.png",
+          "size": 665,
+          "fileName": "game_records_btn_next_off.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_pre.png",
+          "size": 914,
+          "fileName": "game_records_btn_pre.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_pre_off.png",
+          "size": 663,
+          "fileName": "game_records_btn_pre_off.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_quick_end.png",
+          "size": 1010,
+          "fileName": "game_records_btn_quick_end.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_quick_end_off.png",
+          "size": 728,
+          "fileName": "game_records_btn_quick_end_off.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_quick_first.png",
+          "size": 952,
+          "fileName": "game_records_btn_quick_first.png"
+        },
+        {
+          "path": "fj13poker/review/game_records_btn_quick_first_off.png",
+          "size": 719,
+          "fileName": "game_records_btn_quick_first_off.png"
+        },
+        {
+          "path": "fj13poker/review/homerun_btn.png",
+          "size": 438,
+          "fileName": "homerun_btn.png"
+        },
+        {
+          "path": "fj13poker/review/homerun_tips_bg.png",
+          "size": 526,
+          "fileName": "homerun_tips_bg.png"
+        },
+        {
+          "path": "fj13poker/review/horse_mask.png",
+          "size": 2785,
+          "fileName": "horse_mask.png"
+        },
+        {
+          "path": "fj13poker/review/qld_tip_mask.png",
+          "size": 519,
+          "fileName": "qld_tip_mask.png"
+        },
+        {
+          "path": "fj13poker/review/round_exception.png",
+          "size": 10721,
+          "fileName": "round_exception.png"
+        }
+      ]
+    },
+    "fj13poker/sort": {
+      "resourceCount": 50,
+      "totalSize": 516090,
+      "resources": [
+        {
+          "path": "fj13poker/sort/auto_manual_bg_btn.png",
+          "size": 3036,
+          "fileName": "auto_manual_bg_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/auto_type_border_light.png",
+          "size": 1828,
+          "fileName": "auto_type_border_light.png"
+        },
+        {
+          "path": "fj13poker/sort/auto_type_special_bg.png",
+          "size": 45576,
+          "fileName": "auto_type_special_bg.png"
+        },
+        {
+          "path": "fj13poker/sort/bafanglaicai_btn.png",
+          "size": 4171,
+          "fileName": "bafanglaicai_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/bafanglaicai_seal_icon.png",
+          "size": 13403,
+          "fileName": "bafanglaicai_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/btn_close_panel.png",
+          "size": 353,
+          "fileName": "btn_close_panel.png"
+        },
+        {
+          "path": "fj13poker/sort/btn_open_panel.png",
+          "size": 332,
+          "fileName": "btn_open_panel.png"
+        },
+        {
+          "path": "fj13poker/sort/card_special_seal_bg.png",
+          "size": 126144,
+          "fileName": "card_special_seal_bg.png"
+        },
+        {
+          "path": "fj13poker/sort/confirm_bg.png",
+          "size": 30131,
+          "fileName": "confirm_bg.png"
+        },
+        {
+          "path": "fj13poker/sort/delay_time.png",
+          "size": 12219,
+          "fileName": "delay_time.png"
+        },
+        {
+          "path": "fj13poker/sort/duizi_btn.png",
+          "size": 2659,
+          "fileName": "duizi_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/exchange_icon.png",
+          "size": 2312,
+          "fileName": "exchange_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/gaopai_btn.png",
+          "size": 2807,
+          "fileName": "gaopai_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/hulu_btn.png",
+          "size": 2742,
+          "fileName": "hulu_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/left_corner.png",
+          "size": 1465,
+          "fileName": "left_corner.png"
+        },
+        {
+          "path": "fj13poker/sort/liangdui_btn.png",
+          "size": 2931,
+          "fileName": "liangdui_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/liuduiban_btn.png",
+          "size": 4480,
+          "fileName": "liuduiban_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/liuduiban_seal_icon.png",
+          "size": 10005,
+          "fileName": "liuduiban_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/liuliudashun_btn.png",
+          "size": 3801,
+          "fileName": "liuliudashun_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/liuliudashun_seal_icon.png",
+          "size": 12120,
+          "fileName": "liuliudashun_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/poker_back_pos.png",
+          "size": 2213,
+          "fileName": "poker_back_pos.png"
+        },
+        {
+          "path": "fj13poker/sort/qinglong_btn.png",
+          "size": 10427,
+          "fileName": "qinglong_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/qinglong_seal_icon.png",
+          "size": 19373,
+          "fileName": "qinglong_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/qixinggaozhao_btn.png",
+          "size": 3874,
+          "fileName": "qixinggaozhao_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/qixinggaozhao_seal_icon.png",
+          "size": 12861,
+          "fileName": "qixinggaozhao_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/sanfentianxia_btn.png",
+          "size": 3779,
+          "fileName": "sanfentianxia_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/sanfentianxia_seal_icon.png",
+          "size": 11421,
+          "fileName": "sanfentianxia_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/sangui_btn.png",
+          "size": 2416,
+          "fileName": "sangui_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/sanshunzi_btn.png",
+          "size": 3975,
+          "fileName": "sanshunzi_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/sanshunzi_seal_icon.png",
+          "size": 8654,
+          "fileName": "sanshunzi_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/santiao_btn.png",
+          "size": 2334,
+          "fileName": "santiao_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/santonghua_btn.png",
+          "size": 3837,
+          "fileName": "santonghua_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/santonghua_seal_icon.png",
+          "size": 9462,
+          "fileName": "santonghua_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/santonghuashun_btn.png",
+          "size": 3923,
+          "fileName": "santonghuashun_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/santonghuashun_seal_icon.png",
+          "size": 12939,
+          "fileName": "santonghuashun_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/shuanggui_btn.png",
+          "size": 2881,
+          "fileName": "shuanggui_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/shunzi_btn.png",
+          "size": 2917,
+          "fileName": "shunzi_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/sitaosantiao_btn.png",
+          "size": 3714,
+          "fileName": "sitaosantiao_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/sitaosantiao_seal_icon.png",
+          "size": 11948,
+          "fileName": "sitaosantiao_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/special_handcard_bg.png",
+          "size": 15541,
+          "fileName": "special_handcard_bg.png"
+        },
+        {
+          "path": "fj13poker/sort/tiezhi_btn.png",
+          "size": 2883,
+          "fileName": "tiezhi_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/title_bg.png",
+          "size": 42178,
+          "fileName": "title_bg.png"
+        },
+        {
+          "path": "fj13poker/sort/tonghua_btn.png",
+          "size": 2965,
+          "fileName": "tonghua_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/tonghuashun_btn.png",
+          "size": 3598,
+          "fileName": "tonghuashun_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/wuduisantiao_seal_icon.png",
+          "size": 12241,
+          "fileName": "wuduisantiao_seal_icon.png"
+        },
+        {
+          "path": "fj13poker/sort/wugui_btn.png",
+          "size": 2684,
+          "fileName": "wugui_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/wutiaosandui_btn.png",
+          "size": 3780,
+          "fileName": "wutiaosandui_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/wutong_btn.png",
+          "size": 2503,
+          "fileName": "wutong_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/yitiaolong_btn.png",
+          "size": 3868,
+          "fileName": "yitiaolong_btn.png"
+        },
+        {
+          "path": "fj13poker/sort/yitiaolong_seal_icon.png",
+          "size": 8386,
+          "fileName": "yitiaolong_seal_icon.png"
+        }
+      ]
+    },
+    "fj13poker/spine": {
+      "resourceCount": 16,
+      "totalSize": 2431371,
+      "resources": [
+        {
+          "path": "fj13poker/spine/fastShooting_new.atlas",
+          "size": 1435,
+          "fileName": "fastShooting_new.atlas"
+        },
+        {
+          "path": "fj13poker/spine/fastShooting_new.json",
+          "size": 2495,
+          "fileName": "fastShooting_new.json"
+        },
+        {
+          "path": "fj13poker/spine/fastShooting_new.png",
+          "size": 478765,
+          "fileName": "fastShooting_new.png"
+        },
+        {
+          "path": "fj13poker/spine/load_work_animV2.atlas",
+          "size": 1279,
+          "fileName": "load_work_animV2.atlas"
+        },
+        {
+          "path": "fj13poker/spine/load_work_animV2.json",
+          "size": 571,
+          "fileName": "load_work_animV2.json"
+        },
+        {
+          "path": "fj13poker/spine/load_work_animV2.png",
+          "size": 7442,
+          "fileName": "load_work_animV2.png"
+        },
+        {
+          "path": "fj13poker/spine/shoot.atlas",
+          "size": 2287,
+          "fileName": "shoot.atlas"
+        },
+        {
+          "path": "fj13poker/spine/shoot.json",
+          "size": 7450,
+          "fileName": "shoot.json"
+        },
+        {
+          "path": "fj13poker/spine/shoot.png",
+          "size": 216709,
+          "fileName": "shoot.png"
+        },
+        {
+          "path": "fj13poker/spine/spine_effect_config.json",
+          "size": 6679,
+          "fileName": "spine_effect_config.json"
+        },
+        {
+          "path": "fj13poker/spine/startGame_new.atlas",
+          "size": 410,
+          "fileName": "startGame_new.atlas"
+        },
+        {
+          "path": "fj13poker/spine/startGame_new.json",
+          "size": 8471,
+          "fileName": "startGame_new.json"
+        },
+        {
+          "path": "fj13poker/spine/startGame_new.png",
+          "size": 1150933,
+          "fileName": "startGame_new.png"
+        },
+        {
+          "path": "fj13poker/spine/start_vs.atlas",
+          "size": 470,
+          "fileName": "start_vs.atlas"
+        },
+        {
+          "path": "fj13poker/spine/start_vs.json",
+          "size": 6864,
+          "fileName": "start_vs.json"
+        },
+        {
+          "path": "fj13poker/spine/start_vs.png",
+          "size": 539111,
+          "fileName": "start_vs.png"
+        }
+      ]
+    },
+    "fj13poker/spine/cardtype": {
+      "resourceCount": 37,
+      "totalSize": 14172792,
+      "resources": [
+        {
+          "path": "fj13poker/spine/cardtype/ldb_wdst.atlas",
+          "size": 766,
+          "fileName": "ldb_wdst.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ldb_wdst.json",
+          "size": 10234,
+          "fileName": "ldb_wdst.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ldb_wdst.png",
+          "size": 285553,
+          "fileName": "ldb_wdst.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/quan_lei_da.atlas",
+          "size": 2906,
+          "fileName": "quan_lei_da.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/quan_lei_da.json",
+          "size": 3911,
+          "fileName": "quan_lei_da.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/quan_lei_da.png",
+          "size": 922347,
+          "fileName": "quan_lei_da.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sftx.atlas",
+          "size": 838,
+          "fileName": "sftx.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sftx.json",
+          "size": 6702,
+          "fileName": "sftx.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sftx.png",
+          "size": 263401,
+          "fileName": "sftx.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_bafanglaicai.atlas",
+          "size": 1584,
+          "fileName": "sss_bafanglaicai.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_bafanglaicai.json",
+          "size": 74153,
+          "fileName": "sss_bafanglaicai.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_bafanglaicai.png",
+          "size": 2253468,
+          "fileName": "sss_bafanglaicai.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_llds.atlas",
+          "size": 1156,
+          "fileName": "sss_llds.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_llds.json",
+          "size": 43915,
+          "fileName": "sss_llds.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_llds.png",
+          "size": 1073584,
+          "fileName": "sss_llds.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_qxgz.atlas",
+          "size": 1441,
+          "fileName": "sss_qxgz.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_qxgz.json",
+          "size": 76720,
+          "fileName": "sss_qxgz.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sss_qxgz.png",
+          "size": 1792756,
+          "fileName": "sss_qxgz.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ssz_sths_effect.atlas",
+          "size": 94,
+          "fileName": "ssz_sths_effect.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ssz_sths_effect.json",
+          "size": 78759,
+          "fileName": "ssz_sths_effect.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ssz_sths_effect.png",
+          "size": 26873,
+          "fileName": "ssz_sths_effect.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sth.atlas",
+          "size": 8091,
+          "fileName": "sth.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sth.json",
+          "size": 2971,
+          "fileName": "sth.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sth.png",
+          "size": 2863279,
+          "fileName": "sth.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/sth_2.png",
+          "size": 523937,
+          "fileName": "sth_2.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/stst.atlas",
+          "size": 1633,
+          "fileName": "stst.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/stst.json",
+          "size": 7884,
+          "fileName": "stst.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/stst.png",
+          "size": 1318110,
+          "fileName": "stst.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ty_background_01.atlas",
+          "size": 163,
+          "fileName": "ty_background_01.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ty_background_01.json",
+          "size": 812,
+          "fileName": "ty_background_01.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ty_background_01.png",
+          "size": 177646,
+          "fileName": "ty_background_01.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ty_background_02.atlas",
+          "size": 106,
+          "fileName": "ty_background_02.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ty_background_02.json",
+          "size": 591,
+          "fileName": "ty_background_02.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/ty_background_02.png",
+          "size": 27733,
+          "fileName": "ty_background_02.png"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/zzql_ytl.atlas",
+          "size": 2933,
+          "fileName": "zzql_ytl.atlas"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/zzql_ytl.json",
+          "size": 207332,
+          "fileName": "zzql_ytl.json"
+        },
+        {
+          "path": "fj13poker/spine/cardtype/zzql_ytl.png",
+          "size": 2108410,
+          "fileName": "zzql_ytl.png"
+        }
+      ]
+    },
+    "root": {
+      "resourceCount": 1,
+      "totalSize": 40162,
+      "resources": [
+        {
+          "path": "manifest.json",
+          "size": 40162,
+          "fileName": "manifest.json"
+        }
+      ]
+    }
+  },
+  "fileStatistics": {
+    "totalSize": 18300178,
+    "averageSize": 68284
+  }
+}

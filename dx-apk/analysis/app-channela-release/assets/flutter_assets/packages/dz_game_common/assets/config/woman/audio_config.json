@@ -1,0 +1,494 @@
+{
+  "sort_audio_1": {
+    "text": "打得不错",
+    "en": "Nice hand!",
+    "vi": "Đánh hay đấy.",
+    "path": "1_woman_good_play.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_1",
+    "useGradientStyle": false
+  },
+  "sort_audio_2": {
+    "text": "祝您好运",
+    "en": "Good luck!",
+    "vi": "Chúc bạn may mắn!",
+    "path": "7_woman_all_in.mp3",
+    "time": 5.0,
+    "key": "chat_sort_audio_2",
+    "useGradientStyle": false
+  },
+  "sort_audio_3": {
+    "text": "明智的弃牌",
+    "en": "Smart fold.",
+    "vi": "Fold rất sáng suốt.",
+    "path": "3_woman_good_fold.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_3",
+    "useGradientStyle": false
+  },
+  "sort_audio_4": {
+    "text": "这牌发的..",
+    "en": "What a hand!",
+    "vi": "Bài này chia ghê thật.",
+    "path": "10_woman_wet_board.mp3",
+    "time": 2.0,
+    "key": "chat_sort_audio_4",
+    "useGradientStyle": false
+  },
+  "sort_audio_5": {
+    "text": "运气真好",
+    "en": "So lucky!",
+    "vi": "Hên ghê vậy.",
+    "path": "12_woman_get_lucky.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_5",
+    "useGradientStyle": false
+  },
+  "sort_audio_6": {
+    "text": "运气太差..",
+    "en": "So unlucky.",
+    "vi": "Xui quá trời.",
+    "path": "13_woman_unlucky.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_6",
+    "useGradientStyle": false
+  },
+  "sort_audio_7": {
+    "text": "有点慌!",
+    "en": "I'm a bit nervous.",
+    "vi": "Hơi run rồi.",
+    "path": "50_woman_afraid_of_calling.mp3",
+    "time": 5.0,
+    "key": "chat_sort_audio_7",
+    "useGradientStyle": false
+  },
+  "sort_audio_8": {
+    "text": "谢谢老板!",
+    "en": "Thanks, Boss!",
+    "vi": "Cảm ơn đại ca.",
+    "path": "51_woman_thanks_boss.mp3",
+    "time": 4.0,
+    "key": "chat_sort_audio_8",
+    "useGradientStyle": false
+  },
+  "sort_audio_9": {
+    "text": "这牌太套了",
+    "en": "This hand is such a trap.",
+    "vi": "Bài này bị kẹt Pot rồi!",
+    "path": "15_woman_cooler.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_9",
+    "useGradientStyle": false
+  },
+  "sort_audio_10": {
+    "text": "抓紧时间!",
+    "en": "Hurry up!",
+    "vi": "Nhanh lên nào.",
+    "path": "37_woman_hurry_up.mp3",
+    "time": 5.0,
+    "key": "chat_sort_audio_10",
+    "useGradientStyle": false
+  },
+  "sort_audio_11": {
+    "text": "我想看牌..",
+    "en": "I wanna see your cards.",
+    "vi": "Tôi muốn xem bài.",
+    "path": "36_woman_show_card_please.mp3",
+    "time": 6.0,
+    "key": "chat_sort_audio_11",
+    "useGradientStyle": false
+  },
+  "sort_audio_12": {
+    "text": "看不懂",
+    "en": "I can't read this hand.",
+    "vi": "Không hiểu gì luôn.",
+    "path": "29_woman_confused.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_12",
+    "useGradientStyle": false
+  },
+  "sort_audio_13": {
+    "text": "我Nuts了!",
+    "en": "I've got the nuts.",
+    "vi": "Tôi đang nuts rồi.",
+    "path": "17_woman_big_hand.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_13",
+    "useGradientStyle": false
+  },
+  "sort_audio_14": {
+    "text": "来单挑!",
+    "en": "Let's go heads-up.",
+    "vi": "Vào solo nào.",
+    "path": "20_woman_one_on_one.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_14",
+    "useGradientStyle": false
+  },
+  "sort_audio_15": {
+    "text": "别偷鸡了",
+    "en": "Stop trying to steal the pot.",
+    "vi": "Đừng có cướp pot nữa.",
+    "path": "22_woman_do_not_bluff.mp3",
+    "time": 6.0,
+    "key": "chat_sort_audio_15",
+    "useGradientStyle": false
+  },
+  "sort_audio_16": {
+    "text": "我很诚实的",
+    "en": "I'm being totally honest.",
+    "vi": "Tôi rất trung thực",
+    "path": "28_woman_honest.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_16",
+    "useGradientStyle": false
+  },
+  "sort_audio_17": {
+    "text": "打那么重?",
+    "en": "That's a heavy bet.",
+    "vi": "Đánh mạnh thế.",
+    "path": "40_woman_bet_to_much.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_17",
+    "useGradientStyle": false
+  },
+  "sort_audio_18": {
+    "text": "一条大鱼!",
+    "en": "We've got a big fish.",
+    "vi": "Tôi thật thà lắm mà.",
+    "path": "55_woman_big_fish.mp3",
+    "time": 5.0,
+    "key": "chat_sort_audio_18",
+    "useGradientStyle": false
+  },
+  "sort_audio_19": {
+    "text": "我太难了..",
+    "en": "Man, this is rough.",
+    "vi": "Tôi khổ lắm…",
+    "path": "31_woman_so_difficult.mp3",
+    "time": 4.0,
+    "key": "chat_sort_audio_19",
+    "useGradientStyle": false
+  },
+  "sort_audio_27": {
+    "text": "请支付",
+    "en": "Please pay up.",
+    "vi": "Vui lòng thanh toán.",
+    "path": "48_woman_pay_me_please.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_27",
+    "useGradientStyle": false
+  },
+  "sort_audio_21": {
+    "text": "送你啦!",
+    "en": "It's all yours.",
+    "vi": "Tặng bạn hết đó.",
+    "path": "52_woman_take_it.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_21",
+    "useGradientStyle": false
+  },
+  "sort_audio_22": {
+    "text": "别送啦!",
+    "en": "Stop donating chips.",
+    "vi": "Biếu luôn!",
+    "path": "54_woman_do_not_feed.mp3",
+    "time": 6.0,
+    "key": "chat_sort_audio_22",
+    "useGradientStyle": false
+  },
+  "sort_audio_23": {
+    "text": "快弃掉吧!",
+    "en": "Just fold already.",
+    "vi": "Fold nhanh đi.",
+    "path": "44_woman_fold_please.mp3",
+    "time": 5.0,
+    "key": "chat_sort_audio_23",
+    "useGradientStyle": false
+  },
+  "sort_audio_24": {
+    "text": "这牌弃不掉",
+    "en": "I can't fold this hand.",
+    "vi": "Bài này sao bỏ nổi.",
+    "path": "16_woman_pot_commit.mp3",
+    "time": 7.0,
+    "key": "chat_sort_audio_24",
+    "useGradientStyle": false
+  },
+  "sort_audio_25": {
+    "text": "要出大事..",
+    "en": "Something big's coming.",
+    "vi": "Sắp có biến lớn rồi..",
+    "path": "11_woman_wet_board_many_players.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_25",
+    "useGradientStyle": false
+  },
+  "sort_audio_26": {
+    "text": "居然弃了?",
+    "en": "You actually folded.",
+    "vi": "Không ngờ lại fold luôn.",
+    "path": "25_woman_unexpectedly_fold.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_26",
+    "useGradientStyle": false
+  },
+  "sort_audio_20": {
+    "text": "太阴险了",
+    "en": "That's so sneaky.",
+    "vi": "Thâm độc quá.",
+    "path": "26_woman_trap.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_20",
+    "useGradientStyle": false
+  },
+  "sort_audio_28": {
+    "text": "买牌的",
+    "en": "I'm chasing a draw.",
+    "vi": "Dân mua bài.",
+    "path": "19_woman_drawing.mp3",
+    "time": 7.0,
+    "key": "chat_sort_audio_28",
+    "useGradientStyle": false
+  },
+  "sort_audio_58": {
+    "text": "专业弃牌30年!",
+    "en": "I've been a professional folder for thirty years.",
+    "vi": "Chuyên gia bỏ bài 30 năm.",
+    "path": "58_woman_folding_for_30_years.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_58",
+    "useGradientStyle": false
+  },
+  "sort_audio_59": {
+    "text": "哎呀～裤衩子都输没了!",
+    "en": "Man, I've lost even my underwear.",
+    "vi": "Ây da~ thua sạch cả quần lót rồi.",
+    "path": "59_woman_lost_even_my_shorts.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_59",
+    "useGradientStyle": false
+  },
+  "sort_audio_60": {
+    "text": "哟，这位兄台家里有矿啊?",
+    "en": "Whoa, you must own a gold mine back home.",
+    "vi": "Ôi, anh trai này chắc nhà giàu lắm ha.",
+    "path": "60_woman_family_owns_a_mine.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_60",
+    "useGradientStyle": false
+  },
+  "sort_audio_61": {
+    "text": "嘿嘿，全靠演技～",
+    "en": "Heh, it's all about acting.",
+    "vi": "Hehe, tất cả là diễn thôi~",
+    "path": "61_woman_all_about_acting.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_61",
+    "useGradientStyle": false
+  },
+  "sort_audio_62": {
+    "text": "就问你怕不怕，我这气场，两米八!",
+    "en": "Are you scared? My aura's ten feet tall!",
+    "vi": "Hỏi xem có sợ không, khí chất tôi cao 2m8 nhé!",
+    "path": "62_woman_aura_of_2_point_8_m.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_62",
+    "useGradientStyle": false
+  },
+  "sort_audio_63": {
+    "text": "感谢老铁们送的筹码!",
+    "en": "Thanks guys for the chips.",
+    "vi": "Cảm ơn những người anh em đã tặng chip!",
+    "path": "63_woman_thanks_for_chips.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_63",
+    "useGradientStyle": false
+  },
+  "sort_audio_64": {
+    "text": "咳咳……我刚刚只是在测试你们的读牌能力!",
+    "en": "Ahem... I was just testing your hand-reading skills!",
+    "vi": "Khụ khụ... Tôi vừa nãy chỉ là đang thử khả năng đọc\nbài của các bạn thôi!",
+    "path": "64_woman_testing_your_skills.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_64",
+    "useGradientStyle": false
+  },
+  "sort_audio_65": {
+    "text": "手滑！绝对是手滑!",
+    "en": "Misclick! Totally a misclick.",
+    "vi": "Trượt tay! Thật sự là trượt tay!",
+    "path": "65_woman_slip_of_the_hand.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_65",
+    "useGradientStyle": false
+  },
+  "sort_audio_66": {
+    "text": "承让承让，全靠运气～",
+    "en": "Thanks for letting me win, it's all luck.",
+    "vi": "Nhường rồi nhường rồi, tất cả là nhờ may mắn thôi!",
+    "path": "66_woman_just_lucky.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_66",
+    "useGradientStyle": false
+  },
+  "sort_audio_67": {
+    "text": "欢乐时光总是短暂滴～再来亿局!",
+    "en": "Good times are always short—let's play another\nbillion hands.",
+    "vi": "Thời gian vui vẻ luôn ngắn ngủi, làm thêm ván nữa\nnào!",
+    "path": "67_woman_happy_but_short_lived.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_67",
+    "useGradientStyle": false
+  },
+  "sort_audio_68": {
+    "text": "跟了！小跟怡情，大跟……再说!",
+    "en": "Call! A small call's just for fun; big ones... we'll see.",
+    "vi": "Call! Theo nhẹ cho vui, theo mạnh… tính sau.",
+    "path": "68_woman_small_call_just_for_fun.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_68",
+    "useGradientStyle": false
+  },
+  "sort_audio_69": {
+    "text": "这把不All-In，人生不完整！冲鸭!",
+    "en": "If we don't go all in this hand, life just isn't\ncomplete. Let's go!",
+    "vi": "Ván này không All-In thì phí cả cuộc đời! Tất tay\nthôi!",
+    "path": "69_woman_no_all_in_no_life.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_69",
+    "useGradientStyle": false
+  },
+  "sort_audio_70": {
+    "text": "我要验牌",
+    "en": "I want to see your cards.",
+    "vi": "Tôi muốn xem bài của anh.",
+    "path": "70_woman_see_your_cards.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_70",
+    "useGradientStyle": true
+  },
+  "sort_audio_71": {
+    "text": "我长这么大没见过这么嚣张的人",
+    "en": "All my life, I've never seen someone this cocky.",
+    "vi": "Từ trước đến giờ, tôi chưa thấy ai ngạo mạn như\nanh.",
+    "path": "71_woman_never_seen.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_71",
+    "useGradientStyle": true
+  },
+  "sort_audio_72": {
+    "text": "唉..今天你就见到了",
+    "en": "Well… now you've met one.",
+    "vi": "Haiz… hôm nay anh gặp rồi đó.",
+    "path": "72_woman_met_one.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_72",
+    "useGradientStyle": true
+  },
+  "sort_audio_73": {
+    "text": "尼玛，裂开裂开",
+    "path": "73_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_73",
+    "useGradientStyle": true
+  },
+  "sort_audio_74": {
+    "text": "吃粑粑了，狗屎运这么好？",
+    "path": "74_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_74",
+    "useGradientStyle": true
+  },
+  "sort_audio_75": {
+    "text": "不需要技术，狗屎运就能把你们干废",
+    "path": "75_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_75",
+    "useGradientStyle": true
+  },
+  "sort_audio_76": {
+    "text": "这牌保真吗?",
+    "path": "76_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_76",
+    "useGradientStyle": true
+  },
+  "sort_audio_77": {
+    "text": "你跟注啊",
+    "path": "77_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_77",
+    "useGradientStyle": true
+  },
+  "sort_audio_78": {
+    "text": "给我擦皮鞋",
+    "path": "78_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_78",
+    "useGradientStyle": true
+  },
+  "sort_audio_79": {
+    "text": "原来是小瘪三",
+    "path": "79_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_79",
+    "useGradientStyle": true
+  },
+  "sort_audio_80": {
+    "text": "同花打不打得过fullhouse",
+    "path": "80_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_80",
+    "useGradientStyle": true
+  },
+  "sort_audio_81": {
+    "text": "那除非你老爸变成了兔子",
+    "path": "81_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_81",
+    "useGradientStyle": true
+  },
+  "sort_audio_82": {
+    "text": "牌没有问题",
+    "path": "82_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_82",
+    "useGradientStyle": true
+  },
+  "sort_audio_83": {
+    "text": "拿AK不赌是棒槌啊",
+    "path": "83_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_83",
+    "useGradientStyle": true
+  },
+  "sort_audio_84": {
+    "text": "你在教我做事啊？",
+    "path": "84_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_84",
+    "useGradientStyle": true
+  },
+  "sort_audio_85": {
+    "text": "还有谁？！",
+    "path": "85_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_85",
+    "useGradientStyle": true
+  },
+  "sort_audio_86": {
+    "text": "年轻人不讲武德，来骗，来偷袭",
+    "path": "86_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_86",
+    "useGradientStyle": true
+  },
+  "sort_audio_87": {
+    "text": "真香！",
+    "path": "87_woman.mp3",
+    "time": 3.0,
+    "key": "chat_sort_audio_86",
+    "useGradientStyle": true
+  }
+}

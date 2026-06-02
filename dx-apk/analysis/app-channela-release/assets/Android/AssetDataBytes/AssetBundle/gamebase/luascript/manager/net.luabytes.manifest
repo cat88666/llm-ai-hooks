@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 528614461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92deab113d0527b5e5cd07cf68437db5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 92deab113d0527b5e5cd07cf68437db5
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/manager/net/websocket_manager.txt
+- Assets/Temp/gamebase/luascript/manager/net/download_manager.txt
+- Assets/Temp/gamebase/luascript/manager/net/google_storage_manager.txt
+- Assets/Temp/gamebase/luascript/manager/net/http_manager.txt
+Dependencies: []

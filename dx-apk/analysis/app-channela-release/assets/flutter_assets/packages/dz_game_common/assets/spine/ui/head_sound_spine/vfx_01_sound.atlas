@@ -1,0 +1,13 @@
+vfx_01_sound.png
+size:40,24
+filter:Linear,Linear
+pma:true
+VFX_05/01
+bounds:28,3,7,10
+rotate:90
+VFX_05/02
+bounds:2,2,8,24
+rotate:90
+VFX_05/03
+bounds:2,12,10,36
+rotate:90

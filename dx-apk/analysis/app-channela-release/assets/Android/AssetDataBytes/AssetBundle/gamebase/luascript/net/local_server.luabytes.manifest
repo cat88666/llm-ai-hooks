@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1513055189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aecfc189f426b9e9d4a045ebdc938fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1aecfc189f426b9e9d4a045ebdc938fc
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/net/local_server/mj_server_player.txt
+Dependencies: []

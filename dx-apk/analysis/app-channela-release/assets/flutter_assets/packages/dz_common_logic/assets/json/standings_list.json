@@ -1,0 +1,79 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "profit": "-66666",
+    "pageSize": 1,
+    "pageNum": 1,
+    "totalRecord": 1,
+    "totalPage": 1,
+    "records": [
+      {
+        "tableId": 5149,
+        "tableName": "张三的牌局",
+        "day": "5月25日",
+        "startTime": "22:33",
+        "nelAmount": "+5000",
+        "avatar": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg",
+        "tabTime": 1,
+        "smallBlind": 100,
+        "bigBlind": 200
+      },
+      {
+        "tableId": 5100,
+        "tableName": "李四的牌局",
+        "day": "5月25日",
+        "startTime": "22:33",
+        "nelAmount": "-3000",
+        "avatar": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg",
+        "tabTime": 1,
+        "smallBlind": 100,
+        "bigBlind": 200
+      },
+      {
+        "tableId": 5101,
+        "tableName": "王五的牌局",
+        "day": "5月26日",
+        "startTime": "22:33",
+        "nelAmount": "+8000",
+        "avatar": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg",
+        "tabTime": 1,
+        "smallBlind": 100,
+        "bigBlind": 200
+      },
+      {
+        "tableId": 5102,
+        "tableName": "张三的牌局",
+        "day": "5月26日",
+        "startTime": "22:33",
+        "nelAmount": "+2000",
+        "avatar": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg",
+        "tabTime": 1,
+        "smallBlind": 100,
+        "bigBlind": 200
+      },
+      {
+        "tableId": 5103,
+        "tableName": "张三的牌局",
+        "day": "5月26日",
+        "startTime": "22:33",
+        "nelAmount": "-50000",
+        "avatar": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg",
+        "tabTime": 1,
+        "smallBlind": 100,
+        "bigBlind": 200
+      },
+      {
+        "tableId": 5104,
+        "tableName": "张三的牌局",
+        "day": "5月27日",
+        "startTime": "22:33",
+        "nelAmount": "-50000",
+        "avatar": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211156650833.jpg",
+        "tabTime": 1,
+        "smallBlind": 100,
+        "bigBlind": 200
+      }
+    ]
+  }
+}

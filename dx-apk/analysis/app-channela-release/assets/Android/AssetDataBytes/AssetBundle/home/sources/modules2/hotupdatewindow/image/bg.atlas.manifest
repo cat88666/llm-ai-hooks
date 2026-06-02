@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3076003816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea71c005ed4e5f2691c389cb581c269e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ea71c005ed4e5f2691c389cb581c269e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/Bg/bg.spriteatlas
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/Bg/img_hotupdatewindow2_bg.jpg
+Dependencies: []

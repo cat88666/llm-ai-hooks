@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1061882440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac95e5225ea36169d87c8cfd6559c2b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ac95e5225ea36169d87c8cfd6559c2b6
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Temp/gamebase/luascript/manager/animation/animation_type.txt
+- Assets/Temp/gamebase/luascript/manager/animation/animation_manager.txt
+- Assets/Temp/gamebase/luascript/manager/animation/spine_animation.txt
+- Assets/Temp/gamebase/luascript/manager/animation/animation_state.txt
+- Assets/Temp/gamebase/luascript/manager/animation/animation_base.txt
+- Assets/Temp/gamebase/luascript/manager/animation/animation_event_type.txt
+- Assets/Temp/gamebase/luascript/manager/animation/dotween_animation.txt
+Dependencies: []

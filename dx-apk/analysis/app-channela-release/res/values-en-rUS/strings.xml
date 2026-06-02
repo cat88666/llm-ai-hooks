@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xupdate_lab_install">升级</string>
+    <string name="xupdate_lab_new_version_size">New version size:</string>
+</resources>

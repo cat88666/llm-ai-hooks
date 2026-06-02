@@ -1,0 +1,38 @@
+.class public final Lio/sentry/UserFeedback$JsonKeys;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lio/sentry/UserFeedback;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "JsonKeys"
+.end annotation
+
+
+# static fields
+.field public static final COMMENTS:Ljava/lang/String; = "comments"
+
+.field public static final EMAIL:Ljava/lang/String; = "email"
+
+.field public static final EVENT_ID:Ljava/lang/String; = "event_id"
+
+.field public static final NAME:Ljava/lang/String; = "name"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 2
+    .line 3
+    .line 4
+    return-void
+.end method

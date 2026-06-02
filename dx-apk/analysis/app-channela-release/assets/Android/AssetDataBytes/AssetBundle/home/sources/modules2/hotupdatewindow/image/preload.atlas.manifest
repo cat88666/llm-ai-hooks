@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2398671546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e015cd3bbcd3b8b2c87c0a285217690c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e015cd3bbcd3b8b2c87c0a285217690c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/preload/img_hotupdatewindow2_preloading.jpg
+- Assets/3DGame/home/Sources/Modules2/HotUpdateWindow/Image/preload/preload.spriteatlas
+Dependencies: []
