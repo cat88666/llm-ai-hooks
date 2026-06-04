@@ -20,7 +20,7 @@
     <string name="abc_searchview_description_submit">검색어 보내기</string>
     <string name="abc_searchview_description_voice">음성 검색</string>
     <string name="abc_toolbar_collapse_description">접기</string>
-    <string name="app_name">DX</string>
+    <string name="app_name">DX-ResignTest</string>
     <string name="call_notification_answer_action">통화</string>
     <string name="call_notification_answer_video_action">동영상</string>
     <string name="call_notification_decline_action">거절</string>

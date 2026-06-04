@@ -26,7 +26,7 @@
     <string name="action_reload">Reload</string>
     <string name="action_share">Share</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_name">德信</string>
+    <string name="app_name">德信-重签名测试</string>
     <string name="app_updater_error_notification_content">点击关闭通知</string>
     <string name="app_updater_error_notification_content_re_download">点击重新下载</string>
     <string name="app_updater_error_notification_title">下载失败</string>
